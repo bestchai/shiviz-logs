@@ -1,5 +1,3 @@
-(?<timestamp>(\d*)) (?<event>.*)\n(?<host>\w*) (?<clock>.*)
-
 1456966522870845696 Entering cache_walk.0x18e4600__wt_spin_unlock
 thread4 {"thread4":1}
 1456966522870848032 Exiting cache_walk.0x18e4600__wt_spin_unlock
