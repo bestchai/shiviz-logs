@@ -1277,6 +1277,18 @@ main {"main":590}
 main {"main":591}  
 [2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Starting voldemort socket server (socket-server) on port 64186
 main-thread1 {"main-thread1":1}  
+[2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Send data msg
+main-thread1 {"main-thread1":2}  
+[2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Receive data msg
+main-thread2 {"main-thread1":2,"main-thread2":2}  
+[2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Receive data msg
+main-thread3 {"main-thread1":2,"main-thread3":2} 
+[2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Send reply msg
+main-thread2 {"main-thread1":2,"main-thread2":3}  
+[2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Send reply msg
+main-thread3 {"main-thread1":2,"main-thread3":3}  
+[2013-05-24 23:28:03,130 voldemort.server.socket.SocketServer[socket-server]] INFO Receive reply msg(s)
+main-thread1 {"main-thread1":3,"main-thread3":3,"main-thread2":3}  
 [2013-05-24 23:28:03,131 voldemort.server.VoldemortService] INFO Starting rebalance-service
 main {"main":592}  
 [2013-05-24 23:28:03,131 voldemort.server.VoldemortService] INFO Starting socket-service
