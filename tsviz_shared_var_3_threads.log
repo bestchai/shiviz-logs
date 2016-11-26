@@ -1,5 +1,3 @@
-(?<timestamp>(\d*)) (?<event>.*)\n(?<host>\w*) (?<clock>.*)
-
 256824314877178 Read 6 from __wt_connection_impl.evict_session of type i32* (ptr=7fef5080bb5c)
 thread3 {"thread3":1}
 256824314877398 Read 6 from __wt_connection_impl.evict_session of type i32* (ptr=7fef5080bb5c)
