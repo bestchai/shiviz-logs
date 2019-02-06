@@ -1,0 +1,3478 @@
+Miner2 {"Miner2":1}
+Initialization Complete
+Miner2 {"Miner2":2}
+INFO-Initializing FDLib...
+Miner2 {"Miner2":3}
+INFO-Asking peers to broadcast their top block.
+Miner2 {"Miner2":4}
+INFO-Now listening for incoming RPCs at 127.0.0.1:5050
+Miner2 {"Miner2":5}
+INFO-Checking for peers failures using RPC.
+Miner2 {"Miner2":6}
+Requesting broadcast of top block
+Miner2 {"Miner2":7, "Miner1":66}
+Receiving Block
+Miner2 {"Miner2":8, "Miner1":66}
+INFO-Received block: 31852dbf79e8f1d0b4e8ec0ff6e00000
+Miner2 {"Miner2":9, "Miner1":66}
+INFO-Local miner asked for block with hash cca08c00a53794c0eaa9623532131000: asking peers to broadcast it.
+Miner2 {"Miner2":10, "Miner1":66}
+Requesting block with hash cca08c00a53794c0eaa9623532131000
+Miner2 {"Miner2":11, "Miner1":72}
+Receiving Block
+Miner2 {"Miner2":12, "Miner1":72}
+INFO-Received block: cca08c00a53794c0eaa9623532131000
+Miner2 {"Miner2":13, "Miner1":72}
+INFO-Local miner asked for block with hash a027771ae673af5f2f54bc1869380000: asking peers to broadcast it.
+Miner2 {"Miner2":14, "Miner1":72}
+Requesting block with hash a027771ae673af5f2f54bc1869380000
+Miner2 {"Miner2":15, "Miner1":78}
+Receiving Block
+Miner2 {"Miner2":16, "Miner1":78}
+INFO-Received block: a027771ae673af5f2f54bc1869380000
+Miner2 {"Miner2":17, "Miner1":78}
+INFO-Local miner asked for block with hash 2e05780f5628045ab214b3e4262ef000: asking peers to broadcast it.
+Miner2 {"Miner2":18, "Miner1":78}
+Requesting block with hash 2e05780f5628045ab214b3e4262ef000
+Miner2 {"Miner2":19, "Miner1":84}
+Receiving Block
+Miner2 {"Miner2":20, "Miner1":84}
+INFO-Received block: 2e05780f5628045ab214b3e4262ef000
+Miner2 {"Miner2":21, "Miner1":84}
+INFO-Local miner asked for block with hash aab85d7888be4d929fb5a8828fc15000: asking peers to broadcast it.
+Miner2 {"Miner2":22, "Miner1":84}
+Requesting block with hash aab85d7888be4d929fb5a8828fc15000
+Miner2 {"Miner2":23, "Miner1":90}
+Receiving Block
+Miner2 {"Miner2":24, "Miner1":90}
+INFO-Received block: aab85d7888be4d929fb5a8828fc15000
+Miner2 {"Miner2":25, "Miner1":90}
+INFO-Local miner asked for block with hash 8b68331e7025bcf0599e9861fc4b1000: asking peers to broadcast it.
+Miner2 {"Miner2":26, "Miner1":90}
+Requesting block with hash 8b68331e7025bcf0599e9861fc4b1000
+Miner2 {"Miner2":27, "Miner1":96}
+Receiving Block
+Miner2 {"Miner2":28, "Miner1":96}
+INFO-Received block: 8b68331e7025bcf0599e9861fc4b1000
+Miner2 {"Miner2":29, "Miner1":96}
+INFO-Local miner asked for block with hash 85516bf6c3b89d313981c7c1e90c4000: asking peers to broadcast it.
+Miner2 {"Miner2":30, "Miner1":96}
+Requesting block with hash 85516bf6c3b89d313981c7c1e90c4000
+Miner2 {"Miner2":31, "Miner1":102}
+Receiving Block
+Miner2 {"Miner2":32, "Miner1":102}
+INFO-Received block: 85516bf6c3b89d313981c7c1e90c4000
+Miner2 {"Miner2":33, "Miner1":102}
+INFO-Local miner asked for block with hash 4ce0af7c16ff14c76cb4b60c974fd000: asking peers to broadcast it.
+Miner2 {"Miner2":34, "Miner1":102}
+Requesting block with hash 4ce0af7c16ff14c76cb4b60c974fd000
+Miner2 {"Miner1":108, "Miner2":35}
+Receiving Block
+Miner2 {"Miner2":36, "Miner1":108}
+INFO-Received block: 4ce0af7c16ff14c76cb4b60c974fd000
+Miner2 {"Miner2":37, "Miner1":108}
+INFO-Local miner asked for block with hash b80e7c6bf7bd8403760968f026c83000: asking peers to broadcast it.
+Miner2 {"Miner2":38, "Miner1":108}
+Requesting block with hash b80e7c6bf7bd8403760968f026c83000
+Miner2 {"Miner2":39, "Miner1":114}
+Receiving Block
+Miner2 {"Miner1":114, "Miner2":40}
+INFO-Received block: b80e7c6bf7bd8403760968f026c83000
+Miner2 {"Miner2":41, "Miner1":114}
+INFO-Local miner asked for block with hash 70e8da9f032caa582260b7b4dfec3000: asking peers to broadcast it.
+Miner2 {"Miner2":42, "Miner1":114}
+Requesting block with hash 70e8da9f032caa582260b7b4dfec3000
+Miner2 {"Miner2":43, "Miner1":120}
+Receiving Block
+Miner2 {"Miner1":120, "Miner2":44}
+INFO-Received block: 70e8da9f032caa582260b7b4dfec3000
+Miner2 {"Miner2":45, "Miner1":120}
+INFO-Local miner asked for block with hash 4a0d82be506e0d0577cc355d7c66e000: asking peers to broadcast it.
+Miner2 {"Miner2":46, "Miner1":120}
+Requesting block with hash 4a0d82be506e0d0577cc355d7c66e000
+Miner2 {"Miner2":47, "Miner1":126}
+Receiving Block
+Miner2 {"Miner2":48, "Miner1":126}
+INFO-Received block: 4a0d82be506e0d0577cc355d7c66e000
+Miner2 {"Miner2":49, "Miner1":126}
+INFO-Accept new block: 4a0d82be506e0d0577cc355d7c66e000 height: 1
+Miner2 {"Miner2":50, "Miner1":126}
+INFO-Switch top block: 4a0d82be506e0d0577cc355d7c66e000 height: 1 coins: 0
+Miner2 {"Miner2":51, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":52, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":126, "Miner2":53}
+Broadcasting Block
+Miner2 {"Miner2":54, "Miner1":126}
+INFO-Accept new block: 70e8da9f032caa582260b7b4dfec3000 height: 2
+Miner2 {"Miner2":55, "Miner1":126}
+INFO-Switch top block: 70e8da9f032caa582260b7b4dfec3000 height: 2 coins: 0
+Miner2 {"Miner2":56, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":57, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":58, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":59, "Miner1":126}
+INFO-Accept new block: b80e7c6bf7bd8403760968f026c83000 height: 3
+Miner2 {"Miner2":60, "Miner1":126}
+INFO-Switch top block: b80e7c6bf7bd8403760968f026c83000 height: 3 coins: 0
+Miner2 {"Miner2":61, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":126, "Miner2":62}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":63, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":64, "Miner1":126}
+INFO-Accept new block: 4ce0af7c16ff14c76cb4b60c974fd000 height: 4
+Miner2 {"Miner2":65, "Miner1":126}
+INFO-Switch top block: 4ce0af7c16ff14c76cb4b60c974fd000 height: 4 coins: 0
+Miner2 {"Miner2":66, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":126, "Miner2":67}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":68, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":69, "Miner1":126}
+INFO-Accept new block: 85516bf6c3b89d313981c7c1e90c4000 height: 5
+Miner2 {"Miner1":126, "Miner2":70}
+INFO-Switch top block: 85516bf6c3b89d313981c7c1e90c4000 height: 5 coins: 0
+Miner2 {"Miner2":71, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":72, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":73, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":74, "Miner1":126}
+INFO-Accept new block: 8b68331e7025bcf0599e9861fc4b1000 height: 6
+Miner2 {"Miner2":75, "Miner1":126}
+INFO-Switch top block: 8b68331e7025bcf0599e9861fc4b1000 height: 6 coins: 0
+Miner2 {"Miner2":76, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":126, "Miner2":77}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":78, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":79, "Miner1":126}
+INFO-Accept new block: aab85d7888be4d929fb5a8828fc15000 height: 7
+Miner2 {"Miner2":80, "Miner1":126}
+INFO-Switch top block: aab85d7888be4d929fb5a8828fc15000 height: 7 coins: 0
+Miner2 {"Miner2":81, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":82, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":83, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":84, "Miner1":126}
+INFO-Accept new block: 2e05780f5628045ab214b3e4262ef000 height: 8
+Miner2 {"Miner2":85, "Miner1":126}
+INFO-Switch top block: 2e05780f5628045ab214b3e4262ef000 height: 8 coins: 0
+Miner2 {"Miner2":86, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":87, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":88, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":89, "Miner1":126}
+INFO-Accept new block: a027771ae673af5f2f54bc1869380000 height: 9
+Miner2 {"Miner2":90, "Miner1":126}
+INFO-Switch top block: a027771ae673af5f2f54bc1869380000 height: 9 coins: 0
+Miner2 {"Miner2":91, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":92, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":93, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner2":94, "Miner1":126}
+INFO-Accept new block: cca08c00a53794c0eaa9623532131000 height: 10
+Miner2 {"Miner2":95, "Miner1":126}
+INFO-Switch top block: cca08c00a53794c0eaa9623532131000 height: 10 coins: 0
+Miner2 {"Miner2":96, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":97, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":98, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner1":126, "Miner2":99}
+INFO-Accept new block: 31852dbf79e8f1d0b4e8ec0ff6e00000 height: 11
+Miner2 {"Miner2":100, "Miner1":126}
+INFO-Switch top block: 31852dbf79e8f1d0b4e8ec0ff6e00000 height: 11 coins: 0
+Miner2 {"Miner2":101, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":102, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":126, "Miner2":103}
+Broadcasting Block
+Miner2 {"Miner2":104, "Miner1":126}
+INFO-Accept new block: 43a8575ab57d1abf4f3f40f601f52000 height: 12
+Miner2 {"Miner1":126, "Miner2":105}
+INFO-Switch top block: 43a8575ab57d1abf4f3f40f601f52000 height: 12 coins: 4
+Miner2 {"Miner2":106, "Miner1":126}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":107, "Miner1":126}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":108, "Miner1":126}
+Broadcasting Block
+Miner2 {"Miner1":155, "Miner2":109}
+Receiving Block
+Miner2 {"Miner2":110, "Miner1":155}
+INFO-Received block: 43a8575ab57d1abf4f3f40f601f52000
+Miner2 {"Miner2":111, "Miner1":155}
+INFO-Accept new block: 7a8e57e27a729d405f0b7d2e842a6000 height: 13
+Miner2 {"Miner1":155, "Miner2":112}
+INFO-Switch top block: 7a8e57e27a729d405f0b7d2e842a6000 height: 13 coins: 8
+Miner2 {"Miner2":113, "Miner1":155}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":114, "Miner1":155}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":115, "Miner1":155}
+Broadcasting Block
+Miner2 {"Miner2":116, "Miner1":162}
+Receiving Block
+Miner2 {"Miner1":162, "Miner2":117}
+INFO-Received block: 7a8e57e27a729d405f0b7d2e842a6000
+Miner2 {"Miner2":118, "Miner1":167}
+Receiving Block
+Miner2 {"Miner2":119, "Miner1":167}
+INFO-Received block: 74199822f6598847ef7e7a157076f000
+Miner2 {"Miner1":167, "Miner2":120}
+INFO-Accept new block: 74199822f6598847ef7e7a157076f000 height: 14
+Miner2 {"Miner1":167, "Miner2":121}
+INFO-Switch top block: 74199822f6598847ef7e7a157076f000 height: 14 coins: 8
+Miner2 {"Miner2":122, "Miner1":167}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":123, "Miner1":167}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":124, "Miner1":167}
+Broadcasting Block
+Miner2 {"Miner2":125, "Miner1":174}
+Receiving Block
+Miner2 {"Miner2":126, "Miner1":174}
+INFO-Received block: 110f0dd4871d77a7b4281b43ec401000
+Miner2 {"Miner1":174, "Miner2":127}
+INFO-Accept new block: 110f0dd4871d77a7b4281b43ec401000 height: 15
+Miner2 {"Miner2":128, "Miner1":174}
+INFO-Switch top block: 110f0dd4871d77a7b4281b43ec401000 height: 15 coins: 8
+Miner2 {"Miner1":174, "Miner2":129}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":130, "Miner1":174}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":131, "Miner1":174}
+Broadcasting Block
+Miner2 {"Miner1":174, "Miner2":132}
+INFO-Accept new block: f28ea64beb358e4a62524d316f41d000 height: 16
+Miner2 {"Miner2":133, "Miner1":174}
+INFO-Switch top block: f28ea64beb358e4a62524d316f41d000 height: 16 coins: 12
+Miner2 {"Miner2":134, "Miner1":174}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":135, "Miner1":174}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":136, "Miner1":174}
+Broadcasting Block
+Miner2 {"Miner2":137, "Miner1":183}
+Receiving Block
+Miner2 {"Miner2":138, "Miner1":183}
+INFO-Received block: f28ea64beb358e4a62524d316f41d000
+Miner2 {"Miner1":188, "Miner2":139}
+Receiving Block
+Miner2 {"Miner2":140, "Miner1":188}
+INFO-Received block: f589f45aba011cdb9e4f515bcf7cc000
+Miner2 {"Miner2":141, "Miner1":188}
+INFO-Accept new block: f589f45aba011cdb9e4f515bcf7cc000 height: 17
+Miner2 {"Miner2":142, "Miner1":188}
+INFO-Switch top block: f589f45aba011cdb9e4f515bcf7cc000 height: 17 coins: 12
+Miner2 {"Miner2":143, "Miner1":188}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":144, "Miner1":188}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":145, "Miner1":188}
+Broadcasting Block
+Miner2 {"Miner2":146, "Miner1":188}
+INFO-Accept new block: 739f2a0dfbc1fb87b662a6387c38a000 height: 18
+Miner2 {"Miner2":147, "Miner1":188}
+INFO-Switch top block: 739f2a0dfbc1fb87b662a6387c38a000 height: 18 coins: 16
+Miner2 {"Miner1":188, "Miner2":148}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":149, "Miner1":188}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":150, "Miner1":188}
+Broadcasting Block
+Miner2 {"Miner2":151, "Miner1":197}
+Receiving Block
+Miner2 {"Miner2":152, "Miner1":197}
+INFO-Received block: 739f2a0dfbc1fb87b662a6387c38a000
+Miner2 {"Miner1":197, "Miner2":153}
+INFO-Accept new block: e2a45bde9d0474fa887f48e14143a000 height: 19
+Miner2 {"Miner2":154, "Miner1":197}
+INFO-Switch top block: e2a45bde9d0474fa887f48e14143a000 height: 19 coins: 20
+Miner2 {"Miner1":197, "Miner2":155}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":156, "Miner1":197}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":157, "Miner1":197}
+Broadcasting Block
+Miner2 {"Miner2":158, "Miner1":204}
+Receiving Block
+Miner2 {"Miner2":159, "Miner1":204}
+INFO-Received block: e2a45bde9d0474fa887f48e14143a000
+Miner2 {"Miner2":160, "Miner1":209}
+Receiving Block
+Miner2 {"Miner2":161, "Miner1":209}
+INFO-Received block: abf7dff65f66deed2ad8ed173c1e5000
+Miner2 {"Miner2":162, "Miner1":209}
+INFO-Accept new block: abf7dff65f66deed2ad8ed173c1e5000 height: 20
+Miner2 {"Miner2":163, "Miner1":209}
+INFO-Switch top block: abf7dff65f66deed2ad8ed173c1e5000 height: 20 coins: 20
+Miner2 {"Miner2":164, "Miner1":209}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":165, "Miner1":209}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":166, "Miner1":209}
+Broadcasting Block
+Miner2 {"Miner1":216, "Miner2":167}
+Receiving Block
+Miner2 {"Miner2":168, "Miner1":216}
+INFO-Received block: cd0b5e938f8f896eed96ff04bfed7000
+Miner2 {"Miner2":169, "Miner1":216}
+INFO-Accept new block: cd0b5e938f8f896eed96ff04bfed7000 height: 21
+Miner2 {"Miner2":170, "Miner1":216}
+INFO-Switch top block: cd0b5e938f8f896eed96ff04bfed7000 height: 21 coins: 20
+Miner2 {"Miner1":216, "Miner2":171}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":172, "Miner1":216}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":216, "Miner2":173}
+Broadcasting Block
+Miner2 {"Miner2":174, "Miner1":216}
+INFO-Accept new block: 0ad0fc535efe292d3776c663e1e65000 height: 22
+Miner2 {"Miner2":175, "Miner1":216}
+INFO-Switch top block: 0ad0fc535efe292d3776c663e1e65000 height: 22 coins: 24
+Miner2 {"Miner2":176, "Miner1":216}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":177, "Miner1":216}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":178, "Miner1":216}
+Broadcasting Block
+Miner2 {"Miner2":179, "Miner1":225}
+Receiving Block
+Miner2 {"Miner2":180, "Miner1":225}
+INFO-Received block: 0ad0fc535efe292d3776c663e1e65000
+Miner2 {"Miner2":181, "Miner1":230}
+Receiving Block
+Miner2 {"Miner2":182, "Miner1":230}
+INFO-Received block: 86be08d4c552e62895549ab64f785000
+Miner2 {"Miner2":183, "Miner1":230}
+INFO-Accept new block: 86be08d4c552e62895549ab64f785000 height: 23
+Miner2 {"Miner2":184, "Miner1":230}
+INFO-Switch top block: 86be08d4c552e62895549ab64f785000 height: 23 coins: 24
+Miner2 {"Miner1":230, "Miner2":185}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":186, "Miner1":230}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":230, "Miner2":187}
+Broadcasting Block
+Miner2 {"Miner1":237, "Miner2":188}
+Receiving Block
+Miner2 {"Miner1":237, "Miner2":189}
+INFO-Received block: 825dea42107d90060f5bdbd61900b000
+Miner2 {"Miner2":190, "Miner1":237}
+INFO-Accept new block: 825dea42107d90060f5bdbd61900b000 height: 24
+Miner2 {"Miner2":191, "Miner1":237}
+INFO-Switch top block: 825dea42107d90060f5bdbd61900b000 height: 24 coins: 24
+Miner2 {"Miner2":192, "Miner1":237}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":193, "Miner1":237}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":194, "Miner1":237}
+Broadcasting Block
+Miner2 {"Miner2":195, "Miner1":237}
+INFO-Accept new block: bb61451ce9066e6c2efac9c57114a000 height: 25
+Miner2 {"Miner1":237, "Miner2":196}
+INFO-Switch top block: bb61451ce9066e6c2efac9c57114a000 height: 25 coins: 28
+Miner2 {"Miner2":197, "Miner1":237}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":237, "Miner2":198}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":199, "Miner1":237}
+Broadcasting Block
+Miner2 {"Miner2":200, "Miner1":246}
+Receiving Block
+Miner2 {"Miner1":246, "Miner2":201}
+INFO-Received block: bb61451ce9066e6c2efac9c57114a000
+Miner2 {"Miner2":202, "Miner1":252, "Miner3":6}
+Receiving Block
+Miner2 {"Miner2":203, "Miner1":252, "Miner3":6}
+INFO-Received block: bb61451ce9066e6c2efac9c57114a000
+Miner2 {"Miner2":204, "Miner1":252, "Miner3":6}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":252, "Miner3":6, "Miner2":205}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":206, "Miner1":252, "Miner3":6}
+Broadcasting Block
+Miner2 {"Miner2":207, "Miner1":262, "Miner3":10}
+Receiving Block
+Miner2 {"Miner2":208, "Miner1":262, "Miner3":10}
+INFO-Received block: 825dea42107d90060f5bdbd61900b000
+Miner2 {"Miner2":209, "Miner1":262, "Miner3":10}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":210, "Miner1":262, "Miner3":10}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":10, "Miner2":211, "Miner1":262}
+Broadcasting Block
+Miner2 {"Miner2":212, "Miner1":272, "Miner3":14}
+Receiving Block
+Miner2 {"Miner1":272, "Miner3":14, "Miner2":213}
+INFO-Received block: 86be08d4c552e62895549ab64f785000
+Miner2 {"Miner3":14, "Miner2":214, "Miner1":272}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":215, "Miner1":272, "Miner3":14}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":216, "Miner1":272, "Miner3":14}
+Broadcasting Block
+Miner2 {"Miner2":217, "Miner1":280, "Miner3":18}
+Receiving Block
+Miner2 {"Miner2":218, "Miner1":280, "Miner3":18}
+INFO-Received block: 0ad0fc535efe292d3776c663e1e65000
+Miner2 {"Miner2":219, "Miner1":280, "Miner3":18}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":220, "Miner1":280, "Miner3":18}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":221, "Miner1":280, "Miner3":18}
+Broadcasting Block
+Miner2 {"Miner2":222, "Miner1":290, "Miner3":22}
+Receiving Block
+Miner2 {"Miner3":22, "Miner2":223, "Miner1":290}
+INFO-Received block: cd0b5e938f8f896eed96ff04bfed7000
+Miner2 {"Miner2":224, "Miner1":290, "Miner3":22}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":225, "Miner1":290, "Miner3":22}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":226, "Miner1":290, "Miner3":22}
+Broadcasting Block
+Miner2 {"Miner1":302, "Miner3":26, "Miner2":227}
+Receiving Block
+Miner2 {"Miner2":228, "Miner1":302, "Miner3":26}
+INFO-Received block: abf7dff65f66deed2ad8ed173c1e5000
+Miner2 {"Miner2":229, "Miner1":302, "Miner3":26}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":230, "Miner1":302, "Miner3":26}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":231, "Miner1":302, "Miner3":26}
+Broadcasting Block
+Miner2 {"Miner2":232, "Miner1":311, "Miner3":30}
+Receiving Block
+Miner2 {"Miner2":233, "Miner1":311, "Miner3":30}
+INFO-Received block: e2a45bde9d0474fa887f48e14143a000
+Miner2 {"Miner2":234, "Miner1":311, "Miner3":30}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":235, "Miner1":311, "Miner3":30}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":236, "Miner1":311, "Miner3":30}
+Broadcasting Block
+Miner2 {"Miner1":322, "Miner3":34, "Miner2":237}
+Receiving Block
+Miner2 {"Miner2":238, "Miner1":322, "Miner3":34}
+INFO-Received block: 739f2a0dfbc1fb87b662a6387c38a000
+Miner2 {"Miner2":239, "Miner1":322, "Miner3":34}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":240, "Miner1":322, "Miner3":34}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":241, "Miner1":322, "Miner3":34}
+Broadcasting Block
+Miner2 {"Miner2":242, "Miner1":332, "Miner3":38}
+Receiving Block
+Miner2 {"Miner2":243, "Miner1":332, "Miner3":38}
+INFO-Received block: f589f45aba011cdb9e4f515bcf7cc000
+Miner2 {"Miner2":244, "Miner1":332, "Miner3":38}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":245, "Miner1":332, "Miner3":38}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":246, "Miner1":332, "Miner3":38}
+Broadcasting Block
+Miner2 {"Miner2":247, "Miner1":342, "Miner3":42}
+Receiving Block
+Miner2 {"Miner2":248, "Miner1":342, "Miner3":42}
+INFO-Received block: f28ea64beb358e4a62524d316f41d000
+Miner2 {"Miner3":42, "Miner2":249, "Miner1":342}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":250, "Miner1":342, "Miner3":42}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":251, "Miner1":342, "Miner3":42}
+Broadcasting Block
+Miner2 {"Miner2":252, "Miner1":352, "Miner3":46}
+Receiving Block
+Miner2 {"Miner1":352, "Miner3":46, "Miner2":253}
+INFO-Received block: 110f0dd4871d77a7b4281b43ec401000
+Miner2 {"Miner2":254, "Miner1":352, "Miner3":46}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":46, "Miner2":255, "Miner1":352}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":256, "Miner1":352, "Miner3":46}
+Broadcasting Block
+Miner2 {"Miner2":257, "Miner1":362, "Miner3":50}
+Receiving Block
+Miner2 {"Miner2":258, "Miner1":362, "Miner3":50}
+INFO-Received block: 74199822f6598847ef7e7a157076f000
+Miner2 {"Miner2":259, "Miner1":362, "Miner3":50}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":260, "Miner1":362, "Miner3":50}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":50, "Miner2":261, "Miner1":362}
+Broadcasting Block
+Miner2 {"Miner2":262, "Miner1":372, "Miner3":54}
+Receiving Block
+Miner2 {"Miner3":54, "Miner2":263, "Miner1":372}
+INFO-Received block: 7a8e57e27a729d405f0b7d2e842a6000
+Miner2 {"Miner2":264, "Miner1":372, "Miner3":54}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":265, "Miner1":372, "Miner3":54}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":266, "Miner1":372, "Miner3":54}
+Broadcasting Block
+Miner2 {"Miner2":267, "Miner1":382, "Miner3":58}
+Receiving Block
+Miner2 {"Miner2":268, "Miner1":382, "Miner3":58}
+INFO-Received block: 43a8575ab57d1abf4f3f40f601f52000
+Miner2 {"Miner2":269, "Miner1":382, "Miner3":58}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":270, "Miner1":382, "Miner3":58}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":271, "Miner1":382, "Miner3":58}
+Broadcasting Block
+Miner2 {"Miner1":394, "Miner3":67, "Miner2":272}
+Receiving Block
+Miner2 {"Miner2":273, "Miner1":394, "Miner3":67}
+INFO-Received block: 31852dbf79e8f1d0b4e8ec0ff6e00000
+Miner2 {"Miner3":67, "Miner2":274, "Miner1":394}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":67, "Miner2":275, "Miner1":394}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":67, "Miner2":276, "Miner1":394}
+Broadcasting Block
+Miner2 {"Miner1":402, "Miner3":67, "Miner2":277}
+Receiving Block
+Miner2 {"Miner1":402, "Miner3":67, "Miner2":278}
+INFO-Received block: 77c05185f03a1c066c7f48919a92e000
+Miner2 {"Miner1":402, "Miner3":67, "Miner2":279}
+INFO-Accept new block: 77c05185f03a1c066c7f48919a92e000 height: 1
+Miner2 {"Miner2":280, "Miner1":402, "Miner3":67}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":281, "Miner1":402, "Miner3":67}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":282, "Miner1":402, "Miner3":67}
+Broadcasting Block
+Miner2 {"Miner1":414, "Miner3":78, "Miner2":283}
+Receiving Block
+Miner2 {"Miner1":414, "Miner3":78, "Miner2":284}
+INFO-Received block: c59678115d14287ce9a52d14ec41f000
+Miner2 {"Miner2":285, "Miner1":414, "Miner3":78}
+INFO-Accept new block: c59678115d14287ce9a52d14ec41f000 height: 2
+Miner2 {"Miner2":286, "Miner1":414, "Miner3":78}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":414, "Miner3":78, "Miner2":287}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":288, "Miner1":414, "Miner3":78}
+Broadcasting Block
+Miner2 {"Miner2":289, "Miner1":422, "Miner3":78}
+Receiving Block
+Miner2 {"Miner2":290, "Miner1":422, "Miner3":78}
+INFO-Received block: cca08c00a53794c0eaa9623532131000
+Miner2 {"Miner2":291, "Miner1":422, "Miner3":78}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":292, "Miner1":422, "Miner3":78}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":293, "Miner1":422, "Miner3":78}
+Broadcasting Block
+Miner2 {"Miner2":294, "Miner1":433, "Miner3":84}
+Receiving Block
+Miner2 {"Miner2":295, "Miner1":433, "Miner3":84}
+INFO-Received block: 5c5cb2cd6217d2297b918dd120f9f000
+Miner2 {"Miner3":84, "Miner2":296, "Miner1":433}
+INFO-Accept new block: 5c5cb2cd6217d2297b918dd120f9f000 height: 26
+Miner2 {"Miner2":297, "Miner1":433, "Miner3":84}
+INFO-Switch top block: 5c5cb2cd6217d2297b918dd120f9f000 height: 26 coins: 28
+Miner2 {"Miner1":433, "Miner3":84, "Miner2":298}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":84, "Miner2":299, "Miner1":433}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":433, "Miner3":84, "Miner2":300}
+Broadcasting Block
+Miner2 {"Miner1":443, "Miner3":84, "Miner2":301}
+Receiving Block
+Miner2 {"Miner2":302, "Miner1":443, "Miner3":84}
+INFO-Received block: a027771ae673af5f2f54bc1869380000
+Miner2 {"Miner2":303, "Miner1":444, "Miner3":84}
+Receiving Block
+Miner2 {"Miner2":304, "Miner1":444, "Miner3":84}
+INFO-Received block: 2da2a76dfc21a6f15805d424dfca2000
+Miner2 {"Miner2":305, "Miner1":444, "Miner3":84}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":306, "Miner1":444, "Miner3":84}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":307, "Miner1":444, "Miner3":84}
+Broadcasting Block
+Miner2 {"Miner2":308, "Miner1":444, "Miner3":84}
+INFO-Accept new block: 2da2a76dfc21a6f15805d424dfca2000 height: 27
+Miner2 {"Miner1":444, "Miner3":84, "Miner2":309}
+INFO-Switch top block: 2da2a76dfc21a6f15805d424dfca2000 height: 27 coins: 28
+Miner2 {"Miner2":310, "Miner1":444, "Miner3":84}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":311, "Miner1":444, "Miner3":84}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":312, "Miner1":460, "Miner3":97}
+Receiving Block
+Miner2 {"Miner2":313, "Miner1":460, "Miner3":97}
+INFO-Received block: 2e05780f5628045ab214b3e4262ef000
+Miner2 {"Miner2":314, "Miner1":464, "Miner3":97}
+Receiving Block
+Miner2 {"Miner2":315, "Miner1":464, "Miner3":97}
+INFO-Received block: 560937d11d52d7779b531a276004e000
+Miner2 {"Miner1":464, "Miner3":97, "Miner2":316}
+Broadcasting Block
+Miner2 {"Miner2":317, "Miner1":464, "Miner3":97}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":318, "Miner1":464, "Miner3":97}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":319, "Miner1":464, "Miner3":97}
+Broadcasting Block
+Miner2 {"Miner2":320, "Miner1":464, "Miner3":97}
+INFO-Accept new block: 560937d11d52d7779b531a276004e000 height: 3
+Miner2 {"Miner3":97, "Miner2":321, "Miner1":464}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":322, "Miner1":464, "Miner3":97}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":464, "Miner3":97, "Miner2":323}
+Broadcasting Block
+Miner2 {"Miner2":324, "Miner1":478, "Miner3":103}
+Receiving Block
+Miner2 {"Miner3":103, "Miner2":325, "Miner1":478}
+INFO-Received block: aab85d7888be4d929fb5a8828fc15000
+Miner2 {"Miner2":326, "Miner1":478, "Miner3":103}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":103, "Miner2":327, "Miner1":478}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":328, "Miner1":478, "Miner3":103}
+Broadcasting Block
+Miner2 {"Miner2":329, "Miner1":490, "Miner3":107}
+Receiving Block
+Miner2 {"Miner1":490, "Miner3":107, "Miner2":330}
+INFO-Received block: 8b68331e7025bcf0599e9861fc4b1000
+Miner2 {"Miner3":107, "Miner2":331, "Miner1":490}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":332, "Miner1":490, "Miner3":107}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":333, "Miner1":490, "Miner3":107}
+Broadcasting Block
+Miner2 {"Miner2":334, "Miner1":500, "Miner3":111}
+Receiving Block
+Miner2 {"Miner2":335, "Miner1":500, "Miner3":111}
+INFO-Received block: 85516bf6c3b89d313981c7c1e90c4000
+Miner2 {"Miner2":336, "Miner1":500, "Miner3":111}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":111, "Miner2":337, "Miner1":500}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":338, "Miner1":500, "Miner3":111}
+Broadcasting Block
+Miner2 {"Miner2":339, "Miner1":509, "Miner3":111}
+Receiving Block
+Miner2 {"Miner2":340, "Miner1":509, "Miner3":111}
+INFO-Received block: 41395ea4fdfd9586dad2700723a5e000
+Miner2 {"Miner2":341, "Miner1":509, "Miner3":111}
+INFO-Accept new block: 41395ea4fdfd9586dad2700723a5e000 height: 28
+Miner2 {"Miner3":111, "Miner2":342, "Miner1":509}
+INFO-Switch top block: 41395ea4fdfd9586dad2700723a5e000 height: 28 coins: 28
+Miner2 {"Miner2":343, "Miner1":509, "Miner3":111}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":344, "Miner1":509, "Miner3":111}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":345, "Miner1":509, "Miner3":111}
+Broadcasting Block
+Miner2 {"Miner1":517, "Miner3":115, "Miner2":346}
+Receiving Block
+Miner2 {"Miner2":347, "Miner1":517, "Miner3":115}
+INFO-Received block: 4ce0af7c16ff14c76cb4b60c974fd000
+Miner2 {"Miner2":348, "Miner1":517, "Miner3":115}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":349, "Miner1":517, "Miner3":115}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":350, "Miner1":517, "Miner3":115}
+Broadcasting Block
+Miner2 {"Miner1":517, "Miner3":115, "Miner2":351}
+INFO-Accept new block: fb8735f9584a5bd9a63c9c35bb97f000 height: 29
+Miner2 {"Miner3":115, "Miner2":352, "Miner1":517}
+INFO-Switch top block: fb8735f9584a5bd9a63c9c35bb97f000 height: 29 coins: 32
+Miner2 {"Miner2":353, "Miner1":517, "Miner3":115}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":354, "Miner1":517, "Miner3":115}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":355, "Miner1":517, "Miner3":115}
+Broadcasting Block
+Miner2 {"Miner2":356, "Miner1":529, "Miner3":121}
+Receiving Block
+Miner2 {"Miner3":121, "Miner2":357, "Miner1":529}
+INFO-Received block: b80e7c6bf7bd8403760968f026c83000
+Miner2 {"Miner2":358, "Miner1":529, "Miner3":121}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":359, "Miner1":529, "Miner3":121}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":360, "Miner1":529, "Miner3":121}
+Broadcasting Block
+Miner2 {"Miner2":361, "Miner1":542, "Miner3":125}
+Receiving Block
+Miner2 {"Miner2":362, "Miner1":542, "Miner3":125}
+INFO-Received block: fb8735f9584a5bd9a63c9c35bb97f000
+Miner2 {"Miner2":363, "Miner1":548, "Miner3":125}
+Receiving Block
+Miner2 {"Miner2":364, "Miner1":548, "Miner3":125}
+INFO-Received block: 70e8da9f032caa582260b7b4dfec3000
+Miner2 {"Miner2":365, "Miner1":548, "Miner3":125}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":366, "Miner1":548, "Miner3":125}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":367, "Miner1":548, "Miner3":125}
+Broadcasting Block
+Miner2 {"Miner3":131, "Miner2":368, "Miner1":558}
+Receiving Block
+Miner2 {"Miner2":369, "Miner1":558, "Miner3":131}
+INFO-Received block: 4a0d82be506e0d0577cc355d7c66e000
+Miner2 {"Miner2":370, "Miner1":558, "Miner3":131}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":371, "Miner1":558, "Miner3":131}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":372, "Miner1":558, "Miner3":131}
+Broadcasting Block
+Miner2 {"Miner2":373, "Miner1":574, "Miner3":151}
+Receiving Block
+Miner2 {"Miner2":374, "Miner1":574, "Miner3":151}
+INFO-Received block: d8be524ebe056070f684bdf0364dc000
+Miner2 {"Miner2":375, "Miner1":574, "Miner3":151}
+INFO-Accept new block: d8be524ebe056070f684bdf0364dc000 height: 30
+Miner2 {"Miner2":376, "Miner1":574, "Miner3":151}
+INFO-Switch top block: d8be524ebe056070f684bdf0364dc000 height: 30 coins: 32
+Miner2 {"Miner1":574, "Miner3":151, "Miner2":377}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":574, "Miner3":151, "Miner2":378}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":379, "Miner1":574, "Miner3":151}
+Broadcasting Block
+Miner2 {"Miner2":380, "Miner1":609, "Miner3":218}
+Receiving Block
+Miner2 {"Miner2":381, "Miner1":609, "Miner3":218}
+INFO-Received block: f951057d150dede9be9518fc07812000
+Miner2 {"Miner2":382, "Miner1":609, "Miner3":218}
+INFO-Accept new block: f951057d150dede9be9518fc07812000 height: 31
+Miner2 {"Miner2":383, "Miner1":609, "Miner3":218}
+INFO-Switch top block: f951057d150dede9be9518fc07812000 height: 31 coins: 32
+Miner2 {"Miner2":384, "Miner1":609, "Miner3":218}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":218, "Miner2":385, "Miner1":609}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":386, "Miner1":609, "Miner3":218}
+Broadcasting Block
+Miner2 {"Miner2":387, "Miner1":609, "Miner3":218}
+INFO-Accept new block: fd61711b98c9064d31e0a2ee20ba7000 height: 32
+Miner2 {"Miner2":388, "Miner1":609, "Miner3":218}
+INFO-Switch top block: fd61711b98c9064d31e0a2ee20ba7000 height: 32 coins: 36
+Miner2 {"Miner1":609, "Miner3":218, "Miner2":389}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":390, "Miner1":609, "Miner3":218}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":391, "Miner1":609, "Miner3":218}
+Broadcasting Block
+Miner2 {"Miner1":609, "Miner3":218, "Miner2":392}
+INFO-Accept new block: 0d743108c1ed5a54ab8115159613c000 height: 33
+Miner2 {"Miner2":393, "Miner1":649, "Miner3":290}
+Receiving Block
+Miner2 {"Miner2":394, "Miner1":649, "Miner3":290}
+INFO-Received block: fd61711b98c9064d31e0a2ee20ba7000
+Miner2 {"Miner1":649, "Miner3":290, "Miner2":395}
+INFO-Switch top block: 0d743108c1ed5a54ab8115159613c000 height: 33 coins: 40
+Miner2 {"Miner2":396, "Miner1":649, "Miner3":290}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":397, "Miner1":649, "Miner3":290}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":398, "Miner1":649, "Miner3":290}
+Broadcasting Block
+Miner2 {"Miner3":297, "Miner2":399, "Miner1":660}
+Receiving Block
+Miner2 {"Miner2":400, "Miner1":660, "Miner3":297}
+INFO-Received block: 0d743108c1ed5a54ab8115159613c000
+Miner2 {"Miner2":401, "Miner1":660, "Miner3":297}
+INFO-Accept new block: 146a5e1a835b047d00f1ce3c7975f000 height: 34
+Miner2 {"Miner2":402, "Miner1":660, "Miner3":297}
+INFO-Switch top block: 146a5e1a835b047d00f1ce3c7975f000 height: 34 coins: 44
+Miner2 {"Miner2":403, "Miner1":660, "Miner3":297}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":404, "Miner1":660, "Miner3":297}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":405, "Miner1":660, "Miner3":297}
+Broadcasting Block
+Miner2 {"Miner2":406, "Miner1":671, "Miner3":304}
+Receiving Block
+Miner2 {"Miner2":407, "Miner1":671, "Miner3":304}
+INFO-Received block: 146a5e1a835b047d00f1ce3c7975f000
+Miner2 {"Miner1":671, "Miner3":304, "Miner2":408}
+INFO-Accept new block: 0ac532a1d7287da61a43e2f73d01e000 height: 35
+Miner2 {"Miner2":409, "Miner1":671, "Miner3":304}
+INFO-Switch top block: 0ac532a1d7287da61a43e2f73d01e000 height: 35 coins: 48
+Miner2 {"Miner2":410, "Miner1":671, "Miner3":304}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":411, "Miner1":671, "Miner3":304}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":412, "Miner1":671, "Miner3":304}
+Broadcasting Block
+Miner2 {"Miner2":413, "Miner1":682, "Miner3":311}
+Receiving Block
+Miner2 {"Miner2":414, "Miner1":682, "Miner3":311}
+INFO-Received block: 0ac532a1d7287da61a43e2f73d01e000
+Miner2 {"Miner3":323, "Miner2":415, "Miner1":693}
+Receiving Block
+Miner2 {"Miner3":323, "Miner2":416, "Miner1":693}
+INFO-Received block: 829fb8c5b5743e36351681b4089df000
+Miner2 {"Miner2":417, "Miner1":693, "Miner3":323}
+INFO-Accept new block: 829fb8c5b5743e36351681b4089df000 height: 36
+Miner2 {"Miner2":418, "Miner1":693, "Miner3":323}
+INFO-Switch top block: 829fb8c5b5743e36351681b4089df000 height: 36 coins: 48
+Miner2 {"Miner2":419, "Miner1":693, "Miner3":323}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":420, "Miner1":693, "Miner3":323}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":421, "Miner1":693, "Miner3":323}
+Broadcasting Block
+Miner2 {"Miner2":422, "Miner1":702, "Miner3":323}
+Receiving Block
+Miner2 {"Miner1":702, "Miner3":323, "Miner2":423}
+INFO-Received block: 30e46fdbeeed4652b428c7340017c000
+Miner2 {"Miner1":702, "Miner3":323, "Miner2":424}
+INFO-Accept new block: 30e46fdbeeed4652b428c7340017c000 height: 37
+Miner2 {"Miner2":425, "Miner1":702, "Miner3":323}
+INFO-Switch top block: 30e46fdbeeed4652b428c7340017c000 height: 37 coins: 48
+Miner2 {"Miner2":426, "Miner1":702, "Miner3":323}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":427, "Miner1":702, "Miner3":323}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":702, "Miner3":323, "Miner2":428}
+Broadcasting Block
+Miner2 {"Miner2":429, "Miner1":715, "Miner3":337}
+Receiving Block
+Miner2 {"Miner1":715, "Miner3":337, "Miner2":430}
+INFO-Received block: 6eb4a0e90f3ab6bb9db40520edc0f000
+Miner2 {"Miner2":431, "Miner1":715, "Miner3":337}
+INFO-Accept new block: 6eb4a0e90f3ab6bb9db40520edc0f000 height: 38
+Miner2 {"Miner3":337, "Miner2":432, "Miner1":715}
+INFO-Switch top block: 6eb4a0e90f3ab6bb9db40520edc0f000 height: 38 coins: 48
+Miner2 {"Miner3":337, "Miner2":433, "Miner1":715}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":434, "Miner1":715, "Miner3":337}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":715, "Miner3":337, "Miner2":435}
+Broadcasting Block
+Miner2 {"Miner2":436, "Miner1":726, "Miner3":344}
+Receiving Block
+Miner2 {"Miner2":437, "Miner1":726, "Miner3":344}
+INFO-Received block: 9583108066399ad6f7423bec38b3c000
+Miner2 {"Miner3":344, "Miner2":438, "Miner1":726}
+INFO-Accept new block: 9583108066399ad6f7423bec38b3c000 height: 39
+Miner2 {"Miner3":344, "Miner2":439, "Miner1":726}
+INFO-Switch top block: 9583108066399ad6f7423bec38b3c000 height: 39 coins: 48
+Miner2 {"Miner2":440, "Miner1":726, "Miner3":344}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":441, "Miner1":726, "Miner3":344}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":442, "Miner1":726, "Miner3":344}
+Broadcasting Block
+Miner2 {"Miner2":443, "Miner1":726, "Miner3":344}
+INFO-Accept new block: c6e71587225c1793f847bdc6dd95f000 height: 40
+Miner2 {"Miner2":444, "Miner1":726, "Miner3":344}
+INFO-Switch top block: c6e71587225c1793f847bdc6dd95f000 height: 40 coins: 52
+Miner2 {"Miner2":445, "Miner1":726, "Miner3":344}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":726, "Miner3":344, "Miner2":446}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":447, "Miner1":726, "Miner3":344}
+Broadcasting Block
+Miner2 {"Miner2":448, "Miner1":737, "Miner3":344}
+Receiving Block
+Miner2 {"Miner2":449, "Miner1":737, "Miner3":344}
+INFO-Received block: c6e71587225c1793f847bdc6dd95f000
+Miner2 {"Miner2":450, "Miner1":748, "Miner3":358}
+Receiving Block
+Miner2 {"Miner2":451, "Miner1":748, "Miner3":358}
+INFO-Received block: 57b9c49cd16cbe79c61c9ac776ed3000
+Miner2 {"Miner2":452, "Miner1":748, "Miner3":358}
+INFO-Accept new block: 57b9c49cd16cbe79c61c9ac776ed3000 height: 41
+Miner2 {"Miner2":453, "Miner1":748, "Miner3":358}
+INFO-Switch top block: 57b9c49cd16cbe79c61c9ac776ed3000 height: 41 coins: 52
+Miner2 {"Miner2":454, "Miner1":748, "Miner3":358}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":455, "Miner1":748, "Miner3":358}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":456, "Miner1":748, "Miner3":358}
+Broadcasting Block
+Miner2 {"Miner2":457, "Miner1":757, "Miner3":358}
+Receiving Block
+Miner2 {"Miner2":458, "Miner1":757, "Miner3":358}
+INFO-Received block: bb83fc2afd3f93cf2c4a7c0f3b089000
+Miner2 {"Miner3":358, "Miner2":459, "Miner1":757}
+INFO-Accept new block: bb83fc2afd3f93cf2c4a7c0f3b089000 height: 42
+Miner2 {"Miner2":460, "Miner1":757, "Miner3":358}
+INFO-Switch top block: bb83fc2afd3f93cf2c4a7c0f3b089000 height: 42 coins: 52
+Miner2 {"Miner2":461, "Miner1":757, "Miner3":358}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":462, "Miner1":757, "Miner3":358}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":463, "Miner1":757, "Miner3":358}
+Broadcasting Block
+Miner2 {"Miner2":464, "Miner1":757, "Miner3":358}
+INFO-Accept new block: 84ec59340be1afd84189a68692a76000 height: 43
+Miner2 {"Miner2":465, "Miner1":757, "Miner3":358}
+INFO-Switch top block: 84ec59340be1afd84189a68692a76000 height: 43 coins: 56
+Miner2 {"Miner3":358, "Miner2":466, "Miner1":757}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":467, "Miner1":757, "Miner3":358}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":468, "Miner1":757, "Miner3":358}
+Broadcasting Block
+Miner2 {"Miner2":469, "Miner1":770, "Miner3":367}
+Receiving Block
+Miner2 {"Miner2":470, "Miner1":770, "Miner3":367}
+INFO-Received block: 84ec59340be1afd84189a68692a76000
+Miner2 {"Miner2":471, "Miner1":779, "Miner3":374}
+Receiving Block
+Miner2 {"Miner2":472, "Miner1":779, "Miner3":374}
+INFO-Received block: 90b30e4fb87e0091956da70b21795000
+Miner2 {"Miner2":473, "Miner1":779, "Miner3":374}
+INFO-Accept new block: 90b30e4fb87e0091956da70b21795000 height: 43
+Miner2 {"Miner2":474, "Miner1":779, "Miner3":374}
+INFO-Switch top block: 90b30e4fb87e0091956da70b21795000 height: 43 coins: 52
+Miner2 {"Miner2":475, "Miner1":779, "Miner3":374}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":476, "Miner1":779, "Miner3":374}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":477, "Miner1":779, "Miner3":374}
+Broadcasting Block
+Miner2 {"Miner1":790, "Miner3":381, "Miner2":478}
+Receiving Block
+Miner2 {"Miner1":790, "Miner3":381, "Miner2":479}
+INFO-Received block: 3d23e5f31d8e4abede23f3c45a614000
+Miner2 {"Miner2":480, "Miner1":790, "Miner3":381}
+INFO-Accept new block: 3d23e5f31d8e4abede23f3c45a614000 height: 44
+Miner2 {"Miner2":481, "Miner1":790, "Miner3":381}
+INFO-Switch top block: 3d23e5f31d8e4abede23f3c45a614000 height: 44 coins: 52
+Miner2 {"Miner2":482, "Miner1":790, "Miner3":381}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":483, "Miner1":790, "Miner3":381}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":790, "Miner3":381, "Miner2":484}
+Broadcasting Block
+Miner2 {"Miner2":485, "Miner1":803, "Miner3":393}
+Receiving Block
+Miner2 {"Miner2":486, "Miner1":803, "Miner3":393}
+INFO-Received block: a8c51a0ee67309bee02cda846a100000
+Miner2 {"Miner2":487, "Miner1":803, "Miner3":393}
+INFO-Accept new block: a8c51a0ee67309bee02cda846a100000 height: 45
+Miner2 {"Miner2":488, "Miner1":803, "Miner3":393}
+INFO-Switch top block: a8c51a0ee67309bee02cda846a100000 height: 45 coins: 52
+Miner2 {"Miner2":489, "Miner1":803, "Miner3":393}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":393, "Miner2":490, "Miner1":803}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":491, "Miner1":803, "Miner3":393}
+Broadcasting Block
+Miner2 {"Miner1":814, "Miner3":400, "Miner2":492}
+Receiving Block
+Miner2 {"Miner2":493, "Miner1":814, "Miner3":400}
+INFO-Received block: 227b10ba65bb8fcd44df4ff388beb000
+Miner2 {"Miner1":814, "Miner3":400, "Miner2":494}
+INFO-Accept new block: 227b10ba65bb8fcd44df4ff388beb000 height: 46
+Miner2 {"Miner2":495, "Miner1":814, "Miner3":400}
+INFO-Switch top block: 227b10ba65bb8fcd44df4ff388beb000 height: 46 coins: 52
+Miner2 {"Miner2":496, "Miner1":814, "Miner3":400}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":497, "Miner1":814, "Miner3":400}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":498, "Miner1":814, "Miner3":400}
+Broadcasting Block
+Miner2 {"Miner2":499, "Miner1":823, "Miner3":400}
+Receiving Block
+Miner2 {"Miner2":500, "Miner1":823, "Miner3":400}
+INFO-Received block: 19e1b31ffb73702d2b466708c8d98000
+Miner2 {"Miner2":501, "Miner1":823, "Miner3":400}
+INFO-Accept new block: 19e1b31ffb73702d2b466708c8d98000 height: 47
+Miner2 {"Miner2":502, "Miner1":823, "Miner3":400}
+INFO-Switch top block: 19e1b31ffb73702d2b466708c8d98000 height: 47 coins: 52
+Miner2 {"Miner1":823, "Miner3":400, "Miner2":503}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":400, "Miner2":504, "Miner1":823}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":505, "Miner1":823, "Miner3":400}
+Broadcasting Block
+Miner2 {"Miner2":506, "Miner1":834, "Miner3":409}
+Receiving Block
+Miner2 {"Miner2":507, "Miner1":834, "Miner3":409}
+INFO-Received block: adcc663ea4a16ba6100377580dfea000
+Miner2 {"Miner3":409, "Miner2":508, "Miner1":834}
+INFO-Accept new block: 3735a028390d371bea6c9f932d8eb000 height: 48
+Miner2 {"Miner2":509, "Miner1":834, "Miner3":409}
+INFO-Switch top block: 3735a028390d371bea6c9f932d8eb000 height: 48 coins: 56
+Miner2 {"Miner2":510, "Miner1":834, "Miner3":409}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":511, "Miner1":834, "Miner3":409}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":512, "Miner1":834, "Miner3":409}
+Broadcasting Block
+Miner2 {"Miner2":513, "Miner1":834, "Miner3":409}
+INFO-Accept new block: adcc663ea4a16ba6100377580dfea000 height: 48
+Miner2 {"Miner2":514, "Miner1":834, "Miner3":409}
+INFO-Switch top block: adcc663ea4a16ba6100377580dfea000 height: 48 coins: 56
+Miner2 {"Miner2":515, "Miner1":834, "Miner3":409}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":516, "Miner1":834, "Miner3":409}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":834, "Miner3":409, "Miner2":517}
+Broadcasting Block
+Miner2 {"Miner3":416, "Miner2":518, "Miner1":845}
+Receiving Block
+Miner2 {"Miner1":845, "Miner3":416, "Miner2":519}
+INFO-Received block: 3735a028390d371bea6c9f932d8eb000
+Miner2 {"Miner1":856, "Miner3":423, "Miner2":520}
+Receiving Block
+Miner2 {"Miner2":521, "Miner1":856, "Miner3":423}
+INFO-Received block: c815a6bfaabb81dd7e527fe6eebd9000
+Miner2 {"Miner2":522, "Miner1":856, "Miner3":423}
+INFO-Accept new block: c815a6bfaabb81dd7e527fe6eebd9000 height: 49
+Miner2 {"Miner2":523, "Miner1":856, "Miner3":423}
+INFO-Switch top block: c815a6bfaabb81dd7e527fe6eebd9000 height: 49 coins: 56
+Miner2 {"Miner2":524, "Miner1":856, "Miner3":423}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":525, "Miner1":856, "Miner3":423}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":526, "Miner1":856, "Miner3":423}
+Broadcasting Block
+Miner2 {"Miner2":527, "Miner1":867, "Miner3":430}
+Receiving Block
+Miner2 {"Miner2":528, "Miner1":867, "Miner3":430}
+INFO-Received block: 9bd2f877a6d73d58286ae1dbb8c2c000
+Miner2 {"Miner2":529, "Miner1":867, "Miner3":430}
+INFO-Accept new block: 9bd2f877a6d73d58286ae1dbb8c2c000 height: 50
+Miner2 {"Miner3":430, "Miner2":530, "Miner1":867}
+INFO-Switch top block: 9bd2f877a6d73d58286ae1dbb8c2c000 height: 50 coins: 56
+Miner2 {"Miner3":430, "Miner2":531, "Miner1":867}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":532, "Miner1":867, "Miner3":430}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":533, "Miner1":867, "Miner3":430}
+Broadcasting Block
+Miner2 {"Miner2":534, "Miner1":867, "Miner3":430}
+INFO-Accept new block: 61c9dde8c2cd9249e10be849c64fa000 height: 51
+Miner2 {"Miner2":535, "Miner1":867, "Miner3":430}
+INFO-Switch top block: 61c9dde8c2cd9249e10be849c64fa000 height: 51 coins: 60
+Miner2 {"Miner2":536, "Miner1":867, "Miner3":430}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":537, "Miner1":867, "Miner3":430}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":538, "Miner1":867, "Miner3":430}
+Broadcasting Block
+Miner2 {"Miner2":539, "Miner1":880, "Miner3":437}
+Receiving Block
+Miner2 {"Miner2":540, "Miner1":880, "Miner3":437}
+INFO-Received block: 61c9dde8c2cd9249e10be849c64fa000
+Miner2 {"Miner2":541, "Miner1":891, "Miner3":449}
+Receiving Block
+Miner2 {"Miner2":542, "Miner1":891, "Miner3":449}
+INFO-Received block: 30a28757fe0a83ce6740b1b4b942e000
+Miner2 {"Miner2":543, "Miner1":891, "Miner3":449}
+INFO-Accept new block: 30a28757fe0a83ce6740b1b4b942e000 height: 52
+Miner2 {"Miner2":544, "Miner1":891, "Miner3":449}
+INFO-Switch top block: 30a28757fe0a83ce6740b1b4b942e000 height: 52 coins: 60
+Miner2 {"Miner2":545, "Miner1":891, "Miner3":449}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":546, "Miner1":891, "Miner3":449}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":547, "Miner1":891, "Miner3":449}
+Broadcasting Block
+Miner2 {"Miner1":900, "Miner3":449, "Miner2":548}
+Receiving Block
+Miner2 {"Miner2":549, "Miner1":900, "Miner3":449}
+INFO-Received block: 10786219b0b65a32d5f02d0de2479000
+Miner2 {"Miner2":550, "Miner1":900, "Miner3":449}
+INFO-Accept new block: 10786219b0b65a32d5f02d0de2479000 height: 53
+Miner2 {"Miner2":551, "Miner1":900, "Miner3":449}
+INFO-Switch top block: 10786219b0b65a32d5f02d0de2479000 height: 53 coins: 60
+Miner2 {"Miner1":900, "Miner3":449, "Miner2":552}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":553, "Miner1":900, "Miner3":449}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":554, "Miner1":900, "Miner3":449}
+Broadcasting Block
+Miner2 {"Miner2":555, "Miner1":900, "Miner3":449}
+INFO-Accept new block: db5f3c0348e0c5f38fab25cf5ab2b000 height: 54
+Miner2 {"Miner2":556, "Miner1":900, "Miner3":449}
+INFO-Switch top block: db5f3c0348e0c5f38fab25cf5ab2b000 height: 54 coins: 64
+Miner2 {"Miner2":557, "Miner1":900, "Miner3":449}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":558, "Miner1":900, "Miner3":449}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":559, "Miner1":900, "Miner3":449}
+Broadcasting Block
+Miner2 {"Miner3":458, "Miner2":560, "Miner1":913}
+Receiving Block
+Miner2 {"Miner2":561, "Miner1":913, "Miner3":458}
+INFO-Received block: db5f3c0348e0c5f38fab25cf5ab2b000
+Miner2 {"Miner2":562, "Miner1":922, "Miner3":465}
+Receiving Block
+Miner2 {"Miner2":563, "Miner1":922, "Miner3":465}
+INFO-Received block: 16f091fe587b19f237e20a3d4b11d000
+Miner2 {"Miner2":564, "Miner1":922, "Miner3":465}
+INFO-Accept new block: 16f091fe587b19f237e20a3d4b11d000 height: 55
+Miner2 {"Miner1":922, "Miner3":465, "Miner2":565}
+INFO-Switch top block: 16f091fe587b19f237e20a3d4b11d000 height: 55 coins: 64
+Miner2 {"Miner2":566, "Miner1":922, "Miner3":465}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":922, "Miner3":465, "Miner2":567}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":568, "Miner1":922, "Miner3":465}
+Broadcasting Block
+Miner2 {"Miner2":569, "Miner1":933, "Miner3":472}
+Receiving Block
+Miner2 {"Miner3":472, "Miner2":570, "Miner1":933}
+INFO-Received block: 610a1825fc107a3b15636a4c49fbb000
+Miner2 {"Miner2":571, "Miner1":933, "Miner3":472}
+INFO-Accept new block: 610a1825fc107a3b15636a4c49fbb000 height: 56
+Miner2 {"Miner2":572, "Miner1":933, "Miner3":472}
+INFO-Switch top block: 610a1825fc107a3b15636a4c49fbb000 height: 56 coins: 64
+Miner2 {"Miner2":573, "Miner1":933, "Miner3":472}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":472, "Miner2":574, "Miner1":933}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":575, "Miner1":933, "Miner3":472}
+Broadcasting Block
+Miner2 {"Miner2":576, "Miner1":933, "Miner3":472}
+INFO-Accept new block: 59c61129b6522c08a8544e16d35e2000 height: 57
+Miner2 {"Miner2":577, "Miner1":933, "Miner3":472}
+INFO-Switch top block: 59c61129b6522c08a8544e16d35e2000 height: 57 coins: 68
+Miner2 {"Miner3":472, "Miner2":578, "Miner1":933}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":579, "Miner1":933, "Miner3":472}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":580, "Miner1":933, "Miner3":472}
+Broadcasting Block
+Miner2 {"Miner2":581, "Miner1":946, "Miner3":479}
+Receiving Block
+Miner2 {"Miner2":582, "Miner1":946, "Miner3":479}
+INFO-Received block: 59c61129b6522c08a8544e16d35e2000
+Miner2 {"Miner2":583, "Miner1":946, "Miner3":479}
+INFO-Accept new block: 4b56840f9e691c483ac8c31e7e49b000 height: 58
+Miner2 {"Miner2":584, "Miner1":946, "Miner3":479}
+INFO-Switch top block: 4b56840f9e691c483ac8c31e7e49b000 height: 58 coins: 72
+Miner2 {"Miner2":585, "Miner1":946, "Miner3":479}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":586, "Miner1":946, "Miner3":479}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":587, "Miner1":946, "Miner3":479}
+Broadcasting Block
+Miner2 {"Miner2":588, "Miner1":958, "Miner3":486}
+Receiving Block
+Miner2 {"Miner2":589, "Miner1":958, "Miner3":486}
+INFO-Received block: 4b56840f9e691c483ac8c31e7e49b000
+Miner2 {"Miner2":590, "Miner1":969, "Miner3":498}
+Receiving Block
+Miner2 {"Miner2":591, "Miner1":969, "Miner3":498}
+INFO-Received block: d9fb29230981085808edf037d61b9000
+Miner2 {"Miner2":592, "Miner1":969, "Miner3":498}
+INFO-Accept new block: d9fb29230981085808edf037d61b9000 height: 59
+Miner2 {"Miner2":593, "Miner1":969, "Miner3":498}
+INFO-Switch top block: d9fb29230981085808edf037d61b9000 height: 59 coins: 72
+Miner2 {"Miner2":594, "Miner1":969, "Miner3":498}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":595, "Miner1":969, "Miner3":498}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":596, "Miner1":969, "Miner3":498}
+Broadcasting Block
+Miner2 {"Miner2":597, "Miner1":980, "Miner3":505}
+Receiving Block
+Miner2 {"Miner2":598, "Miner1":980, "Miner3":505}
+INFO-Received block: 78ebd649407eb0d92c8ed3f94a350000
+Miner2 {"Miner2":599, "Miner1":980, "Miner3":505}
+INFO-Accept new block: 78ebd649407eb0d92c8ed3f94a350000 height: 60
+Miner2 {"Miner2":600, "Miner1":980, "Miner3":505}
+INFO-Switch top block: 78ebd649407eb0d92c8ed3f94a350000 height: 60 coins: 72
+Miner2 {"Miner2":601, "Miner1":980, "Miner3":505}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":602, "Miner1":980, "Miner3":505}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":980, "Miner3":505, "Miner2":603}
+Broadcasting Block
+Miner2 {"Miner2":604, "Miner1":980, "Miner3":505}
+INFO-Accept new block: 55badb02922202f8602924e7be88d000 height: 61
+Miner2 {"Miner2":605, "Miner1":980, "Miner3":505}
+INFO-Switch top block: 55badb02922202f8602924e7be88d000 height: 61 coins: 76
+Miner2 {"Miner3":505, "Miner2":606, "Miner1":980}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":607, "Miner1":980, "Miner3":505}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":608, "Miner1":980, "Miner3":505}
+Broadcasting Block
+Miner2 {"Miner2":609, "Miner1":991, "Miner3":505}
+Receiving Block
+Miner2 {"Miner2":610, "Miner1":991, "Miner3":505}
+INFO-Received block: 55badb02922202f8602924e7be88d000
+Miner2 {"Miner2":611, "Miner1":1002, "Miner3":519}
+Receiving Block
+Miner2 {"Miner2":612, "Miner1":1002, "Miner3":519}
+INFO-Received block: 4e3b4ab809fd321273dbf67f4594c000
+Miner2 {"Miner2":613, "Miner1":1002, "Miner3":519}
+INFO-Accept new block: 4e3b4ab809fd321273dbf67f4594c000 height: 62
+Miner2 {"Miner2":614, "Miner1":1002, "Miner3":519}
+INFO-Switch top block: 4e3b4ab809fd321273dbf67f4594c000 height: 62 coins: 76
+Miner2 {"Miner3":519, "Miner2":615, "Miner1":1002}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":616, "Miner1":1002, "Miner3":519}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":617, "Miner1":1002, "Miner3":519}
+Broadcasting Block
+Miner2 {"Miner3":519, "Miner2":618, "Miner1":1011}
+Receiving Block
+Miner2 {"Miner2":619, "Miner1":1011, "Miner3":519}
+INFO-Received block: a3eebd781f2d71842009cdb3e719f000
+Miner2 {"Miner2":620, "Miner1":1011, "Miner3":519}
+INFO-Accept new block: a3eebd781f2d71842009cdb3e719f000 height: 63
+Miner2 {"Miner2":621, "Miner1":1011, "Miner3":519}
+INFO-Switch top block: a3eebd781f2d71842009cdb3e719f000 height: 63 coins: 76
+Miner2 {"Miner2":622, "Miner1":1011, "Miner3":519}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1011, "Miner3":519, "Miner2":623}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1011, "Miner3":519, "Miner2":624}
+Broadcasting Block
+Miner2 {"Miner2":625, "Miner1":1011, "Miner3":519}
+INFO-Accept new block: b103f7115942d2b1eacb8d93fadae000 height: 64
+Miner2 {"Miner3":519, "Miner2":626, "Miner1":1011}
+INFO-Switch top block: b103f7115942d2b1eacb8d93fadae000 height: 64 coins: 80
+Miner2 {"Miner1":1011, "Miner3":519, "Miner2":627}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":628, "Miner1":1011, "Miner3":519}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":629, "Miner1":1011, "Miner3":519}
+Broadcasting Block
+Miner2 {"Miner2":630, "Miner1":1024, "Miner3":528}
+Receiving Block
+Miner2 {"Miner1":1024, "Miner3":528, "Miner2":631}
+INFO-Received block: b103f7115942d2b1eacb8d93fadae000
+Miner2 {"Miner2":632, "Miner1":1035, "Miner3":540}
+Receiving Block
+Miner2 {"Miner2":633, "Miner1":1035, "Miner3":540}
+INFO-Received block: c5e6c16fbe93d718bc6db7a4bf79d000
+Miner2 {"Miner2":634, "Miner1":1035, "Miner3":540}
+INFO-Accept new block: c5e6c16fbe93d718bc6db7a4bf79d000 height: 65
+Miner2 {"Miner3":540, "Miner2":635, "Miner1":1035}
+INFO-Switch top block: c5e6c16fbe93d718bc6db7a4bf79d000 height: 65 coins: 80
+Miner2 {"Miner2":636, "Miner1":1035, "Miner3":540}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":637, "Miner1":1035, "Miner3":540}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1035, "Miner3":540, "Miner2":638}
+Broadcasting Block
+Miner2 {"Miner2":639, "Miner1":1044, "Miner3":540}
+Receiving Block
+Miner2 {"Miner2":640, "Miner1":1044, "Miner3":540}
+INFO-Received block: 48c7465c55a180d8e515d800f3931000
+Miner2 {"Miner2":641, "Miner1":1044, "Miner3":540}
+INFO-Accept new block: 48c7465c55a180d8e515d800f3931000 height: 66
+Miner2 {"Miner2":642, "Miner1":1044, "Miner3":540}
+INFO-Switch top block: 48c7465c55a180d8e515d800f3931000 height: 66 coins: 80
+Miner2 {"Miner2":643, "Miner1":1044, "Miner3":540}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1044, "Miner3":540, "Miner2":644}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":645, "Miner1":1044, "Miner3":540}
+Broadcasting Block
+Miner2 {"Miner2":646, "Miner1":1057, "Miner3":554}
+Receiving Block
+Miner2 {"Miner2":647, "Miner1":1057, "Miner3":554}
+INFO-Received block: 495ae871656e5e0eaf1e7ec34a8b2000
+Miner2 {"Miner3":554, "Miner2":648, "Miner1":1057}
+INFO-Accept new block: 495ae871656e5e0eaf1e7ec34a8b2000 height: 67
+Miner2 {"Miner2":649, "Miner1":1057, "Miner3":554}
+INFO-Switch top block: 495ae871656e5e0eaf1e7ec34a8b2000 height: 67 coins: 80
+Miner2 {"Miner2":650, "Miner1":1057, "Miner3":554}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":651, "Miner1":1057, "Miner3":554}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":652, "Miner1":1057, "Miner3":554}
+Broadcasting Block
+Miner2 {"Miner2":653, "Miner1":1057, "Miner3":554}
+INFO-Accept new block: 552b45177c352ad93b3d407b74880000 height: 68
+Miner2 {"Miner2":654, "Miner1":1057, "Miner3":554}
+INFO-Switch top block: 552b45177c352ad93b3d407b74880000 height: 68 coins: 84
+Miner2 {"Miner2":655, "Miner1":1057, "Miner3":554}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":656, "Miner1":1057, "Miner3":554}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":554, "Miner2":657, "Miner1":1057}
+Broadcasting Block
+Miner2 {"Miner2":658, "Miner1":1068, "Miner3":554}
+Receiving Block
+Miner2 {"Miner2":659, "Miner1":1068, "Miner3":554}
+INFO-Received block: 552b45177c352ad93b3d407b74880000
+Miner2 {"Miner2":660, "Miner1":1068, "Miner3":554}
+INFO-Accept new block: 052def2c686c65e7b989fce1e70f4000 height: 69
+Miner2 {"Miner2":661, "Miner1":1077, "Miner3":563}
+Receiving Block
+Miner2 {"Miner3":563, "Miner2":662, "Miner1":1077}
+INFO-Received block: 2444db29aad3145dab11442ecf1f7000
+Miner2 {"Miner2":663, "Miner1":1077, "Miner3":563}
+INFO-Switch top block: 052def2c686c65e7b989fce1e70f4000 height: 69 coins: 88
+Miner2 {"Miner1":1077, "Miner3":563, "Miner2":664}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":665, "Miner1":1077, "Miner3":563}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":666, "Miner1":1077, "Miner3":563}
+Broadcasting Block
+Miner2 {"Miner2":667, "Miner1":1077, "Miner3":563}
+INFO-Accept new block: ac0e96a58836ad2b905ca7dc1befb000 height: 70
+Miner2 {"Miner2":668, "Miner1":1077, "Miner3":563}
+INFO-Switch top block: ac0e96a58836ad2b905ca7dc1befb000 height: 70 coins: 92
+Miner2 {"Miner2":669, "Miner1":1077, "Miner3":563}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":670, "Miner1":1077, "Miner3":563}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":671, "Miner1":1077, "Miner3":563}
+Broadcasting Block
+Miner2 {"Miner2":672, "Miner1":1077, "Miner3":563}
+INFO-Accept new block: 2444db29aad3145dab11442ecf1f7000 height: 69
+Miner2 {"Miner2":673, "Miner1":1077, "Miner3":563}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":674, "Miner1":1077, "Miner3":563}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":563, "Miner2":675, "Miner1":1077}
+Broadcasting Block
+Miner2 {"Miner2":676, "Miner1":1092, "Miner3":570}
+Receiving Block
+Miner2 {"Miner2":677, "Miner1":1092, "Miner3":570}
+INFO-Received block: 052def2c686c65e7b989fce1e70f4000
+Miner2 {"Miner2":678, "Miner1":1099, "Miner3":570}
+Receiving Block
+Miner2 {"Miner2":679, "Miner1":1099, "Miner3":570}
+INFO-Received block: ac0e96a58836ad2b905ca7dc1befb000
+Miner2 {"Miner3":584, "Miner2":680, "Miner1":1110}
+Receiving Block
+Miner2 {"Miner2":681, "Miner1":1110, "Miner3":584}
+INFO-Received block: ae1acaa263c7dc466461a8d94cbb2000
+Miner2 {"Miner2":682, "Miner1":1110, "Miner3":584}
+INFO-Accept new block: ae1acaa263c7dc466461a8d94cbb2000 height: 71
+Miner2 {"Miner3":584, "Miner2":683, "Miner1":1110}
+INFO-Switch top block: ae1acaa263c7dc466461a8d94cbb2000 height: 71 coins: 92
+Miner2 {"Miner2":684, "Miner1":1110, "Miner3":584}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1110, "Miner3":584, "Miner2":685}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":686, "Miner1":1110, "Miner3":584}
+Broadcasting Block
+Miner2 {"Miner2":687, "Miner1":1110, "Miner3":584}
+INFO-Status Report: 0 files in the file system
+Miner2 {"Miner3":584, "Miner2":688, "Miner1":1110}
+INFO-Accept new block: 37934f0523931f707987c15e792a6000 height: 72
+Miner2 {"Miner2":689, "Miner1":1110, "Miner3":584}
+INFO-Switch top block: 37934f0523931f707987c15e792a6000 height: 72 coins: 96
+Miner2 {"Miner2":690, "Miner1":1110, "Miner3":584}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":584, "Miner2":691, "Miner1":1110}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":692, "Miner1":1110, "Miner3":584}
+Broadcasting Block
+Miner2 {"Miner2":693, "Miner1":1123, "Miner3":591}
+Receiving Block
+Miner2 {"Miner1":1123, "Miner3":591, "Miner2":694}
+INFO-Received block: 37934f0523931f707987c15e792a6000
+Miner2 {"Miner1":1134, "Miner3":603, "Miner2":695}
+Receiving Block
+Miner2 {"Miner2":696, "Miner1":1134, "Miner3":603}
+INFO-Received block: b8190f7c381774e2b03dcc06219b3000
+Miner2 {"Miner2":697, "Miner1":1134, "Miner3":603}
+INFO-Accept new block: b8190f7c381774e2b03dcc06219b3000 height: 73
+Miner2 {"Miner2":698, "Miner1":1134, "Miner3":603}
+INFO-Switch top block: b8190f7c381774e2b03dcc06219b3000 height: 73 coins: 96
+Miner2 {"Miner2":699, "Miner1":1134, "Miner3":603}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":700, "Miner1":1134, "Miner3":603}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":701, "Miner1":1134, "Miner3":603}
+Broadcasting Block
+Miner2 {"Miner2":702, "Miner1":1134, "Miner3":603}
+INFO-Accept new block: 413fc3c2fc004cb050cedebd6bb6f000 height: 74
+Miner2 {"Miner2":703, "Miner1":1134, "Miner3":603}
+INFO-Switch top block: 413fc3c2fc004cb050cedebd6bb6f000 height: 74 coins: 100
+Miner2 {"Miner1":1134, "Miner3":603, "Miner2":704}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":705, "Miner1":1134, "Miner3":603}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":706, "Miner1":1134, "Miner3":603}
+Broadcasting Block
+Miner2 {"Miner2":707, "Miner1":1145, "Miner3":603}
+Receiving Block
+Miner2 {"Miner2":708, "Miner1":1145, "Miner3":603}
+INFO-Received block: 413fc3c2fc004cb050cedebd6bb6f000
+Miner2 {"Miner1":1145, "Miner3":603, "Miner2":709}
+INFO-Accept new block: a1c6f16fdb69aa64e9e45f91035b3000 height: 75
+Miner2 {"Miner1":1145, "Miner3":603, "Miner2":710}
+INFO-Switch top block: a1c6f16fdb69aa64e9e45f91035b3000 height: 75 coins: 104
+Miner2 {"Miner2":711, "Miner1":1145, "Miner3":603}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":712, "Miner1":1145, "Miner3":603}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":713, "Miner1":1145, "Miner3":603}
+Broadcasting Block
+Miner2 {"Miner2":714, "Miner1":1145, "Miner3":603}
+INFO-Accept new block: 525a613c9bbefbe3e6b5f317730ce000 height: 76
+Miner2 {"Miner2":715, "Miner1":1156, "Miner3":612}
+Receiving Block
+Miner2 {"Miner2":716, "Miner1":1156, "Miner3":612}
+INFO-Received block: a1c6f16fdb69aa64e9e45f91035b3000
+Miner2 {"Miner2":717, "Miner1":1156, "Miner3":612}
+INFO-Switch top block: 525a613c9bbefbe3e6b5f317730ce000 height: 76 coins: 108
+Miner2 {"Miner1":1156, "Miner3":612, "Miner2":718}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":719, "Miner1":1156, "Miner3":612}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1156, "Miner3":612, "Miner2":720}
+Broadcasting Block
+Miner2 {"Miner1":1167, "Miner3":619, "Miner2":721}
+Receiving Block
+Miner2 {"Miner2":722, "Miner1":1167, "Miner3":619}
+INFO-Received block: 525a613c9bbefbe3e6b5f317730ce000
+Miner2 {"Miner2":723, "Miner1":1176, "Miner3":626}
+Receiving Block
+Miner2 {"Miner2":724, "Miner1":1176, "Miner3":626}
+INFO-Received block: 2573a4841e5c2be92e03d8f0c48d4000
+Miner2 {"Miner2":725, "Miner1":1176, "Miner3":626}
+INFO-Accept new block: 2573a4841e5c2be92e03d8f0c48d4000 height: 77
+Miner2 {"Miner1":1176, "Miner3":626, "Miner2":726}
+INFO-Switch top block: 2573a4841e5c2be92e03d8f0c48d4000 height: 77 coins: 108
+Miner2 {"Miner3":626, "Miner2":727, "Miner1":1176}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":728, "Miner1":1176, "Miner3":626}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1176, "Miner3":626, "Miner2":729}
+Broadcasting Block
+Miner2 {"Miner2":730, "Miner1":1189, "Miner3":638}
+Receiving Block
+Miner2 {"Miner2":731, "Miner1":1189, "Miner3":638}
+INFO-Received block: 09e333d5a0b0da3e09bda2dc8ff5e000
+Miner2 {"Miner3":638, "Miner2":732, "Miner1":1189}
+INFO-Accept new block: 09e333d5a0b0da3e09bda2dc8ff5e000 height: 78
+Miner2 {"Miner2":733, "Miner1":1189, "Miner3":638}
+INFO-Switch top block: 09e333d5a0b0da3e09bda2dc8ff5e000 height: 78 coins: 108
+Miner2 {"Miner2":734, "Miner1":1189, "Miner3":638}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":735, "Miner1":1189, "Miner3":638}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":638, "Miner2":736, "Miner1":1189}
+Broadcasting Block
+Miner2 {"Miner3":645, "Miner2":737, "Miner1":1200}
+Receiving Block
+Miner2 {"Miner2":738, "Miner1":1200, "Miner3":645}
+INFO-Received block: d9cc54bb1db1c7f562b6d1b534beb000
+Miner2 {"Miner2":739, "Miner1":1200, "Miner3":645}
+INFO-Accept new block: d9cc54bb1db1c7f562b6d1b534beb000 height: 79
+Miner2 {"Miner3":645, "Miner2":740, "Miner1":1200}
+INFO-Switch top block: d9cc54bb1db1c7f562b6d1b534beb000 height: 79 coins: 108
+Miner2 {"Miner3":645, "Miner2":741, "Miner1":1200}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":742, "Miner1":1200, "Miner3":645}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":743, "Miner1":1200, "Miner3":645}
+Broadcasting Block
+Miner2 {"Miner2":744, "Miner1":1200, "Miner3":645}
+INFO-Accept new block: 8eea81e1387096736b07ed756f953000 height: 80
+Miner2 {"Miner2":745, "Miner1":1200, "Miner3":645}
+INFO-Switch top block: 8eea81e1387096736b07ed756f953000 height: 80 coins: 112
+Miner2 {"Miner2":746, "Miner1":1200, "Miner3":645}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":747, "Miner1":1200, "Miner3":645}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":748, "Miner1":1200, "Miner3":645}
+Broadcasting Block
+Miner2 {"Miner1":1211, "Miner3":645, "Miner2":749}
+Receiving Block
+Miner2 {"Miner2":750, "Miner1":1211, "Miner3":645}
+INFO-Received block: 8eea81e1387096736b07ed756f953000
+Miner2 {"Miner1":1222, "Miner3":660, "Miner2":751}
+Receiving Block
+Miner2 {"Miner2":752, "Miner1":1222, "Miner3":660}
+INFO-Received block: 9adb272ae8ea77e3171065646c527000
+Miner2 {"Miner2":753, "Miner1":1222, "Miner3":660}
+INFO-Accept new block: 9adb272ae8ea77e3171065646c527000 height: 81
+Miner2 {"Miner2":754, "Miner1":1222, "Miner3":660}
+INFO-Switch top block: 9adb272ae8ea77e3171065646c527000 height: 81 coins: 112
+Miner2 {"Miner3":660, "Miner2":755, "Miner1":1222}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":756, "Miner1":1222, "Miner3":660}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":757, "Miner1":1222, "Miner3":660}
+Broadcasting Block
+Miner2 {"Miner2":758, "Miner1":1233, "Miner3":667}
+Receiving Block
+Miner2 {"Miner2":759, "Miner1":1233, "Miner3":667}
+INFO-Received block: 33cf31e6f4ada178ea4e4cfb6ddc8000
+Miner2 {"Miner3":667, "Miner2":760, "Miner1":1233}
+INFO-Accept new block: 33cf31e6f4ada178ea4e4cfb6ddc8000 height: 81
+Miner2 {"Miner1":1233, "Miner3":667, "Miner2":761}
+INFO-Switch top block: 33cf31e6f4ada178ea4e4cfb6ddc8000 height: 81 coins: 112
+Miner2 {"Miner2":762, "Miner1":1233, "Miner3":667}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":763, "Miner1":1233, "Miner3":667}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":667, "Miner2":764, "Miner1":1233}
+Broadcasting Block
+Miner2 {"Miner1":1242, "Miner3":667, "Miner2":765}
+Receiving Block
+Miner2 {"Miner3":667, "Miner2":766, "Miner1":1242}
+INFO-Received block: 5a0fea79cf01a9c3240c10c398c57000
+Miner2 {"Miner2":767, "Miner1":1242, "Miner3":667}
+INFO-Accept new block: 5a0fea79cf01a9c3240c10c398c57000 height: 82
+Miner2 {"Miner2":768, "Miner1":1242, "Miner3":667}
+INFO-Switch top block: 5a0fea79cf01a9c3240c10c398c57000 height: 82 coins: 112
+Miner2 {"Miner2":769, "Miner1":1242, "Miner3":667}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":770, "Miner1":1242, "Miner3":667}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":771, "Miner1":1242, "Miner3":667}
+Broadcasting Block
+Miner2 {"Miner1":1255, "Miner3":681, "Miner2":772}
+Receiving Block
+Miner2 {"Miner1":1255, "Miner3":681, "Miner2":773}
+INFO-Received block: 13636562fab5f2d211e68ebc2361b000
+Miner2 {"Miner2":774, "Miner1":1255, "Miner3":681}
+INFO-Accept new block: 13636562fab5f2d211e68ebc2361b000 height: 83
+Miner2 {"Miner2":775, "Miner1":1255, "Miner3":681}
+INFO-Switch top block: 13636562fab5f2d211e68ebc2361b000 height: 83 coins: 112
+Miner2 {"Miner3":681, "Miner2":776, "Miner1":1255}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":681, "Miner2":777, "Miner1":1255}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":778, "Miner1":1255, "Miner3":681}
+Broadcasting Block
+Miner2 {"Miner2":779, "Miner1":1264, "Miner3":681}
+Receiving Block
+Miner2 {"Miner3":681, "Miner2":780, "Miner1":1264}
+INFO-Received block: dbbda45a44b7ee372574ca16773d9000
+Miner2 {"Miner3":681, "Miner2":781, "Miner1":1264}
+INFO-Accept new block: dbbda45a44b7ee372574ca16773d9000 height: 84
+Miner2 {"Miner2":782, "Miner1":1264, "Miner3":681}
+INFO-Switch top block: dbbda45a44b7ee372574ca16773d9000 height: 84 coins: 112
+Miner2 {"Miner2":783, "Miner1":1264, "Miner3":681}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":681, "Miner2":784, "Miner1":1264}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":785, "Miner1":1264, "Miner3":681}
+Broadcasting Block
+Miner2 {"Miner2":786, "Miner1":1264, "Miner3":681}
+INFO-Accept new block: e5e06afce6be3abe91cbe86d236a0000 height: 85
+Miner2 {"Miner2":787, "Miner1":1264, "Miner3":681}
+INFO-Switch top block: e5e06afce6be3abe91cbe86d236a0000 height: 85 coins: 116
+Miner2 {"Miner2":788, "Miner1":1264, "Miner3":681}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":789, "Miner1":1264, "Miner3":681}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":681, "Miner2":790, "Miner1":1264}
+Broadcasting Block
+Miner2 {"Miner2":791, "Miner1":1277, "Miner3":690}
+Receiving Block
+Miner2 {"Miner2":792, "Miner1":1277, "Miner3":690}
+INFO-Received block: e5e06afce6be3abe91cbe86d236a0000
+Miner2 {"Miner2":793, "Miner1":1277, "Miner3":690}
+INFO-Accept new block: 0df7a065f7b055c57c53ec1d8ea5c000 height: 86
+Miner2 {"Miner2":794, "Miner1":1277, "Miner3":690}
+INFO-Switch top block: 0df7a065f7b055c57c53ec1d8ea5c000 height: 86 coins: 120
+Miner2 {"Miner2":795, "Miner1":1277, "Miner3":690}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":796, "Miner1":1277, "Miner3":690}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":797, "Miner1":1277, "Miner3":690}
+Broadcasting Block
+Miner2 {"Miner2":798, "Miner1":1288, "Miner3":697}
+Receiving Block
+Miner2 {"Miner2":799, "Miner1":1288, "Miner3":697}
+INFO-Received block: 0df7a065f7b055c57c53ec1d8ea5c000
+Miner2 {"Miner2":800, "Miner1":1297, "Miner3":704}
+Receiving Block
+Miner2 {"Miner2":801, "Miner1":1297, "Miner3":704}
+INFO-Received block: 92d00b84ca55028e67c56489852f5000
+Miner2 {"Miner2":802, "Miner1":1297, "Miner3":704}
+INFO-Accept new block: 92d00b84ca55028e67c56489852f5000 height: 86
+Miner2 {"Miner2":803, "Miner1":1297, "Miner3":704}
+INFO-Switch top block: 92d00b84ca55028e67c56489852f5000 height: 86 coins: 116
+Miner2 {"Miner2":804, "Miner1":1297, "Miner3":704}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":704, "Miner2":805, "Miner1":1297}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":806, "Miner1":1297, "Miner3":704}
+Broadcasting Block
+Miner2 {"Miner1":1308, "Miner3":711, "Miner2":807}
+Receiving Block
+Miner2 {"Miner2":808, "Miner1":1308, "Miner3":711}
+INFO-Received block: 00aef8fd5807ff4b0843dc99c7d51000
+Miner2 {"Miner3":711, "Miner2":809, "Miner1":1308}
+INFO-Accept new block: 00aef8fd5807ff4b0843dc99c7d51000 height: 87
+Miner2 {"Miner2":810, "Miner1":1308, "Miner3":711}
+INFO-Switch top block: 00aef8fd5807ff4b0843dc99c7d51000 height: 87 coins: 116
+Miner2 {"Miner3":711, "Miner2":811, "Miner1":1308}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":812, "Miner1":1308, "Miner3":711}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":813, "Miner1":1308, "Miner3":711}
+Broadcasting Block
+Miner2 {"Miner2":814, "Miner1":1321, "Miner3":723}
+Receiving Block
+Miner2 {"Miner2":815, "Miner1":1321, "Miner3":723}
+INFO-Received block: 0f44c7d7215a0324225bbc1697afd000
+Miner2 {"Miner2":816, "Miner1":1321, "Miner3":723}
+INFO-Accept new block: 0f44c7d7215a0324225bbc1697afd000 height: 88
+Miner2 {"Miner2":817, "Miner1":1321, "Miner3":723}
+INFO-Switch top block: 0f44c7d7215a0324225bbc1697afd000 height: 88 coins: 116
+Miner2 {"Miner2":818, "Miner1":1321, "Miner3":723}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":819, "Miner1":1321, "Miner3":723}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":820, "Miner1":1321, "Miner3":723}
+Broadcasting Block
+Miner2 {"Miner2":821, "Miner1":1321, "Miner3":723}
+INFO-Accept new block: f4d52dc6cf9cb5db47c0a2c4215a6000 height: 89
+Miner2 {"Miner2":822, "Miner1":1321, "Miner3":723}
+INFO-Switch top block: f4d52dc6cf9cb5db47c0a2c4215a6000 height: 89 coins: 120
+Miner2 {"Miner1":1321, "Miner3":723, "Miner2":823}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":824, "Miner1":1321, "Miner3":723}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":825, "Miner1":1321, "Miner3":723}
+Broadcasting Block
+Miner2 {"Miner3":723, "Miner2":826, "Miner1":1332}
+Receiving Block
+Miner2 {"Miner2":827, "Miner1":1332, "Miner3":723}
+INFO-Received block: f4d52dc6cf9cb5db47c0a2c4215a6000
+Miner2 {"Miner2":828, "Miner1":1332, "Miner3":723}
+INFO-Accept new block: 12c844b89e9379ff36472cca09461000 height: 90
+Miner2 {"Miner2":829, "Miner1":1332, "Miner3":723}
+INFO-Switch top block: 12c844b89e9379ff36472cca09461000 height: 90 coins: 124
+Miner2 {"Miner2":830, "Miner1":1332, "Miner3":723}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":831, "Miner1":1332, "Miner3":723}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":832, "Miner1":1332, "Miner3":723}
+Broadcasting Block
+Miner2 {"Miner3":737, "Miner2":833, "Miner1":1345}
+Receiving Block
+Miner2 {"Miner1":1345, "Miner3":737, "Miner2":834}
+INFO-Received block: a0176e4505a6676540e5b53901d90000
+Miner2 {"Miner2":835, "Miner1":1345, "Miner3":737}
+INFO-Accept new block: a0176e4505a6676540e5b53901d90000 height: 90
+Miner2 {"Miner2":836, "Miner1":1352, "Miner3":737}
+Receiving Block
+Miner2 {"Miner2":837, "Miner1":1352, "Miner3":737}
+INFO-Received block: 12c844b89e9379ff36472cca09461000
+Miner2 {"Miner2":838, "Miner1":1352, "Miner3":737}
+INFO-Switch top block: a0176e4505a6676540e5b53901d90000 height: 90 coins: 120
+Miner2 {"Miner3":737, "Miner2":839, "Miner1":1352}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":840, "Miner1":1352, "Miner3":737}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":841, "Miner1":1352, "Miner3":737}
+Broadcasting Block
+Miner2 {"Miner2":842, "Miner1":1361, "Miner3":737}
+Receiving Block
+Miner2 {"Miner2":843, "Miner1":1361, "Miner3":737}
+INFO-Received block: 61c4c052baf86ca2e15fbf6dbe3b6000
+Miner2 {"Miner2":844, "Miner1":1361, "Miner3":737}
+INFO-Accept new block: 61c4c052baf86ca2e15fbf6dbe3b6000 height: 91
+Miner2 {"Miner1":1361, "Miner3":737, "Miner2":845}
+INFO-Switch top block: 61c4c052baf86ca2e15fbf6dbe3b6000 height: 91 coins: 120
+Miner2 {"Miner1":1361, "Miner3":737, "Miner2":846}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":847, "Miner1":1361, "Miner3":737}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":848, "Miner1":1361, "Miner3":737}
+Broadcasting Block
+Miner2 {"Miner2":849, "Miner1":1361, "Miner3":737}
+INFO-Accept new block: d3979328a2949d9462329d530e983000 height: 92
+Miner2 {"Miner2":850, "Miner1":1361, "Miner3":737}
+INFO-Switch top block: d3979328a2949d9462329d530e983000 height: 92 coins: 124
+Miner2 {"Miner1":1361, "Miner3":737, "Miner2":851}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":852, "Miner1":1361, "Miner3":737}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":853, "Miner1":1361, "Miner3":737}
+Broadcasting Block
+Miner2 {"Miner2":854, "Miner1":1376, "Miner3":753}
+Receiving Block
+Miner2 {"Miner2":855, "Miner1":1376, "Miner3":753}
+INFO-Received block: d3979328a2949d9462329d530e983000
+Miner2 {"Miner2":856, "Miner1":1387, "Miner3":765}
+Receiving Block
+Miner2 {"Miner2":857, "Miner1":1387, "Miner3":765}
+INFO-Received block: 2ef89a97b792559972a4a09b84ad7000
+Miner2 {"Miner2":858, "Miner1":1387, "Miner3":765}
+INFO-Accept new block: 2ef89a97b792559972a4a09b84ad7000 height: 93
+Miner2 {"Miner2":859, "Miner1":1387, "Miner3":765}
+INFO-Switch top block: 2ef89a97b792559972a4a09b84ad7000 height: 93 coins: 124
+Miner2 {"Miner2":860, "Miner1":1387, "Miner3":765}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":861, "Miner1":1387, "Miner3":765}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1387, "Miner3":765, "Miner2":862}
+Broadcasting Block
+Miner2 {"Miner2":863, "Miner1":1387, "Miner3":765}
+INFO-Accept new block: b7efbe0713ac706af5eb064a6d032000 height: 94
+Miner2 {"Miner2":864, "Miner1":1387, "Miner3":765}
+INFO-Switch top block: b7efbe0713ac706af5eb064a6d032000 height: 94 coins: 128
+Miner2 {"Miner2":865, "Miner1":1387, "Miner3":765}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":866, "Miner1":1387, "Miner3":765}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":867, "Miner1":1387, "Miner3":765}
+Broadcasting Block
+Miner2 {"Miner1":1398, "Miner3":765, "Miner2":868}
+Receiving Block
+Miner2 {"Miner2":869, "Miner1":1398, "Miner3":765}
+INFO-Received block: 27c2caa717698ff5276a8922747fe000
+Miner2 {"Miner2":870, "Miner1":1398, "Miner3":765}
+INFO-Accept new block: 27c2caa717698ff5276a8922747fe000 height: 94
+Miner2 {"Miner2":871, "Miner1":1398, "Miner3":765}
+INFO-Switch top block: 27c2caa717698ff5276a8922747fe000 height: 94 coins: 124
+Miner2 {"Miner2":872, "Miner1":1398, "Miner3":765}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":873, "Miner1":1398, "Miner3":765}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":874, "Miner1":1398, "Miner3":765}
+Broadcasting Block
+Miner2 {"Miner2":875, "Miner1":1409, "Miner3":774}
+Receiving Block
+Miner2 {"Miner2":876, "Miner1":1409, "Miner3":774}
+INFO-Received block: b7efbe0713ac706af5eb064a6d032000
+Miner2 {"Miner2":877, "Miner1":1418, "Miner3":781}
+Receiving Block
+Miner2 {"Miner3":781, "Miner2":878, "Miner1":1418}
+INFO-Received block: 779d6fd8a4820a3f5191271960e04000
+Miner2 {"Miner3":781, "Miner2":879, "Miner1":1418}
+INFO-Accept new block: 779d6fd8a4820a3f5191271960e04000 height: 95
+Miner2 {"Miner1":1418, "Miner3":781, "Miner2":880}
+INFO-Switch top block: 779d6fd8a4820a3f5191271960e04000 height: 95 coins: 124
+Miner2 {"Miner3":781, "Miner2":881, "Miner1":1418}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":882, "Miner1":1418, "Miner3":781}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":883, "Miner1":1418, "Miner3":781}
+Broadcasting Block
+Miner2 {"Miner2":884, "Miner1":1429, "Miner3":788}
+Receiving Block
+Miner2 {"Miner2":885, "Miner1":1429, "Miner3":788}
+INFO-Received block: 07f01b16e706181c1d2ab3c7dd658000
+Miner2 {"Miner3":788, "Miner2":886, "Miner1":1429}
+INFO-Accept new block: 07f01b16e706181c1d2ab3c7dd658000 height: 96
+Miner2 {"Miner1":1429, "Miner3":788, "Miner2":887}
+INFO-Switch top block: 07f01b16e706181c1d2ab3c7dd658000 height: 96 coins: 124
+Miner2 {"Miner3":788, "Miner2":888, "Miner1":1429}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":788, "Miner2":889, "Miner1":1429}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":788, "Miner2":890, "Miner1":1429}
+Broadcasting Block
+Miner2 {"Miner2":891, "Miner1":1440, "Miner3":795}
+Receiving Block
+Miner2 {"Miner2":892, "Miner1":1440, "Miner3":795}
+INFO-Received block: 990816b714f34d8d624a41d7b83d5000
+Miner2 {"Miner2":893, "Miner1":1440, "Miner3":795}
+INFO-Accept new block: 990816b714f34d8d624a41d7b83d5000 height: 97
+Miner2 {"Miner2":894, "Miner1":1440, "Miner3":795}
+INFO-Switch top block: 990816b714f34d8d624a41d7b83d5000 height: 97 coins: 124
+Miner2 {"Miner2":895, "Miner1":1440, "Miner3":795}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":896, "Miner1":1440, "Miner3":795}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":897, "Miner1":1440, "Miner3":795}
+Broadcasting Block
+Miner2 {"Miner2":898, "Miner1":1451, "Miner3":802}
+Receiving Block
+Miner2 {"Miner2":899, "Miner1":1451, "Miner3":802}
+INFO-Received block: 5f4fd61a6a79f09d844f5a7e459bf000
+Miner2 {"Miner2":900, "Miner1":1451, "Miner3":802}
+INFO-Accept new block: 5f4fd61a6a79f09d844f5a7e459bf000 height: 98
+Miner2 {"Miner2":901, "Miner1":1451, "Miner3":802}
+INFO-Switch top block: 5f4fd61a6a79f09d844f5a7e459bf000 height: 98 coins: 124
+Miner2 {"Miner2":902, "Miner1":1451, "Miner3":802}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1451, "Miner3":802, "Miner2":903}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":904, "Miner1":1451, "Miner3":802}
+Broadcasting Block
+Miner2 {"Miner2":905, "Miner1":1451, "Miner3":802}
+INFO-Accept new block: bb02526b72f6de68c977438214491000 height: 99
+Miner2 {"Miner2":906, "Miner1":1451, "Miner3":802}
+INFO-Switch top block: bb02526b72f6de68c977438214491000 height: 99 coins: 128
+Miner2 {"Miner2":907, "Miner1":1451, "Miner3":802}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":908, "Miner1":1451, "Miner3":802}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":909, "Miner1":1451, "Miner3":802}
+Broadcasting Block
+Miner2 {"Miner2":910, "Miner1":1464, "Miner3":809}
+Receiving Block
+Miner2 {"Miner2":911, "Miner1":1464, "Miner3":809}
+INFO-Received block: bb02526b72f6de68c977438214491000
+Miner2 {"Miner2":912, "Miner1":1476, "Miner3":821}
+Receiving Block
+Miner2 {"Miner2":913, "Miner1":1476, "Miner3":821}
+INFO-Received block: 28046d8b73be04ac107d86de56e6b000
+Miner2 {"Miner1":1476, "Miner3":821, "Miner2":914}
+INFO-Accept new block: 28046d8b73be04ac107d86de56e6b000 height: 100
+Miner2 {"Miner2":915, "Miner1":1476, "Miner3":821}
+INFO-Switch top block: 28046d8b73be04ac107d86de56e6b000 height: 100 coins: 128
+Miner2 {"Miner2":916, "Miner1":1476, "Miner3":821}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1476, "Miner3":821, "Miner2":917}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":918, "Miner1":1476, "Miner3":821}
+Broadcasting Block
+Miner2 {"Miner2":919, "Miner1":1485, "Miner3":821}
+Receiving Block
+Miner2 {"Miner2":920, "Miner1":1485, "Miner3":821}
+INFO-Received block: fa0306d6e5b9839ba3aab6dbcfb3b000
+Miner2 {"Miner2":921, "Miner1":1485, "Miner3":821}
+INFO-Accept new block: fa0306d6e5b9839ba3aab6dbcfb3b000 height: 101
+Miner2 {"Miner2":922, "Miner1":1485, "Miner3":821}
+INFO-Switch top block: fa0306d6e5b9839ba3aab6dbcfb3b000 height: 101 coins: 128
+Miner2 {"Miner2":923, "Miner1":1485, "Miner3":821}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":924, "Miner1":1485, "Miner3":821}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":925, "Miner1":1485, "Miner3":821}
+Broadcasting Block
+Miner2 {"Miner2":926, "Miner1":1485, "Miner3":821}
+INFO-Accept new block: 0ca81e64889c46ca407a0b9e98682000 height: 102
+Miner2 {"Miner2":927, "Miner1":1485, "Miner3":821}
+INFO-Switch top block: 0ca81e64889c46ca407a0b9e98682000 height: 102 coins: 132
+Miner2 {"Miner3":821, "Miner2":928, "Miner1":1485}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":929, "Miner1":1485, "Miner3":821}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1485, "Miner3":821, "Miner2":930}
+Broadcasting Block
+Miner2 {"Miner2":931, "Miner1":1500, "Miner3":835}
+Receiving Block
+Miner2 {"Miner2":932, "Miner1":1500, "Miner3":835}
+INFO-Received block: ff98d7c0f164b90356dcbeafd55d4000
+Miner2 {"Miner1":1500, "Miner3":835, "Miner2":933}
+INFO-Accept new block: ff98d7c0f164b90356dcbeafd55d4000 height: 102
+Miner2 {"Miner1":1500, "Miner3":835, "Miner2":934}
+INFO-Switch top block: ff98d7c0f164b90356dcbeafd55d4000 height: 102 coins: 132
+Miner2 {"Miner3":835, "Miner2":935, "Miner1":1500}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":835, "Miner2":936, "Miner1":1500}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":937, "Miner1":1500, "Miner3":835}
+Broadcasting Block
+Miner2 {"Miner2":938, "Miner1":1509, "Miner3":835}
+Receiving Block
+Miner2 {"Miner2":939, "Miner1":1509, "Miner3":835}
+INFO-Received block: 0ca81e64889c46ca407a0b9e98682000
+Miner2 {"Miner2":940, "Miner1":1509, "Miner3":835}
+INFO-Accept new block: e61d21a995407551662f9d7eab402000 height: 103
+Miner2 {"Miner1":1509, "Miner3":835, "Miner2":941}
+INFO-Switch top block: e61d21a995407551662f9d7eab402000 height: 103 coins: 136
+Miner2 {"Miner2":942, "Miner1":1509, "Miner3":835}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":943, "Miner1":1509, "Miner3":835}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1509, "Miner3":835, "Miner2":944}
+Broadcasting Block
+Miner2 {"Miner2":945, "Miner1":1518, "Miner3":835}
+Receiving Block
+Miner2 {"Miner2":946, "Miner1":1518, "Miner3":835}
+INFO-Received block: e61d21a995407551662f9d7eab402000
+Miner2 {"Miner1":1518, "Miner3":835, "Miner2":947}
+INFO-Accept new block: 96d96570bd30b5588029ff257d69e000 height: 104
+Miner2 {"Miner2":948, "Miner1":1518, "Miner3":835}
+INFO-Switch top block: 96d96570bd30b5588029ff257d69e000 height: 104 coins: 140
+Miner2 {"Miner2":949, "Miner1":1518, "Miner3":835}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":950, "Miner1":1518, "Miner3":835}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":951, "Miner1":1518, "Miner3":835}
+Broadcasting Block
+Miner2 {"Miner2":952, "Miner1":1531, "Miner3":851}
+Receiving Block
+Miner2 {"Miner3":851, "Miner2":953, "Miner1":1531}
+INFO-Received block: 96d96570bd30b5588029ff257d69e000
+Miner2 {"Miner2":954, "Miner1":1531, "Miner3":851}
+INFO-Accept new block: a30a959d95374530c6c57db86e752000 height: 105
+Miner2 {"Miner1":1531, "Miner3":851, "Miner2":955}
+INFO-Switch top block: a30a959d95374530c6c57db86e752000 height: 105 coins: 144
+Miner2 {"Miner2":956, "Miner1":1531, "Miner3":851}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":957, "Miner1":1531, "Miner3":851}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":958, "Miner1":1531, "Miner3":851}
+Broadcasting Block
+Miner2 {"Miner1":1544, "Miner3":863, "Miner2":959}
+Receiving Block
+Miner2 {"Miner2":960, "Miner1":1544, "Miner3":863}
+INFO-Received block: a30a959d95374530c6c57db86e752000
+Miner2 {"Miner3":870, "Miner2":961, "Miner1":1553}
+Receiving Block
+Miner2 {"Miner2":962, "Miner1":1553, "Miner3":870}
+INFO-Received block: d174009b07e2d6d499766762b146b000
+Miner2 {"Miner2":963, "Miner1":1553, "Miner3":870}
+INFO-Accept new block: d174009b07e2d6d499766762b146b000 height: 105
+Miner2 {"Miner2":964, "Miner1":1553, "Miner3":870}
+INFO-Switch top block: d174009b07e2d6d499766762b146b000 height: 105 coins: 144
+Miner2 {"Miner2":965, "Miner1":1553, "Miner3":870}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":966, "Miner1":1553, "Miner3":870}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":870, "Miner2":967, "Miner1":1553}
+Broadcasting Block
+Miner2 {"Miner3":877, "Miner2":968, "Miner1":1564}
+Receiving Block
+Miner2 {"Miner1":1564, "Miner3":877, "Miner2":969}
+INFO-Received block: 50c8328ba2eed70e814c775b2d878000
+Miner2 {"Miner2":970, "Miner1":1564, "Miner3":877}
+INFO-Accept new block: 50c8328ba2eed70e814c775b2d878000 height: 106
+Miner2 {"Miner2":971, "Miner1":1564, "Miner3":877}
+INFO-Switch top block: 50c8328ba2eed70e814c775b2d878000 height: 106 coins: 144
+Miner2 {"Miner2":972, "Miner1":1564, "Miner3":877}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":973, "Miner1":1564, "Miner3":877}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":974, "Miner1":1564, "Miner3":877}
+Broadcasting Block
+Miner2 {"Miner3":884, "Miner2":975, "Miner1":1575}
+Receiving Block
+Miner2 {"Miner2":976, "Miner1":1575, "Miner3":884}
+INFO-Received block: 67d944957e85415263abd7b0315af000
+Miner2 {"Miner2":977, "Miner1":1575, "Miner3":884}
+INFO-Accept new block: 67d944957e85415263abd7b0315af000 height: 106
+Miner2 {"Miner2":978, "Miner1":1575, "Miner3":884}
+INFO-Switch top block: 67d944957e85415263abd7b0315af000 height: 106 coins: 140
+Miner2 {"Miner2":979, "Miner1":1575, "Miner3":884}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":980, "Miner1":1575, "Miner3":884}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":981, "Miner1":1575, "Miner3":884}
+Broadcasting Block
+Miner2 {"Miner2":982, "Miner1":1586, "Miner3":891}
+Receiving Block
+Miner2 {"Miner1":1586, "Miner3":891, "Miner2":983}
+INFO-Received block: 2bcf5ededbc76c1b3c9b51be22dbf000
+Miner2 {"Miner3":891, "Miner2":984, "Miner1":1586}
+INFO-Accept new block: 2bcf5ededbc76c1b3c9b51be22dbf000 height: 107
+Miner2 {"Miner3":891, "Miner2":985, "Miner1":1586}
+INFO-Switch top block: 2bcf5ededbc76c1b3c9b51be22dbf000 height: 107 coins: 144
+Miner2 {"Miner2":986, "Miner1":1586, "Miner3":891}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":987, "Miner1":1586, "Miner3":891}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":988, "Miner1":1586, "Miner3":891}
+Broadcasting Block
+Miner2 {"Miner3":898, "Miner2":989, "Miner1":1597}
+Receiving Block
+Miner2 {"Miner2":990, "Miner1":1597, "Miner3":898}
+INFO-Received block: e2cf86ff18bd89fb3a3901d58bd9f000
+Miner2 {"Miner3":898, "Miner2":991, "Miner1":1597}
+INFO-Accept new block: e2cf86ff18bd89fb3a3901d58bd9f000 height: 108
+Miner2 {"Miner2":992, "Miner1":1597, "Miner3":898}
+INFO-Switch top block: e2cf86ff18bd89fb3a3901d58bd9f000 height: 108 coins: 144
+Miner2 {"Miner2":993, "Miner1":1597, "Miner3":898}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1597, "Miner3":898, "Miner2":994}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":995, "Miner1":1597, "Miner3":898}
+Broadcasting Block
+Miner2 {"Miner2":996, "Miner1":1608, "Miner3":905}
+Receiving Block
+Miner2 {"Miner2":997, "Miner1":1608, "Miner3":905}
+INFO-Received block: d109c49b29ddea897078d93c6f2bf000
+Miner2 {"Miner2":998, "Miner1":1608, "Miner3":905}
+INFO-Accept new block: d109c49b29ddea897078d93c6f2bf000 height: 109
+Miner2 {"Miner2":999, "Miner1":1608, "Miner3":905}
+INFO-Switch top block: d109c49b29ddea897078d93c6f2bf000 height: 109 coins: 144
+Miner2 {"Miner3":905, "Miner2":1000, "Miner1":1608}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1001, "Miner1":1608, "Miner3":905}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1002, "Miner1":1608, "Miner3":905}
+Broadcasting Block
+Miner2 {"Miner3":912, "Miner2":1003, "Miner1":1619}
+Receiving Block
+Miner2 {"Miner2":1004, "Miner1":1619, "Miner3":912}
+INFO-Received block: 12e39cffd7631beeb6b299ad27e30000
+Miner2 {"Miner2":1005, "Miner1":1619, "Miner3":912}
+INFO-Accept new block: 12e39cffd7631beeb6b299ad27e30000 height: 110
+Miner2 {"Miner2":1006, "Miner1":1619, "Miner3":912}
+INFO-Switch top block: 12e39cffd7631beeb6b299ad27e30000 height: 110 coins: 144
+Miner2 {"Miner2":1007, "Miner1":1619, "Miner3":912}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1619, "Miner3":912, "Miner2":1008}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1009, "Miner1":1619, "Miner3":912}
+Broadcasting Block
+Miner2 {"Miner3":912, "Miner2":1010, "Miner1":1628}
+Receiving Block
+Miner2 {"Miner2":1011, "Miner1":1628, "Miner3":912}
+INFO-Received block: e1ca5523e472f95459eba2687d619000
+Miner2 {"Miner1":1628, "Miner3":912, "Miner2":1012}
+INFO-Accept new block: e1ca5523e472f95459eba2687d619000 height: 111
+Miner2 {"Miner1":1628, "Miner3":912, "Miner2":1013}
+INFO-Switch top block: e1ca5523e472f95459eba2687d619000 height: 111 coins: 144
+Miner2 {"Miner2":1014, "Miner1":1628, "Miner3":912}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1628, "Miner3":912, "Miner2":1015}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1016, "Miner1":1628, "Miner3":912}
+Broadcasting Block
+Miner2 {"Miner2":1017, "Miner1":1641, "Miner3":926}
+Receiving Block
+Miner2 {"Miner2":1018, "Miner1":1641, "Miner3":926}
+INFO-Received block: 82b3ccb64b905dca9a3aabc77ad36000
+Miner2 {"Miner1":1641, "Miner3":926, "Miner2":1019}
+INFO-Accept new block: 82b3ccb64b905dca9a3aabc77ad36000 height: 112
+Miner2 {"Miner2":1020, "Miner1":1641, "Miner3":926}
+INFO-Switch top block: 82b3ccb64b905dca9a3aabc77ad36000 height: 112 coins: 144
+Miner2 {"Miner2":1021, "Miner1":1641, "Miner3":926}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1022, "Miner1":1641, "Miner3":926}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1023, "Miner1":1641, "Miner3":926}
+Broadcasting Block
+Miner2 {"Miner1":1648, "Miner3":926, "Miner2":1024}
+Receiving Block
+Miner2 {"Miner3":926, "Miner2":1025, "Miner1":1648}
+INFO-Received block: 6dadf6b87c7110e6d4f84dfab55c1000
+Miner2 {"Miner3":926, "Miner2":1026, "Miner1":1648}
+INFO-Accept new block: 6dadf6b87c7110e6d4f84dfab55c1000 height: 113
+Miner2 {"Miner2":1027, "Miner1":1648, "Miner3":926}
+INFO-Switch top block: 6dadf6b87c7110e6d4f84dfab55c1000 height: 113 coins: 144
+Miner2 {"Miner2":1028, "Miner1":1648, "Miner3":926}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1029, "Miner1":1648, "Miner3":926}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1030, "Miner1":1648, "Miner3":926}
+Broadcasting Block
+Miner2 {"Miner2":1031, "Miner1":1663, "Miner3":940}
+Receiving Block
+Miner2 {"Miner2":1032, "Miner1":1663, "Miner3":940}
+INFO-Received block: fd9aea19e91f73833ccbd85646ea5000
+Miner2 {"Miner2":1033, "Miner1":1663, "Miner3":940}
+INFO-Accept new block: fd9aea19e91f73833ccbd85646ea5000 height: 114
+Miner2 {"Miner3":940, "Miner2":1034, "Miner1":1663}
+INFO-Switch top block: fd9aea19e91f73833ccbd85646ea5000 height: 114 coins: 144
+Miner2 {"Miner1":1663, "Miner3":940, "Miner2":1035}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1663, "Miner3":940, "Miner2":1036}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1037, "Miner1":1663, "Miner3":940}
+Broadcasting Block
+Miner2 {"Miner3":940, "Miner2":1038, "Miner1":1663}
+INFO-Status Report: 0 files in the file system
+Miner2 {"Miner2":1039, "Miner1":1672, "Miner3":940}
+Receiving Block
+Miner2 {"Miner2":1040, "Miner1":1672, "Miner3":940}
+INFO-Received block: 953d8c84b0d3376377cfecb04cd5b000
+Miner2 {"Miner1":1672, "Miner3":940, "Miner2":1041}
+INFO-Accept new block: 953d8c84b0d3376377cfecb04cd5b000 height: 115
+Miner2 {"Miner2":1042, "Miner1":1672, "Miner3":940}
+INFO-Switch top block: 953d8c84b0d3376377cfecb04cd5b000 height: 115 coins: 144
+Miner2 {"Miner2":1043, "Miner1":1672, "Miner3":940}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1044, "Miner1":1672, "Miner3":940}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":940, "Miner2":1045, "Miner1":1672}
+Broadcasting Block
+Miner2 {"Miner2":1046, "Miner1":1685, "Miner3":954}
+Receiving Block
+Miner2 {"Miner2":1047, "Miner1":1685, "Miner3":954}
+INFO-Received block: 6f400decb674774899625c8e13178000
+Miner2 {"Miner2":1048, "Miner1":1685, "Miner3":954}
+INFO-Accept new block: 6f400decb674774899625c8e13178000 height: 116
+Miner2 {"Miner2":1049, "Miner1":1685, "Miner3":954}
+INFO-Switch top block: 6f400decb674774899625c8e13178000 height: 116 coins: 144
+Miner2 {"Miner2":1050, "Miner1":1685, "Miner3":954}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1051, "Miner1":1685, "Miner3":954}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1052, "Miner1":1685, "Miner3":954}
+Broadcasting Block
+Miner2 {"Miner3":954, "Miner2":1053, "Miner1":1685}
+INFO-Accept new block: a95f2cd4cd96b9bd8885965ccbae3000 height: 117
+Miner2 {"Miner3":954, "Miner2":1054, "Miner1":1685}
+INFO-Switch top block: a95f2cd4cd96b9bd8885965ccbae3000 height: 117 coins: 148
+Miner2 {"Miner1":1685, "Miner3":954, "Miner2":1055}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1056, "Miner1":1685, "Miner3":954}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1057, "Miner1":1685, "Miner3":954}
+Broadcasting Block
+Miner2 {"Miner2":1058, "Miner1":1696, "Miner3":954}
+Receiving Block
+Miner2 {"Miner2":1059, "Miner1":1696, "Miner3":954}
+INFO-Received block: a95f2cd4cd96b9bd8885965ccbae3000
+Miner2 {"Miner2":1060, "Miner1":1696, "Miner3":954}
+INFO-Accept new block: 8425261b5d57636ade847dc0ee6a2000 height: 118
+Miner2 {"Miner2":1061, "Miner1":1696, "Miner3":954}
+INFO-Switch top block: 8425261b5d57636ade847dc0ee6a2000 height: 118 coins: 152
+Miner2 {"Miner2":1062, "Miner1":1696, "Miner3":954}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1063, "Miner1":1696, "Miner3":954}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1064, "Miner1":1696, "Miner3":954}
+Broadcasting Block
+Miner2 {"Miner2":1065, "Miner1":1707, "Miner3":963}
+Receiving Block
+Miner2 {"Miner2":1066, "Miner1":1707, "Miner3":963}
+INFO-Received block: 8425261b5d57636ade847dc0ee6a2000
+Miner2 {"Miner3":970, "Miner2":1067, "Miner1":1716}
+Receiving Block
+Miner2 {"Miner3":970, "Miner2":1068, "Miner1":1716}
+INFO-Received block: 2cc8901922ca499cb395853b528c6000
+Miner2 {"Miner1":1716, "Miner3":970, "Miner2":1069}
+INFO-Accept new block: 2cc8901922ca499cb395853b528c6000 height: 119
+Miner2 {"Miner2":1070, "Miner1":1716, "Miner3":970}
+INFO-Switch top block: 2cc8901922ca499cb395853b528c6000 height: 119 coins: 152
+Miner2 {"Miner2":1071, "Miner1":1716, "Miner3":970}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1072, "Miner1":1716, "Miner3":970}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1073, "Miner1":1716, "Miner3":970}
+Broadcasting Block
+Miner2 {"Miner3":977, "Miner2":1074, "Miner1":1727}
+Receiving Block
+Miner2 {"Miner2":1075, "Miner1":1727, "Miner3":977}
+INFO-Received block: 25704790fedb26a6a09e1a3be903b000
+Miner2 {"Miner2":1076, "Miner1":1727, "Miner3":977}
+INFO-Accept new block: 25704790fedb26a6a09e1a3be903b000 height: 120
+Miner2 {"Miner2":1077, "Miner1":1727, "Miner3":977}
+INFO-Switch top block: 25704790fedb26a6a09e1a3be903b000 height: 120 coins: 152
+Miner2 {"Miner3":977, "Miner2":1078, "Miner1":1727}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1079, "Miner1":1727, "Miner3":977}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1080, "Miner1":1727, "Miner3":977}
+Broadcasting Block
+Miner2 {"Miner2":1081, "Miner1":1738, "Miner3":984}
+Receiving Block
+Miner2 {"Miner2":1082, "Miner1":1738, "Miner3":984}
+INFO-Received block: 5feb16829483dab8cebc5382fc163000
+Miner2 {"Miner2":1083, "Miner1":1738, "Miner3":984}
+INFO-Accept new block: 5feb16829483dab8cebc5382fc163000 height: 121
+Miner2 {"Miner2":1084, "Miner1":1738, "Miner3":984}
+INFO-Switch top block: 5feb16829483dab8cebc5382fc163000 height: 121 coins: 152
+Miner2 {"Miner3":984, "Miner2":1085, "Miner1":1738}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1086, "Miner1":1738, "Miner3":984}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1087, "Miner1":1738, "Miner3":984}
+Broadcasting Block
+Miner2 {"Miner2":1088, "Miner1":1738, "Miner3":984}
+INFO-Called CreateFile from remote client [name=test123]
+Miner2 {"Miner3":984, "Miner2":1089, "Miner1":1738}
+INFO-Broadcasting operation to my peers: ausqDEjDwzZHqkWjJHQVnDEGWeYIInU
+Miner2 {"Miner3":984, "Miner2":1090, "Miner1":1738}
+Sending Operation ausqDEjDwzZHqkWjJHQVnDEGWeYIInU
+Miner2 {"Miner2":1091, "Miner1":1738, "Miner3":984}
+INFO-Accept new block: 85c11ae98d43c45992647847b7641000 height: 122
+Miner2 {"Miner2":1092, "Miner1":1738, "Miner3":984}
+INFO-Switch top block: 85c11ae98d43c45992647847b7641000 height: 122 coins: 156
+Miner2 {"Miner2":1093, "Miner1":1738, "Miner3":984}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1094, "Miner1":1738, "Miner3":984}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1095, "Miner1":1738, "Miner3":984}
+Broadcasting Block
+Miner2 {"Miner1":1755, "Miner3":991, "Miner2":1096}
+Receiving Block
+Miner2 {"Miner2":1097, "Miner1":1755, "Miner3":991}
+INFO-Received block: 85c11ae98d43c45992647847b7641000
+Miner2 {"Miner2":1098, "Miner1":1755, "Miner3":991}
+INFO-Accept new block: 4a24dbad15de33dcf396285c0dd94000 height: 123
+Miner2 {"Miner2":1099, "Miner1":1755, "Miner3":991}
+INFO-Switch top block: 4a24dbad15de33dcf396285c0dd94000 height: 123 coins: 160
+Miner2 {"Miner1":1755, "Miner3":991, "Miner2":1100}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1101, "Miner1":1755, "Miner3":991}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1755, "Miner3":991, "Miner2":1102}
+Broadcasting Block
+Miner2 {"Miner3":999, "Miner2":1103, "Miner1":1766}
+Receiving Block
+Miner2 {"Miner2":1104, "Miner1":1766, "Miner3":999}
+INFO-Received block: 4a24dbad15de33dcf396285c0dd94000
+Miner2 {"Miner1":1766, "Miner3":999, "Miner2":1105}
+INFO-Accept new block: 0cbbb4bb9a2e4342f5ae773aba61d000 height: 124
+Miner2 {"Miner2":1106, "Miner1":1766, "Miner3":999}
+INFO-Switch top block: 0cbbb4bb9a2e4342f5ae773aba61d000 height: 124 coins: 164
+Miner2 {"Miner2":1107, "Miner1":1766, "Miner3":999}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1766, "Miner3":999, "Miner2":1108}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1109, "Miner1":1766, "Miner3":999}
+Broadcasting Block
+Miner2 {"Miner2":1110, "Miner1":1766, "Miner3":999}
+INFO-rpc_interface:CreateFile received a success notification from local_miner
+Miner2 {"Miner2":1111, "Miner1":1777, "Miner3":1006}
+Receiving Block
+Miner2 {"Miner2":1112, "Miner1":1777, "Miner3":1006}
+INFO-Received block: 0cbbb4bb9a2e4342f5ae773aba61d000
+Miner2 {"Miner2":1113, "Miner1":1786, "Miner3":1013}
+Receiving Block
+Miner2 {"Miner2":1114, "Miner1":1786, "Miner3":1013}
+INFO-Received block: fbca5c07497aec0ee3fadf25f66d4000
+Miner2 {"Miner2":1115, "Miner1":1786, "Miner3":1013}
+INFO-Accept new block: fbca5c07497aec0ee3fadf25f66d4000 height: 125
+Miner2 {"Miner2":1116, "Miner1":1786, "Miner3":1013}
+INFO-Switch top block: fbca5c07497aec0ee3fadf25f66d4000 height: 125 coins: 164
+Miner2 {"Miner2":1117, "Miner1":1786, "Miner3":1013}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":1013, "Miner2":1118, "Miner1":1786}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1013, "Miner2":1119, "Miner1":1786}
+Broadcasting Block
+Miner2 {"Miner2":1120, "Miner1":1799, "Miner3":1025}
+Receiving Block
+Miner2 {"Miner2":1121, "Miner1":1799, "Miner3":1025}
+INFO-Received block: bf4c126b4aef0f95cb9af91bbd80a000
+Miner2 {"Miner2":1122, "Miner1":1799, "Miner3":1025}
+INFO-Accept new block: bf4c126b4aef0f95cb9af91bbd80a000 height: 125
+Miner2 {"Miner2":1123, "Miner1":1799, "Miner3":1025}
+INFO-Switch top block: bf4c126b4aef0f95cb9af91bbd80a000 height: 125 coins: 164
+Miner2 {"Miner2":1124, "Miner1":1799, "Miner3":1025}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1125, "Miner1":1799, "Miner3":1025}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1126, "Miner1":1799, "Miner3":1025}
+Broadcasting Block
+Miner2 {"Miner2":1127, "Miner1":1808, "Miner3":1025}
+Receiving Block
+Miner2 {"Miner2":1128, "Miner1":1808, "Miner3":1025}
+INFO-Received block: 423496d3bde4989eb2b1eefd40cd1000
+Miner2 {"Miner2":1129, "Miner1":1808, "Miner3":1025}
+INFO-Accept new block: 423496d3bde4989eb2b1eefd40cd1000 height: 126
+Miner2 {"Miner2":1130, "Miner1":1808, "Miner3":1025}
+INFO-Switch top block: 423496d3bde4989eb2b1eefd40cd1000 height: 126 coins: 164
+Miner2 {"Miner1":1808, "Miner3":1025, "Miner2":1131}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1132, "Miner1":1808, "Miner3":1025}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1025, "Miner2":1133, "Miner1":1808}
+Broadcasting Block
+Miner2 {"Miner3":1039, "Miner2":1134, "Miner1":1821}
+Receiving Block
+Miner2 {"Miner2":1135, "Miner1":1821, "Miner3":1039}
+INFO-Received block: 114b46bbb13a36fb389ef69d636d7000
+Miner2 {"Miner2":1136, "Miner1":1821, "Miner3":1039}
+INFO-Accept new block: 114b46bbb13a36fb389ef69d636d7000 height: 127
+Miner2 {"Miner2":1137, "Miner1":1830, "Miner3":1046}
+Receiving Block
+Miner2 {"Miner1":1830, "Miner3":1046, "Miner2":1138}
+INFO-Received block: fb9b40ab97c2de428f47cc34d7533000
+Miner2 {"Miner2":1139, "Miner1":1830, "Miner3":1046}
+INFO-Switch top block: 114b46bbb13a36fb389ef69d636d7000 height: 127 coins: 164
+Miner2 {"Miner2":1140, "Miner1":1830, "Miner3":1046}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1141, "Miner1":1830, "Miner3":1046}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1830, "Miner3":1046, "Miner2":1142}
+Broadcasting Block
+Miner2 {"Miner2":1143, "Miner1":1830, "Miner3":1046}
+INFO-Accept new block: fb9b40ab97c2de428f47cc34d7533000 height: 128
+Miner2 {"Miner2":1144, "Miner1":1830, "Miner3":1046}
+INFO-Switch top block: fb9b40ab97c2de428f47cc34d7533000 height: 128 coins: 164
+Miner2 {"Miner1":1830, "Miner3":1046, "Miner2":1145}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1146, "Miner1":1830, "Miner3":1046}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1830, "Miner3":1046, "Miner2":1147}
+Broadcasting Block
+Miner2 {"Miner3":1046, "Miner2":1148, "Miner1":1830}
+INFO-Accept new block: 63c6a1b2918adade0bf1e8aac6343000 height: 129
+Miner2 {"Miner1":1830, "Miner3":1046, "Miner2":1149}
+INFO-Switch top block: 63c6a1b2918adade0bf1e8aac6343000 height: 129 coins: 168
+Miner2 {"Miner3":1046, "Miner2":1150, "Miner1":1830}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1151, "Miner1":1830, "Miner3":1046}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1152, "Miner1":1830, "Miner3":1046}
+Broadcasting Block
+Miner2 {"Miner1":1845, "Miner3":1053, "Miner2":1153}
+Receiving Block
+Miner2 {"Miner3":1053, "Miner2":1154, "Miner1":1845}
+INFO-Received block: 63c6a1b2918adade0bf1e8aac6343000
+Miner2 {"Miner2":1155, "Miner1":1852, "Miner3":1053}
+Receiving Block
+Miner2 {"Miner2":1156, "Miner1":1852, "Miner3":1053}
+INFO-Received block: 0adb4d143078bb7d6f3dee75a24d3000
+Miner2 {"Miner3":1053, "Miner2":1157, "Miner1":1852}
+INFO-Accept new block: 503198a1bdbdcb86f4f86d4043a7e000 height: 130
+Miner2 {"Miner2":1158, "Miner1":1852, "Miner3":1053}
+INFO-Switch top block: 503198a1bdbdcb86f4f86d4043a7e000 height: 130 coins: 172
+Miner2 {"Miner2":1159, "Miner1":1852, "Miner3":1053}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":1852, "Miner3":1053, "Miner2":1160}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1161, "Miner1":1852, "Miner3":1053}
+Broadcasting Block
+Miner2 {"Miner2":1162, "Miner1":1852, "Miner3":1053}
+INFO-Accept new block: 0adb4d143078bb7d6f3dee75a24d3000 height: 129
+Miner2 {"Miner2":1163, "Miner1":1852, "Miner3":1053}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1164, "Miner1":1852, "Miner3":1053}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1852, "Miner3":1053, "Miner2":1165}
+Broadcasting Block
+Miner2 {"Miner2":1166, "Miner1":1865, "Miner3":1062}
+Receiving Block
+Miner2 {"Miner2":1167, "Miner1":1865, "Miner3":1062}
+INFO-Received block: 503198a1bdbdcb86f4f86d4043a7e000
+Miner2 {"Miner1":1874, "Miner3":1069, "Miner2":1168}
+Receiving Block
+Miner2 {"Miner2":1169, "Miner1":1874, "Miner3":1069}
+INFO-Received block: b08e4055fa29565531a85b692b61f000
+Miner2 {"Miner2":1170, "Miner1":1874, "Miner3":1069}
+INFO-Accept new block: b08e4055fa29565531a85b692b61f000 height: 131
+Miner2 {"Miner2":1171, "Miner1":1874, "Miner3":1069}
+INFO-Switch top block: b08e4055fa29565531a85b692b61f000 height: 131 coins: 172
+Miner2 {"Miner1":1874, "Miner3":1069, "Miner2":1172}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1173, "Miner1":1874, "Miner3":1069}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1174, "Miner1":1874, "Miner3":1069}
+Broadcasting Block
+Miner2 {"Miner3":1069, "Miner2":1175, "Miner1":1874}
+INFO-Accept new block: 5773fc4bb949eea9216eb8e82be89000 height: 132
+Miner2 {"Miner2":1176, "Miner1":1887, "Miner3":1081}
+Receiving Block
+Miner2 {"Miner2":1177, "Miner1":1887, "Miner3":1081}
+INFO-Received block: fbb06adddbc53ceb1f66d0c1752eb000
+Miner2 {"Miner2":1178, "Miner1":1887, "Miner3":1081}
+INFO-Switch top block: 5773fc4bb949eea9216eb8e82be89000 height: 132 coins: 176
+Miner2 {"Miner2":1179, "Miner1":1887, "Miner3":1081}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1180, "Miner1":1887, "Miner3":1081}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1181, "Miner1":1887, "Miner3":1081}
+Broadcasting Block
+Miner2 {"Miner3":1081, "Miner2":1182, "Miner1":1887}
+INFO-Accept new block: fbb06adddbc53ceb1f66d0c1752eb000 height: 132
+Miner2 {"Miner1":1887, "Miner3":1081, "Miner2":1183}
+INFO-Switch top block: fbb06adddbc53ceb1f66d0c1752eb000 height: 132 coins: 172
+Miner2 {"Miner2":1184, "Miner1":1887, "Miner3":1081}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1185, "Miner1":1887, "Miner3":1081}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1887, "Miner3":1081, "Miner2":1186}
+Broadcasting Block
+Miner2 {"Miner3":1081, "Miner2":1187, "Miner1":1898}
+Receiving Block
+Miner2 {"Miner3":1081, "Miner2":1188, "Miner1":1898}
+INFO-Received block: 5773fc4bb949eea9216eb8e82be89000
+Miner2 {"Miner2":1189, "Miner1":1898, "Miner3":1081}
+INFO-Accept new block: adf73a7cfe3878863dd009f647c38000 height: 133
+Miner2 {"Miner2":1190, "Miner1":1898, "Miner3":1081}
+INFO-Switch top block: adf73a7cfe3878863dd009f647c38000 height: 133 coins: 176
+Miner2 {"Miner3":1081, "Miner2":1191, "Miner1":1898}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1192, "Miner1":1898, "Miner3":1081}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1193, "Miner1":1898, "Miner3":1081}
+Broadcasting Block
+Miner2 {"Miner2":1194, "Miner1":1909, "Miner3":1090}
+Receiving Block
+Miner2 {"Miner2":1195, "Miner1":1909, "Miner3":1090}
+INFO-Received block: adf73a7cfe3878863dd009f647c38000
+Miner2 {"Miner2":1196, "Miner1":1918, "Miner3":1097}
+Receiving Block
+Miner2 {"Miner3":1097, "Miner2":1197, "Miner1":1918}
+INFO-Received block: 6fa0cefd26d15c1cb9474676ff78f000
+Miner2 {"Miner2":1198, "Miner1":1918, "Miner3":1097}
+INFO-Accept new block: 6fa0cefd26d15c1cb9474676ff78f000 height: 134
+Miner2 {"Miner2":1199, "Miner1":1918, "Miner3":1097}
+INFO-Switch top block: 6fa0cefd26d15c1cb9474676ff78f000 height: 134 coins: 176
+Miner2 {"Miner2":1200, "Miner1":1918, "Miner3":1097}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1201, "Miner1":1918, "Miner3":1097}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1202, "Miner1":1918, "Miner3":1097}
+Broadcasting Block
+Miner2 {"Miner1":1931, "Miner3":1109, "Miner2":1203}
+Receiving Block
+Miner2 {"Miner2":1204, "Miner1":1931, "Miner3":1109}
+INFO-Received block: a22e56e86a842f779cb921fe19cf7000
+Miner2 {"Miner1":1931, "Miner3":1109, "Miner2":1205}
+INFO-Accept new block: a22e56e86a842f779cb921fe19cf7000 height: 135
+Miner2 {"Miner1":1931, "Miner3":1109, "Miner2":1206}
+INFO-Switch top block: a22e56e86a842f779cb921fe19cf7000 height: 135 coins: 176
+Miner2 {"Miner2":1207, "Miner1":1931, "Miner3":1109}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1208, "Miner1":1931, "Miner3":1109}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1209, "Miner1":1931, "Miner3":1109}
+Broadcasting Block
+Miner2 {"Miner1":1942, "Miner3":1116, "Miner2":1210}
+Receiving Block
+Miner2 {"Miner2":1211, "Miner1":1942, "Miner3":1116}
+INFO-Received block: f15e0e501e6c8c2d2902254e23505000
+Miner2 {"Miner2":1212, "Miner1":1942, "Miner3":1116}
+INFO-Accept new block: f15e0e501e6c8c2d2902254e23505000 height: 136
+Miner2 {"Miner2":1213, "Miner1":1942, "Miner3":1116}
+INFO-Switch top block: f15e0e501e6c8c2d2902254e23505000 height: 136 coins: 176
+Miner2 {"Miner1":1942, "Miner3":1116, "Miner2":1214}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1215, "Miner1":1942, "Miner3":1116}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1216, "Miner1":1942, "Miner3":1116}
+Broadcasting Block
+Miner2 {"Miner2":1217, "Miner1":1951, "Miner3":1116}
+Receiving Block
+Miner2 {"Miner3":1116, "Miner2":1218, "Miner1":1951}
+INFO-Received block: 794394418ed57e58e7dc7cc179314000
+Miner2 {"Miner2":1219, "Miner1":1951, "Miner3":1116}
+INFO-Accept new block: 794394418ed57e58e7dc7cc179314000 height: 137
+Miner2 {"Miner2":1220, "Miner1":1951, "Miner3":1116}
+INFO-Switch top block: 794394418ed57e58e7dc7cc179314000 height: 137 coins: 176
+Miner2 {"Miner2":1221, "Miner1":1951, "Miner3":1116}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":1116, "Miner2":1222, "Miner1":1951}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1223, "Miner1":1951, "Miner3":1116}
+Broadcasting Block
+Miner2 {"Miner1":1962, "Miner3":1123, "Miner2":1224}
+Receiving Block
+Miner2 {"Miner1":1962, "Miner3":1123, "Miner2":1225}
+INFO-Received block: f80c0d24c29cff7f7bf78391bf752000
+Miner2 {"Miner2":1226, "Miner1":1962, "Miner3":1123}
+INFO-Accept new block: f80c0d24c29cff7f7bf78391bf752000 height: 137
+Miner2 {"Miner2":1227, "Miner1":1962, "Miner3":1123}
+INFO-Switch top block: f80c0d24c29cff7f7bf78391bf752000 height: 137 coins: 176
+Miner2 {"Miner2":1228, "Miner1":1962, "Miner3":1123}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1229, "Miner1":1962, "Miner3":1123}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1123, "Miner2":1230, "Miner1":1962}
+Broadcasting Block
+Miner2 {"Miner1":1973, "Miner3":1132, "Miner2":1231}
+Receiving Block
+Miner2 {"Miner2":1232, "Miner1":1973, "Miner3":1132}
+INFO-Received block: cd4ec04132834a39b9bc6e2e0a624000
+Miner2 {"Miner1":1973, "Miner3":1132, "Miner2":1233}
+INFO-Accept new block: cd4ec04132834a39b9bc6e2e0a624000 height: 138
+Miner2 {"Miner3":1132, "Miner2":1234, "Miner1":1973}
+INFO-Switch top block: cd4ec04132834a39b9bc6e2e0a624000 height: 138 coins: 176
+Miner2 {"Miner3":1132, "Miner2":1235, "Miner1":1973}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1236, "Miner1":1973, "Miner3":1132}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1132, "Miner2":1237, "Miner1":1973}
+Broadcasting Block
+Miner2 {"Miner1":1988, "Miner3":1144, "Miner2":1238}
+Receiving Block
+Miner2 {"Miner3":1144, "Miner2":1239, "Miner1":1988}
+INFO-Received block: 8f068986a0dcdf49d68d06209d25b000
+Miner2 {"Miner2":1240, "Miner1":1988, "Miner3":1144}
+INFO-Accept new block: 8f068986a0dcdf49d68d06209d25b000 height: 139
+Miner2 {"Miner2":1241, "Miner1":1988, "Miner3":1144}
+INFO-Switch top block: 8f068986a0dcdf49d68d06209d25b000 height: 139 coins: 176
+Miner2 {"Miner1":1988, "Miner3":1144, "Miner2":1242}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1243, "Miner1":1988, "Miner3":1144}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1244, "Miner1":1988, "Miner3":1144}
+Broadcasting Block
+Miner2 {"Miner2":1245, "Miner1":1997, "Miner3":1144}
+Receiving Block
+Miner2 {"Miner2":1246, "Miner1":1997, "Miner3":1144}
+INFO-Received block: 0fa1a8879a976f7c4e53a2fd94aa8000
+Miner2 {"Miner2":1247, "Miner1":1997, "Miner3":1144}
+INFO-Accept new block: 0fa1a8879a976f7c4e53a2fd94aa8000 height: 140
+Miner2 {"Miner2":1248, "Miner1":1997, "Miner3":1144}
+INFO-Switch top block: 0fa1a8879a976f7c4e53a2fd94aa8000 height: 140 coins: 176
+Miner2 {"Miner2":1249, "Miner1":1997, "Miner3":1144}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1250, "Miner1":1997, "Miner3":1144}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1251, "Miner1":1997, "Miner3":1144}
+Broadcasting Block
+Miner2 {"Miner2":1252, "Miner1":1997, "Miner3":1144}
+INFO-Accept new block: 6d0a367fc95fc19a083b6dbd4ef88000 height: 141
+Miner2 {"Miner3":1144, "Miner2":1253, "Miner1":1997}
+INFO-Switch top block: 6d0a367fc95fc19a083b6dbd4ef88000 height: 141 coins: 180
+Miner2 {"Miner2":1254, "Miner1":1997, "Miner3":1144}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1255, "Miner1":1997, "Miner3":1144}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":1997, "Miner3":1144, "Miner2":1256}
+Broadcasting Block
+Miner2 {"Miner2":1257, "Miner1":2010, "Miner3":1153}
+Receiving Block
+Miner2 {"Miner2":1258, "Miner1":2010, "Miner3":1153}
+INFO-Received block: 6d0a367fc95fc19a083b6dbd4ef88000
+Miner2 {"Miner2":1259, "Miner1":2010, "Miner3":1153}
+INFO-Accept new block: 23f03f32366cbe22b2ab44fda001d000 height: 142
+Miner2 {"Miner2":1260, "Miner1":2010, "Miner3":1153}
+INFO-Switch top block: 23f03f32366cbe22b2ab44fda001d000 height: 142 coins: 184
+Miner2 {"Miner2":1261, "Miner1":2010, "Miner3":1153}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1262, "Miner1":2010, "Miner3":1153}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1263, "Miner1":2010, "Miner3":1153}
+Broadcasting Block
+Miner2 {"Miner2":1264, "Miner1":2021, "Miner3":1160}
+Receiving Block
+Miner2 {"Miner1":2021, "Miner3":1160, "Miner2":1265}
+INFO-Received block: 23f03f32366cbe22b2ab44fda001d000
+Miner2 {"Miner3":1167, "Miner2":1266, "Miner1":2030}
+Receiving Block
+Miner2 {"Miner2":1267, "Miner1":2030, "Miner3":1167}
+INFO-Received block: 57f7e313734bd49307489690b10eb000
+Miner2 {"Miner2":1268, "Miner1":2030, "Miner3":1167}
+INFO-Accept new block: 57f7e313734bd49307489690b10eb000 height: 143
+Miner2 {"Miner2":1269, "Miner1":2030, "Miner3":1167}
+INFO-Switch top block: 57f7e313734bd49307489690b10eb000 height: 143 coins: 184
+Miner2 {"Miner2":1270, "Miner1":2030, "Miner3":1167}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2030, "Miner3":1167, "Miner2":1271}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1272, "Miner1":2030, "Miner3":1167}
+Broadcasting Block
+Miner2 {"Miner1":2041, "Miner3":1174, "Miner2":1273}
+Receiving Block
+Miner2 {"Miner2":1274, "Miner1":2041, "Miner3":1174}
+INFO-Received block: 10297a8f8a111d9a750b37959d0a4000
+Miner2 {"Miner3":1174, "Miner2":1275, "Miner1":2041}
+INFO-Accept new block: 10297a8f8a111d9a750b37959d0a4000 height: 144
+Miner2 {"Miner2":1276, "Miner1":2041, "Miner3":1174}
+INFO-Switch top block: 10297a8f8a111d9a750b37959d0a4000 height: 144 coins: 184
+Miner2 {"Miner2":1277, "Miner1":2041, "Miner3":1174}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1278, "Miner1":2041, "Miner3":1174}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1279, "Miner1":2041, "Miner3":1174}
+Broadcasting Block
+Miner2 {"Miner2":1280, "Miner1":2041, "Miner3":1174}
+INFO-Accept new block: e6d94f54a2d05e5bf310f121d481b000 height: 145
+Miner2 {"Miner2":1281, "Miner1":2041, "Miner3":1174}
+INFO-Switch top block: e6d94f54a2d05e5bf310f121d481b000 height: 145 coins: 188
+Miner2 {"Miner2":1282, "Miner1":2041, "Miner3":1174}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1283, "Miner1":2041, "Miner3":1174}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1284, "Miner1":2041, "Miner3":1174}
+Broadcasting Block
+Miner2 {"Miner1":2054, "Miner3":1181, "Miner2":1285}
+Receiving Block
+Miner2 {"Miner3":1181, "Miner2":1286, "Miner1":2054}
+INFO-Received block: 97b92ba8a3105b6bfb43af11c3600000
+Miner2 {"Miner2":1287, "Miner1":2054, "Miner3":1181}
+INFO-Accept new block: 97b92ba8a3105b6bfb43af11c3600000 height: 145
+Miner2 {"Miner2":1288, "Miner1":2063, "Miner3":1188}
+Receiving Block
+Miner2 {"Miner2":1289, "Miner1":2063, "Miner3":1188}
+INFO-Received block: e6d94f54a2d05e5bf310f121d481b000
+Miner2 {"Miner2":1290, "Miner1":2063, "Miner3":1188}
+INFO-Switch top block: 97b92ba8a3105b6bfb43af11c3600000 height: 145 coins: 188
+Miner2 {"Miner1":2063, "Miner3":1188, "Miner2":1291}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":1188, "Miner2":1292, "Miner1":2063}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2063, "Miner3":1188, "Miner2":1293}
+Broadcasting Block
+Miner2 {"Miner1":2063, "Miner3":1188, "Miner2":1294}
+INFO-Accept new block: efd3f9ce0a108b628e4ef98abdc54000 height: 146
+Miner2 {"Miner2":1295, "Miner1":2063, "Miner3":1188}
+INFO-Switch top block: efd3f9ce0a108b628e4ef98abdc54000 height: 146 coins: 192
+Miner2 {"Miner2":1296, "Miner1":2063, "Miner3":1188}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1297, "Miner1":2063, "Miner3":1188}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1188, "Miner2":1298, "Miner1":2063}
+Broadcasting Block
+Miner2 {"Miner3":1188, "Miner2":1299, "Miner1":2074}
+Receiving Block
+Miner2 {"Miner2":1300, "Miner1":2074, "Miner3":1188}
+INFO-Received block: efd3f9ce0a108b628e4ef98abdc54000
+Miner2 {"Miner2":1301, "Miner1":2085, "Miner3":1202}
+Receiving Block
+Miner2 {"Miner2":1302, "Miner1":2085, "Miner3":1202}
+INFO-Received block: b11071fc1b2954a49e6c389eb9417000
+Miner2 {"Miner2":1303, "Miner1":2085, "Miner3":1202}
+INFO-Accept new block: b11071fc1b2954a49e6c389eb9417000 height: 147
+Miner2 {"Miner2":1304, "Miner1":2085, "Miner3":1202}
+INFO-Switch top block: b11071fc1b2954a49e6c389eb9417000 height: 147 coins: 192
+Miner2 {"Miner2":1305, "Miner1":2085, "Miner3":1202}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1306, "Miner1":2085, "Miner3":1202}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2085, "Miner3":1202, "Miner2":1307}
+Broadcasting Block
+Miner2 {"Miner2":1308, "Miner1":2085, "Miner3":1202}
+INFO-Status Report: 1 files in the file system
+Miner2 {"Miner3":1202, "Miner2":1309, "Miner1":2085}
+INFO-
+File #0: [name = test123, 0 records]
+Miner2 {"Miner2":1310, "Miner1":2096, "Miner3":1209}
+Receiving Block
+Miner2 {"Miner2":1311, "Miner1":2096, "Miner3":1209}
+INFO-Received block: 02f29c7203ed5f517cd46417d212c000
+Miner2 {"Miner2":1312, "Miner1":2096, "Miner3":1209}
+INFO-Accept new block: 02f29c7203ed5f517cd46417d212c000 height: 148
+Miner2 {"Miner2":1313, "Miner1":2096, "Miner3":1209}
+INFO-Switch top block: 02f29c7203ed5f517cd46417d212c000 height: 148 coins: 192
+Miner2 {"Miner2":1314, "Miner1":2096, "Miner3":1209}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1315, "Miner1":2096, "Miner3":1209}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1316, "Miner1":2096, "Miner3":1209}
+Broadcasting Block
+Miner2 {"Miner2":1317, "Miner1":2107, "Miner3":1216}
+Receiving Block
+Miner2 {"Miner2":1318, "Miner1":2107, "Miner3":1216}
+INFO-Received block: e9469c19ed3cdebedf07ee926f121000
+Miner2 {"Miner3":1216, "Miner2":1319, "Miner1":2107}
+INFO-Accept new block: e9469c19ed3cdebedf07ee926f121000 height: 148
+Miner2 {"Miner3":1216, "Miner2":1320, "Miner1":2107}
+INFO-Switch top block: e9469c19ed3cdebedf07ee926f121000 height: 148 coins: 192
+Miner2 {"Miner2":1321, "Miner1":2107, "Miner3":1216}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1322, "Miner1":2107, "Miner3":1216}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1323, "Miner1":2107, "Miner3":1216}
+Broadcasting Block
+Miner2 {"Miner2":1324, "Miner1":2107, "Miner3":1216}
+INFO-Called AppendRec from remote client
+Miner2 {"Miner2":1325, "Miner1":2107, "Miner3":1216}
+INFO-Broadcasting operation to my peers: ZQKaczQiOKAGTrvIhTvawKvGzHaAYEE
+Miner2 {"Miner2":1326, "Miner1":2107, "Miner3":1216}
+Sending Operation ZQKaczQiOKAGTrvIhTvawKvGzHaAYEE
+Miner2 {"Miner1":2107, "Miner3":1216, "Miner2":1327}
+INFO-Accept new block: ce8a44deb167b9bf5063fdc69777d000 height: 149
+Miner2 {"Miner2":1328, "Miner1":2107, "Miner3":1216}
+INFO-Switch top block: ce8a44deb167b9bf5063fdc69777d000 height: 149 coins: 199
+Miner2 {"Miner2":1329, "Miner1":2107, "Miner3":1216}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1330, "Miner1":2107, "Miner3":1216}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1216, "Miner2":1331, "Miner1":2107}
+Broadcasting Block
+Miner2 {"Miner3":1223, "Miner2":1332, "Miner1":2124}
+Receiving Block
+Miner2 {"Miner2":1333, "Miner1":2124, "Miner3":1223}
+INFO-Received block: 691222599915c2886e9ad1a1321cf000
+Miner2 {"Miner3":1223, "Miner2":1334, "Miner1":2124}
+INFO-Accept new block: 691222599915c2886e9ad1a1321cf000 height: 149
+Miner2 {"Miner2":1335, "Miner1":2133, "Miner3":1230}
+Receiving Block
+Miner2 {"Miner2":1336, "Miner1":2133, "Miner3":1230}
+INFO-Received block: ce8a44deb167b9bf5063fdc69777d000
+Miner2 {"Miner2":1337, "Miner1":2133, "Miner3":1230}
+INFO-Switch top block: 691222599915c2886e9ad1a1321cf000 height: 149 coins: 199
+Miner2 {"Miner2":1338, "Miner1":2133, "Miner3":1230}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1339, "Miner1":2133, "Miner3":1230}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1340, "Miner1":2133, "Miner3":1230}
+Broadcasting Block
+Miner2 {"Miner3":1241, "Miner2":1341, "Miner1":2146}
+Receiving Block
+Miner2 {"Miner2":1342, "Miner1":2146, "Miner3":1241}
+INFO-Received block: d01950615a1f33f797a02420337ca000
+Miner2 {"Miner2":1343, "Miner1":2146, "Miner3":1241}
+INFO-Accept new block: d01950615a1f33f797a02420337ca000 height: 150
+Miner2 {"Miner2":1344, "Miner1":2146, "Miner3":1241}
+INFO-Switch top block: d01950615a1f33f797a02420337ca000 height: 150 coins: 191
+Miner2 {"Miner3":1241, "Miner2":1345, "Miner1":2146}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1346, "Miner1":2146, "Miner3":1241}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2146, "Miner3":1241, "Miner2":1347}
+Broadcasting Block
+Miner2 {"Miner2":1348, "Miner1":2157, "Miner3":1248}
+Receiving Block
+Miner2 {"Miner2":1349, "Miner1":2157, "Miner3":1248}
+INFO-Received block: 79667e3550da1d812b9599a709b2b000
+Miner2 {"Miner1":2157, "Miner3":1248, "Miner2":1350}
+INFO-Accept new block: 79667e3550da1d812b9599a709b2b000 height: 151
+Miner2 {"Miner2":1351, "Miner1":2157, "Miner3":1248}
+INFO-Switch top block: 79667e3550da1d812b9599a709b2b000 height: 151 coins: 191
+Miner2 {"Miner3":1248, "Miner2":1352, "Miner1":2157}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1353, "Miner1":2157, "Miner3":1248}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1354, "Miner1":2157, "Miner3":1248}
+Broadcasting Block
+Miner2 {"Miner1":2168, "Miner3":1255, "Miner2":1355}
+Receiving Block
+Miner2 {"Miner2":1356, "Miner1":2168, "Miner3":1255}
+INFO-Received block: c3a054582d7f2dd46abfedd712c2b000
+Miner2 {"Miner2":1357, "Miner1":2168, "Miner3":1255}
+INFO-Accept new block: c3a054582d7f2dd46abfedd712c2b000 height: 151
+Miner2 {"Miner2":1358, "Miner1":2168, "Miner3":1255}
+INFO-Switch top block: c3a054582d7f2dd46abfedd712c2b000 height: 151 coins: 191
+Miner2 {"Miner2":1359, "Miner1":2168, "Miner3":1255}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1360, "Miner1":2168, "Miner3":1255}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2168, "Miner3":1255, "Miner2":1361}
+Broadcasting Block
+Miner2 {"Miner2":1362, "Miner1":2177, "Miner3":1255}
+Receiving Block
+Miner2 {"Miner2":1363, "Miner1":2177, "Miner3":1255}
+INFO-Received block: 2a46d5241fd79a72ae8e1b0100fc9000
+Miner2 {"Miner2":1364, "Miner1":2177, "Miner3":1255}
+INFO-Accept new block: 2a46d5241fd79a72ae8e1b0100fc9000 height: 152
+Miner2 {"Miner1":2177, "Miner3":1255, "Miner2":1365}
+INFO-Switch top block: 2a46d5241fd79a72ae8e1b0100fc9000 height: 152 coins: 191
+Miner2 {"Miner1":2177, "Miner3":1255, "Miner2":1366}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1367, "Miner1":2177, "Miner3":1255}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1368, "Miner1":2177, "Miner3":1255}
+Broadcasting Block
+Miner2 {"Miner2":1369, "Miner1":2188, "Miner3":1264}
+Receiving Block
+Miner2 {"Miner2":1370, "Miner1":2188, "Miner3":1264}
+INFO-Received block: 987e7b80aa6b29e09d18ccb1ceab5000
+Miner2 {"Miner2":1371, "Miner1":2188, "Miner3":1264}
+INFO-Accept new block: 987e7b80aa6b29e09d18ccb1ceab5000 height: 153
+Miner2 {"Miner2":1372, "Miner1":2188, "Miner3":1264}
+INFO-Switch top block: 987e7b80aa6b29e09d18ccb1ceab5000 height: 153 coins: 191
+Miner2 {"Miner1":2188, "Miner3":1264, "Miner2":1373}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1374, "Miner1":2188, "Miner3":1264}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1375, "Miner1":2188, "Miner3":1264}
+Broadcasting Block
+Miner2 {"Miner3":1264, "Miner2":1376, "Miner1":2188}
+INFO-rpc_interface:AppendRec received a success notification from local_miner
+Miner2 {"Miner3":1271, "Miner2":1377, "Miner1":2199}
+Receiving Block
+Miner2 {"Miner2":1378, "Miner1":2199, "Miner3":1271}
+INFO-Received block: e0ebb1724912a6f04bda75f2888c1000
+Miner2 {"Miner3":1271, "Miner2":1379, "Miner1":2199}
+INFO-Accept new block: e0ebb1724912a6f04bda75f2888c1000 height: 154
+Miner2 {"Miner2":1380, "Miner1":2199, "Miner3":1271}
+INFO-Switch top block: e0ebb1724912a6f04bda75f2888c1000 height: 154 coins: 191
+Miner2 {"Miner2":1381, "Miner1":2199, "Miner3":1271}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1382, "Miner1":2199, "Miner3":1271}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1383, "Miner1":2199, "Miner3":1271}
+Broadcasting Block
+Miner2 {"Miner2":1384, "Miner1":2210, "Miner3":1280}
+Receiving Block
+Miner2 {"Miner3":1280, "Miner2":1385, "Miner1":2210}
+INFO-Received block: 28a78bc0eb87ae44bade033f74fa4000
+Miner2 {"Miner3":1280, "Miner2":1386, "Miner1":2210}
+INFO-Accept new block: 28a78bc0eb87ae44bade033f74fa4000 height: 155
+Miner2 {"Miner2":1387, "Miner1":2210, "Miner3":1280}
+INFO-Switch top block: 28a78bc0eb87ae44bade033f74fa4000 height: 155 coins: 191
+Miner2 {"Miner2":1388, "Miner1":2210, "Miner3":1280}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1389, "Miner1":2210, "Miner3":1280}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1390, "Miner1":2210, "Miner3":1280}
+Broadcasting Block
+Miner2 {"Miner1":2210, "Miner3":1280, "Miner2":1391}
+INFO-Accept new block: 99c59b4a1fac34f948d366616f975000 height: 156
+Miner2 {"Miner2":1392, "Miner1":2210, "Miner3":1280}
+INFO-Switch top block: 99c59b4a1fac34f948d366616f975000 height: 156 coins: 195
+Miner2 {"Miner2":1393, "Miner1":2210, "Miner3":1280}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1394, "Miner1":2210, "Miner3":1280}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1280, "Miner2":1395, "Miner1":2210}
+Broadcasting Block
+Miner2 {"Miner3":1287, "Miner2":1396, "Miner1":2223}
+Receiving Block
+Miner2 {"Miner2":1397, "Miner1":2223, "Miner3":1287}
+INFO-Received block: 61f5cf3df0074887fd9c0512f834a000
+Miner2 {"Miner2":1398, "Miner1":2223, "Miner3":1287}
+INFO-Accept new block: 61f5cf3df0074887fd9c0512f834a000 height: 155
+Miner2 {"Miner2":1399, "Miner1":2223, "Miner3":1287}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1400, "Miner1":2223, "Miner3":1287}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1401, "Miner1":2223, "Miner3":1287}
+Broadcasting Block
+Miner2 {"Miner2":1402, "Miner1":2234, "Miner3":1294}
+Receiving Block
+Miner2 {"Miner1":2234, "Miner3":1294, "Miner2":1403}
+INFO-Received block: 99c59b4a1fac34f948d366616f975000
+Miner2 {"Miner2":1404, "Miner1":2245, "Miner3":1306}
+Receiving Block
+Miner2 {"Miner2":1405, "Miner1":2245, "Miner3":1306}
+INFO-Received block: c16ef5a7c27a6a7f481f50b419e52000
+Miner2 {"Miner2":1406, "Miner1":2245, "Miner3":1306}
+INFO-Accept new block: c16ef5a7c27a6a7f481f50b419e52000 height: 157
+Miner2 {"Miner2":1407, "Miner1":2245, "Miner3":1306}
+INFO-Switch top block: c16ef5a7c27a6a7f481f50b419e52000 height: 157 coins: 195
+Miner2 {"Miner2":1408, "Miner1":2245, "Miner3":1306}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1409, "Miner1":2245, "Miner3":1306}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2245, "Miner3":1306, "Miner2":1410}
+Broadcasting Block
+Miner2 {"Miner2":1411, "Miner1":2245, "Miner3":1306}
+INFO-Accept new block: 952e703472108e82f0cfa2a554818000 height: 158
+Miner2 {"Miner2":1412, "Miner1":2245, "Miner3":1306}
+INFO-Switch top block: 952e703472108e82f0cfa2a554818000 height: 158 coins: 199
+Miner2 {"Miner2":1413, "Miner1":2245, "Miner3":1306}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":1306, "Miner2":1414, "Miner1":2245}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1415, "Miner1":2245, "Miner3":1306}
+Broadcasting Block
+Miner2 {"Miner2":1416, "Miner1":2256, "Miner3":1306}
+Receiving Block
+Miner2 {"Miner2":1417, "Miner1":2256, "Miner3":1306}
+INFO-Received block: 952e703472108e82f0cfa2a554818000
+Miner2 {"Miner2":1418, "Miner1":2267, "Miner3":1320}
+Receiving Block
+Miner2 {"Miner2":1419, "Miner1":2267, "Miner3":1320}
+INFO-Received block: 0f20aee83969794934189451b860f000
+Miner2 {"Miner2":1420, "Miner1":2267, "Miner3":1320}
+INFO-Accept new block: 0f20aee83969794934189451b860f000 height: 159
+Miner2 {"Miner2":1421, "Miner1":2267, "Miner3":1320}
+INFO-Switch top block: 0f20aee83969794934189451b860f000 height: 159 coins: 199
+Miner2 {"Miner2":1422, "Miner1":2267, "Miner3":1320}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1423, "Miner1":2267, "Miner3":1320}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1424, "Miner1":2267, "Miner3":1320}
+Broadcasting Block
+Miner2 {"Miner3":1320, "Miner2":1425, "Miner1":2276}
+Receiving Block
+Miner2 {"Miner2":1426, "Miner1":2276, "Miner3":1320}
+INFO-Received block: fbf94012b46a804c44d41fb45e3a8000
+Miner2 {"Miner2":1427, "Miner1":2276, "Miner3":1320}
+INFO-Accept new block: fbf94012b46a804c44d41fb45e3a8000 height: 160
+Miner2 {"Miner2":1428, "Miner1":2276, "Miner3":1320}
+INFO-Switch top block: fbf94012b46a804c44d41fb45e3a8000 height: 160 coins: 199
+Miner2 {"Miner2":1429, "Miner1":2276, "Miner3":1320}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1430, "Miner1":2276, "Miner3":1320}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2276, "Miner3":1320, "Miner2":1431}
+Broadcasting Block
+Miner2 {"Miner2":1432, "Miner1":2276, "Miner3":1320}
+INFO-Accept new block: 73db7ab99d9c80edebca5db8fd7d2000 height: 161
+Miner2 {"Miner2":1433, "Miner1":2276, "Miner3":1320}
+INFO-Switch top block: 73db7ab99d9c80edebca5db8fd7d2000 height: 161 coins: 203
+Miner2 {"Miner3":1320, "Miner2":1434, "Miner1":2276}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1435, "Miner1":2276, "Miner3":1320}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1436, "Miner1":2276, "Miner3":1320}
+Broadcasting Block
+Miner2 {"Miner2":1437, "Miner1":2291, "Miner3":1334}
+Receiving Block
+Miner2 {"Miner2":1438, "Miner1":2291, "Miner3":1334}
+INFO-Received block: 73db7ab99d9c80edebca5db8fd7d2000
+Miner2 {"Miner2":1439, "Miner1":2302, "Miner3":1345}
+Receiving Block
+Miner2 {"Miner2":1440, "Miner1":2302, "Miner3":1345}
+INFO-Received block: 61a939ebc3847f5c48cde8acabdc3000
+Miner2 {"Miner2":1441, "Miner1":2302, "Miner3":1345}
+INFO-Accept new block: 61a939ebc3847f5c48cde8acabdc3000 height: 161
+Miner2 {"Miner3":1345, "Miner2":1442, "Miner1":2309}
+Receiving Block
+Miner2 {"Miner2":1443, "Miner1":2309, "Miner3":1345}
+INFO-Received block: bf42cb5aa68208eb789e3b67a9770000
+Miner2 {"Miner2":1444, "Miner1":2309, "Miner3":1345}
+INFO-Switch top block: 61a939ebc3847f5c48cde8acabdc3000 height: 161 coins: 203
+Miner2 {"Miner2":1445, "Miner1":2309, "Miner3":1345}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1446, "Miner1":2309, "Miner3":1345}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1447, "Miner1":2309, "Miner3":1345}
+Broadcasting Block
+Miner2 {"Miner2":1448, "Miner1":2309, "Miner3":1345}
+INFO-Accept new block: bf42cb5aa68208eb789e3b67a9770000 height: 162
+Miner2 {"Miner2":1449, "Miner1":2309, "Miner3":1345}
+INFO-Switch top block: bf42cb5aa68208eb789e3b67a9770000 height: 162 coins: 199
+Miner2 {"Miner2":1450, "Miner1":2309, "Miner3":1345}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1451, "Miner1":2309, "Miner3":1345}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2309, "Miner3":1345, "Miner2":1452}
+Broadcasting Block
+Miner2 {"Miner2":1453, "Miner1":2322, "Miner3":1354}
+Receiving Block
+Miner2 {"Miner1":2322, "Miner3":1354, "Miner2":1454}
+INFO-Received block: 2cae2c3a021d84b7c6b41757ba8b3000
+Miner2 {"Miner2":1455, "Miner1":2322, "Miner3":1354}
+INFO-Accept new block: 2cae2c3a021d84b7c6b41757ba8b3000 height: 163
+Miner2 {"Miner2":1456, "Miner1":2322, "Miner3":1354}
+INFO-Switch top block: 2cae2c3a021d84b7c6b41757ba8b3000 height: 163 coins: 199
+Miner2 {"Miner2":1457, "Miner1":2322, "Miner3":1354}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1458, "Miner1":2322, "Miner3":1354}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1459, "Miner1":2322, "Miner3":1354}
+Broadcasting Block
+Miner2 {"Miner3":1354, "Miner2":1460, "Miner1":2331}
+Receiving Block
+Miner2 {"Miner2":1461, "Miner1":2331, "Miner3":1354}
+INFO-Received block: 343758d2f502df3fe8a317b254149000
+Miner2 {"Miner2":1462, "Miner1":2331, "Miner3":1354}
+INFO-Accept new block: 343758d2f502df3fe8a317b254149000 height: 163
+Miner2 {"Miner3":1354, "Miner2":1463, "Miner1":2331}
+INFO-Switch top block: 343758d2f502df3fe8a317b254149000 height: 163 coins: 199
+Miner2 {"Miner2":1464, "Miner1":2331, "Miner3":1354}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1465, "Miner1":2331, "Miner3":1354}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1354, "Miner2":1466, "Miner1":2331}
+Broadcasting Block
+Miner2 {"Miner3":1363, "Miner2":1467, "Miner1":2342}
+Receiving Block
+Miner2 {"Miner2":1468, "Miner1":2342, "Miner3":1363}
+INFO-Received block: 2154f8bbe68cbbee7629f196d9359000
+Miner2 {"Miner2":1469, "Miner1":2342, "Miner3":1363}
+INFO-Accept new block: 2154f8bbe68cbbee7629f196d9359000 height: 164
+Miner2 {"Miner2":1470, "Miner1":2342, "Miner3":1363}
+INFO-Switch top block: 2154f8bbe68cbbee7629f196d9359000 height: 164 coins: 199
+Miner2 {"Miner1":2342, "Miner3":1363, "Miner2":1471}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1472, "Miner1":2342, "Miner3":1363}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1473, "Miner1":2342, "Miner3":1363}
+Broadcasting Block
+Miner2 {"Miner2":1474, "Miner1":2342, "Miner3":1363}
+INFO-Accept new block: 3849c99fe37cc1ce2691edcce558a000 height: 164
+Miner2 {"Miner2":1475, "Miner1":2342, "Miner3":1363}
+INFO-Switch top block: 3849c99fe37cc1ce2691edcce558a000 height: 164 coins: 203
+Miner2 {"Miner1":2342, "Miner3":1363, "Miner2":1476}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2342, "Miner3":1363, "Miner2":1477}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2342, "Miner3":1363, "Miner2":1478}
+Broadcasting Block
+Miner2 {"Miner2":1479, "Miner1":2342, "Miner3":1363}
+INFO-Accept new block: d3a6b915bcb3e2eae6ab523ce11e6000 height: 165
+Miner2 {"Miner2":1480, "Miner1":2357, "Miner3":1375}
+Receiving Block
+Miner2 {"Miner2":1481, "Miner1":2357, "Miner3":1375}
+INFO-Received block: 3849c99fe37cc1ce2691edcce558a000
+Miner2 {"Miner2":1482, "Miner1":2357, "Miner3":1375}
+INFO-Switch top block: d3a6b915bcb3e2eae6ab523ce11e6000 height: 165 coins: 207
+Miner2 {"Miner3":1375, "Miner2":1483, "Miner1":2357}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1484, "Miner1":2357, "Miner3":1375}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2357, "Miner3":1375, "Miner2":1485}
+Broadcasting Block
+Miner2 {"Miner2":1486, "Miner1":2368, "Miner3":1382}
+Receiving Block
+Miner2 {"Miner2":1487, "Miner1":2368, "Miner3":1382}
+INFO-Received block: 1e638f75f8007f22e0cf56bff5cf4000
+Miner2 {"Miner2":1488, "Miner1":2368, "Miner3":1382}
+INFO-Accept new block: 1e638f75f8007f22e0cf56bff5cf4000 height: 165
+Miner2 {"Miner2":1489, "Miner1":2377, "Miner3":1388}
+Receiving Block
+Miner2 {"Miner2":1490, "Miner1":2377, "Miner3":1388}
+INFO-Received block: d3a6b915bcb3e2eae6ab523ce11e6000
+Miner2 {"Miner1":2377, "Miner3":1388, "Miner2":1491}
+INFO-Switch top block: 1e638f75f8007f22e0cf56bff5cf4000 height: 165 coins: 207
+Miner2 {"Miner2":1492, "Miner1":2377, "Miner3":1388}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1493, "Miner1":2377, "Miner3":1388}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1494, "Miner1":2377, "Miner3":1388}
+Broadcasting Block
+Miner2 {"Miner1":2388, "Miner3":1394, "Miner2":1495}
+Receiving Block
+Miner2 {"Miner2":1496, "Miner1":2388, "Miner3":1394}
+INFO-Received block: 43b7d06b18ddfaa84ee719dee8517000
+Miner2 {"Miner1":2388, "Miner3":1394, "Miner2":1497}
+INFO-Accept new block: 43b7d06b18ddfaa84ee719dee8517000 height: 166
+Miner2 {"Miner2":1498, "Miner1":2388, "Miner3":1394}
+INFO-Switch top block: 43b7d06b18ddfaa84ee719dee8517000 height: 166 coins: 199
+Miner2 {"Miner2":1499, "Miner1":2388, "Miner3":1394}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1500, "Miner1":2388, "Miner3":1394}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1501, "Miner1":2388, "Miner3":1394}
+Broadcasting Block
+Miner2 {"Miner2":1502, "Miner1":2399, "Miner3":1401}
+Receiving Block
+Miner2 {"Miner1":2399, "Miner3":1401, "Miner2":1503}
+INFO-Received block: e85f8b99a071d2dfc0c823c02ec29000
+Miner2 {"Miner3":1401, "Miner2":1504, "Miner1":2399}
+INFO-Accept new block: e85f8b99a071d2dfc0c823c02ec29000 height: 167
+Miner2 {"Miner2":1505, "Miner1":2399, "Miner3":1401}
+INFO-Switch top block: e85f8b99a071d2dfc0c823c02ec29000 height: 167 coins: 199
+Miner2 {"Miner2":1506, "Miner1":2399, "Miner3":1401}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1507, "Miner1":2399, "Miner3":1401}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1508, "Miner1":2399, "Miner3":1401}
+Broadcasting Block
+Miner2 {"Miner2":1509, "Miner1":2399, "Miner3":1401}
+INFO-Accept new block: 9c8b7720a353d6c5fde6c004fcfb9000 height: 168
+Miner2 {"Miner2":1510, "Miner1":2399, "Miner3":1401}
+INFO-Switch top block: 9c8b7720a353d6c5fde6c004fcfb9000 height: 168 coins: 203
+Miner2 {"Miner2":1511, "Miner1":2399, "Miner3":1401}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2399, "Miner3":1401, "Miner2":1512}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1513, "Miner1":2399, "Miner3":1401}
+Broadcasting Block
+Miner2 {"Miner2":1514, "Miner1":2410, "Miner3":1401}
+Receiving Block
+Miner2 {"Miner2":1515, "Miner1":2410, "Miner3":1401}
+INFO-Received block: 9c8b7720a353d6c5fde6c004fcfb9000
+Miner2 {"Miner2":1516, "Miner1":2410, "Miner3":1401}
+INFO-Accept new block: aab8825a7eb1882945ae2c745df97000 height: 169
+Miner2 {"Miner2":1517, "Miner1":2410, "Miner3":1401}
+INFO-Switch top block: aab8825a7eb1882945ae2c745df97000 height: 169 coins: 207
+Miner2 {"Miner2":1518, "Miner1":2410, "Miner3":1401}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1519, "Miner1":2410, "Miner3":1401}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2410, "Miner3":1401, "Miner2":1520}
+Broadcasting Block
+Miner2 {"Miner2":1521, "Miner1":2421, "Miner3":1410}
+Receiving Block
+Miner2 {"Miner2":1522, "Miner1":2421, "Miner3":1410}
+INFO-Received block: aab8825a7eb1882945ae2c745df97000
+Miner2 {"Miner2":1523, "Miner1":2421, "Miner3":1410}
+INFO-Called TotalRecs from remote client
+Miner2 {"Miner2":1524, "Miner1":2421, "Miner3":1410}
+INFO-Called ReadRec from remote client
+Miner2 {"Miner2":1525, "Miner1":2421, "Miner3":1410}
+INFO-Accept new block: 7e9ec0430792c0a8c7ca7222f66df000 height: 170
+Miner2 {"Miner2":1526, "Miner1":2434, "Miner3":1422}
+Receiving Block
+Miner2 {"Miner2":1527, "Miner1":2434, "Miner3":1422}
+INFO-Received block: 6bbc6fa01abcc08dbc370066d233c000
+Miner2 {"Miner2":1528, "Miner1":2434, "Miner3":1422}
+INFO-Switch top block: 7e9ec0430792c0a8c7ca7222f66df000 height: 170 coins: 211
+Miner2 {"Miner2":1529, "Miner1":2434, "Miner3":1422}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1530, "Miner1":2434, "Miner3":1422}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1531, "Miner1":2434, "Miner3":1422}
+Broadcasting Block
+Miner2 {"Miner2":1532, "Miner1":2434, "Miner3":1422}
+INFO-Accept new block: 6bbc6fa01abcc08dbc370066d233c000 height: 170
+Miner2 {"Miner1":2443, "Miner3":1422, "Miner2":1533}
+Receiving Block
+Miner2 {"Miner2":1534, "Miner1":2443, "Miner3":1422}
+INFO-Received block: 7e9ec0430792c0a8c7ca7222f66df000
+Miner2 {"Miner2":1535, "Miner1":2443, "Miner3":1422}
+INFO-Switch top block: 6bbc6fa01abcc08dbc370066d233c000 height: 170 coins: 211
+Miner2 {"Miner3":1422, "Miner2":1536, "Miner1":2443}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1537, "Miner1":2443, "Miner3":1422}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1422, "Miner2":1538, "Miner1":2443}
+Broadcasting Block
+Miner2 {"Miner2":1539, "Miner1":2454, "Miner3":1431}
+Receiving Block
+Miner2 {"Miner2":1540, "Miner1":2454, "Miner3":1431}
+INFO-Received block: 0d3e5d8b3a4831fb44c0150d01cfa000
+Miner2 {"Miner2":1541, "Miner1":2454, "Miner3":1431}
+INFO-Accept new block: 0d3e5d8b3a4831fb44c0150d01cfa000 height: 171
+Miner2 {"Miner2":1542, "Miner1":2454, "Miner3":1431}
+INFO-Switch top block: 0d3e5d8b3a4831fb44c0150d01cfa000 height: 171 coins: 207
+Miner2 {"Miner2":1543, "Miner1":2454, "Miner3":1431}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2454, "Miner3":1431, "Miner2":1544}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1545, "Miner1":2454, "Miner3":1431}
+Broadcasting Block
+Miner2 {"Miner2":1546, "Miner1":2454, "Miner3":1431}
+INFO-Accept new block: f808bc77cca19e99f9e0fba08c440000 height: 172
+Miner2 {"Miner1":2454, "Miner3":1431, "Miner2":1547}
+INFO-Switch top block: f808bc77cca19e99f9e0fba08c440000 height: 172 coins: 211
+Miner2 {"Miner1":2454, "Miner3":1431, "Miner2":1548}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1549, "Miner1":2454, "Miner3":1431}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1550, "Miner1":2454, "Miner3":1431}
+Broadcasting Block
+Miner2 {"Miner2":1551, "Miner1":2467, "Miner3":1438}
+Receiving Block
+Miner2 {"Miner2":1552, "Miner1":2467, "Miner3":1438}
+INFO-Received block: f808bc77cca19e99f9e0fba08c440000
+Miner2 {"Miner1":2467, "Miner3":1438, "Miner2":1553}
+INFO-Accept new block: 04b78683aef1cc4fd68070fe4c0b6000 height: 173
+Miner2 {"Miner3":1438, "Miner2":1554, "Miner1":2467}
+INFO-Switch top block: 04b78683aef1cc4fd68070fe4c0b6000 height: 173 coins: 215
+Miner2 {"Miner2":1555, "Miner1":2467, "Miner3":1438}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1556, "Miner1":2467, "Miner3":1438}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1438, "Miner2":1557, "Miner1":2467}
+Broadcasting Block
+Miner2 {"Miner3":1438, "Miner2":1558, "Miner1":2467}
+INFO-Accept new block: 1373edeced673ff621b1bfc3235c9000 height: 174
+Miner2 {"Miner2":1559, "Miner1":2478, "Miner3":1445}
+Receiving Block
+Miner2 {"Miner2":1560, "Miner1":2478, "Miner3":1445}
+INFO-Received block: 04b78683aef1cc4fd68070fe4c0b6000
+Miner2 {"Miner2":1561, "Miner1":2478, "Miner3":1445}
+INFO-Switch top block: 1373edeced673ff621b1bfc3235c9000 height: 174 coins: 219
+Miner2 {"Miner3":1445, "Miner2":1562, "Miner1":2478}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1563, "Miner1":2478, "Miner3":1445}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1564, "Miner1":2478, "Miner3":1445}
+Broadcasting Block
+Miner2 {"Miner2":1565, "Miner1":2487, "Miner3":1445}
+Receiving Block
+Miner2 {"Miner2":1566, "Miner1":2487, "Miner3":1445}
+INFO-Received block: 1373edeced673ff621b1bfc3235c9000
+Miner2 {"Miner2":1567, "Miner1":2487, "Miner3":1445}
+INFO-Accept new block: 81d1c23aefbcc856ed6cbf500e420000 height: 175
+Miner2 {"Miner3":1445, "Miner2":1568, "Miner1":2487}
+INFO-Switch top block: 81d1c23aefbcc856ed6cbf500e420000 height: 175 coins: 223
+Miner2 {"Miner2":1569, "Miner1":2487, "Miner3":1445}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1570, "Miner1":2487, "Miner3":1445}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2487, "Miner3":1445, "Miner2":1571}
+Broadcasting Block
+Miner2 {"Miner2":1572, "Miner1":2500, "Miner3":1459}
+Receiving Block
+Miner2 {"Miner3":1459, "Miner2":1573, "Miner1":2500}
+INFO-Received block: 81d1c23aefbcc856ed6cbf500e420000
+Miner2 {"Miner2":1574, "Miner1":2511, "Miner3":1471}
+Receiving Block
+Miner2 {"Miner2":1575, "Miner1":2511, "Miner3":1471}
+INFO-Received block: 635eac38e68027ee6bab00cdddb22000
+Miner2 {"Miner3":1471, "Miner2":1576, "Miner1":2511}
+INFO-Accept new block: 635eac38e68027ee6bab00cdddb22000 height: 176
+Miner2 {"Miner2":1577, "Miner1":2511, "Miner3":1471}
+INFO-Switch top block: 635eac38e68027ee6bab00cdddb22000 height: 176 coins: 223
+Miner2 {"Miner2":1578, "Miner1":2511, "Miner3":1471}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2511, "Miner3":1471, "Miner2":1579}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1580, "Miner1":2511, "Miner3":1471}
+Broadcasting Block
+Miner2 {"Miner2":1581, "Miner1":2520, "Miner3":1471}
+Receiving Block
+Miner2 {"Miner1":2520, "Miner3":1471, "Miner2":1582}
+INFO-Received block: 5e73e22b029ad9352a8124f98f1e7000
+Miner2 {"Miner2":1583, "Miner1":2520, "Miner3":1471}
+INFO-Accept new block: 5e73e22b029ad9352a8124f98f1e7000 height: 177
+Miner2 {"Miner2":1584, "Miner1":2520, "Miner3":1471}
+INFO-Switch top block: 5e73e22b029ad9352a8124f98f1e7000 height: 177 coins: 223
+Miner2 {"Miner3":1471, "Miner2":1585, "Miner1":2520}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1586, "Miner1":2520, "Miner3":1471}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1587, "Miner1":2520, "Miner3":1471}
+Broadcasting Block
+Miner2 {"Miner2":1588, "Miner1":2533, "Miner3":1485}
+Receiving Block
+Miner2 {"Miner2":1589, "Miner1":2533, "Miner3":1485}
+INFO-Received block: 34baa681ca09499970bc1781fee71000
+Miner2 {"Miner2":1590, "Miner1":2533, "Miner3":1485}
+INFO-Accept new block: 34baa681ca09499970bc1781fee71000 height: 178
+Miner2 {"Miner2":1591, "Miner1":2533, "Miner3":1485}
+INFO-Switch top block: 34baa681ca09499970bc1781fee71000 height: 178 coins: 223
+Miner2 {"Miner2":1592, "Miner1":2533, "Miner3":1485}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1593, "Miner1":2533, "Miner3":1485}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1594, "Miner1":2533, "Miner3":1485}
+Broadcasting Block
+Miner2 {"Miner2":1595, "Miner1":2542, "Miner3":1485}
+Receiving Block
+Miner2 {"Miner2":1596, "Miner1":2542, "Miner3":1485}
+INFO-Received block: a59e56c72b994a22ce0ed017db988000
+Miner2 {"Miner2":1597, "Miner1":2542, "Miner3":1485}
+INFO-Accept new block: a59e56c72b994a22ce0ed017db988000 height: 179
+Miner2 {"Miner2":1598, "Miner1":2542, "Miner3":1485}
+INFO-Switch top block: a59e56c72b994a22ce0ed017db988000 height: 179 coins: 223
+Miner2 {"Miner2":1599, "Miner1":2542, "Miner3":1485}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1600, "Miner1":2542, "Miner3":1485}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner1":2542, "Miner3":1485, "Miner2":1601}
+Broadcasting Block
+Miner2 {"Miner3":1494, "Miner2":1602, "Miner1":2553}
+Receiving Block
+Miner2 {"Miner2":1603, "Miner1":2553, "Miner3":1494}
+INFO-Received block: d38995a4ca52bb1a2cc72e62347b5000
+Miner2 {"Miner3":1494, "Miner2":1604, "Miner1":2553}
+INFO-Accept new block: d38995a4ca52bb1a2cc72e62347b5000 height: 180
+Miner2 {"Miner2":1605, "Miner1":2553, "Miner3":1494}
+INFO-Switch top block: d38995a4ca52bb1a2cc72e62347b5000 height: 180 coins: 223
+Miner2 {"Miner2":1606, "Miner1":2553, "Miner3":1494}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1607, "Miner1":2553, "Miner3":1494}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1608, "Miner1":2553, "Miner3":1494}
+Broadcasting Block
+Miner2 {"Miner2":1609, "Miner1":2566, "Miner3":1506}
+Receiving Block
+Miner2 {"Miner1":2566, "Miner3":1506, "Miner2":1610}
+INFO-Received block: 7b09b6a3c31ab7a1ce4c01a467bc5000
+Miner2 {"Miner1":2566, "Miner3":1506, "Miner2":1611}
+INFO-Accept new block: 7b09b6a3c31ab7a1ce4c01a467bc5000 height: 181
+Miner2 {"Miner2":1612, "Miner1":2566, "Miner3":1506}
+INFO-Switch top block: 7b09b6a3c31ab7a1ce4c01a467bc5000 height: 181 coins: 223
+Miner2 {"Miner2":1613, "Miner1":2566, "Miner3":1506}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1614, "Miner1":2566, "Miner3":1506}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1615, "Miner1":2566, "Miner3":1506}
+Broadcasting Block
+Miner2 {"Miner2":1616, "Miner1":2577, "Miner3":1513}
+Receiving Block
+Miner2 {"Miner2":1617, "Miner1":2577, "Miner3":1513}
+INFO-Received block: c2de1a80ea34865b59de1e9850e1b000
+Miner2 {"Miner2":1618, "Miner1":2577, "Miner3":1513}
+INFO-Accept new block: c2de1a80ea34865b59de1e9850e1b000 height: 181
+Miner2 {"Miner2":1619, "Miner1":2577, "Miner3":1513}
+INFO-Switch top block: c2de1a80ea34865b59de1e9850e1b000 height: 181 coins: 223
+Miner2 {"Miner1":2577, "Miner3":1513, "Miner2":1620}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1621, "Miner1":2577, "Miner3":1513}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1622, "Miner1":2577, "Miner3":1513}
+Broadcasting Block
+Miner2 {"Miner2":1623, "Miner1":2588, "Miner3":1520}
+Receiving Block
+Miner2 {"Miner3":1520, "Miner2":1624, "Miner1":2588}
+INFO-Received block: 0cb4078230f2adc92670ed3c4c98a000
+Miner2 {"Miner2":1625, "Miner1":2588, "Miner3":1520}
+INFO-Accept new block: 0cb4078230f2adc92670ed3c4c98a000 height: 182
+Miner2 {"Miner2":1626, "Miner1":2588, "Miner3":1520}
+INFO-Switch top block: 0cb4078230f2adc92670ed3c4c98a000 height: 182 coins: 223
+Miner2 {"Miner2":1627, "Miner1":2588, "Miner3":1520}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1628, "Miner1":2588, "Miner3":1520}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1629, "Miner1":2588, "Miner3":1520}
+Broadcasting Block
+Miner2 {"Miner2":1630, "Miner1":2599, "Miner3":1527}
+Receiving Block
+Miner2 {"Miner1":2599, "Miner3":1527, "Miner2":1631}
+INFO-Received block: 05cb7f3fd26ea447391fd8cd4bb6b000
+Miner2 {"Miner2":1632, "Miner1":2599, "Miner3":1527}
+INFO-Accept new block: 05cb7f3fd26ea447391fd8cd4bb6b000 height: 183
+Miner2 {"Miner3":1527, "Miner2":1633, "Miner1":2599}
+INFO-Switch top block: 05cb7f3fd26ea447391fd8cd4bb6b000 height: 183 coins: 223
+Miner2 {"Miner2":1634, "Miner1":2599, "Miner3":1527}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1635, "Miner1":2599, "Miner3":1527}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1527, "Miner2":1636, "Miner1":2599}
+Broadcasting Block
+Miner2 {"Miner2":1637, "Miner1":2608, "Miner3":1527}
+Receiving Block
+Miner2 {"Miner2":1638, "Miner1":2608, "Miner3":1527}
+INFO-Received block: ca2a1ba1759bf7e8c0408af23f90b000
+Miner2 {"Miner2":1639, "Miner1":2608, "Miner3":1527}
+INFO-Accept new block: ca2a1ba1759bf7e8c0408af23f90b000 height: 184
+Miner2 {"Miner2":1640, "Miner1":2608, "Miner3":1527}
+INFO-Switch top block: ca2a1ba1759bf7e8c0408af23f90b000 height: 184 coins: 223
+Miner2 {"Miner2":1641, "Miner1":2608, "Miner3":1527}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1642, "Miner1":2608, "Miner3":1527}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1643, "Miner1":2608, "Miner3":1527}
+Broadcasting Block
+Miner2 {"Miner2":1644, "Miner1":2608, "Miner3":1527}
+INFO-Accept new block: ba0c3905053ed1f804f64bb43660d000 height: 185
+Miner2 {"Miner3":1527, "Miner2":1645, "Miner1":2608}
+INFO-Switch top block: ba0c3905053ed1f804f64bb43660d000 height: 185 coins: 227
+Miner2 {"Miner2":1646, "Miner1":2608, "Miner3":1527}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1647, "Miner1":2608, "Miner3":1527}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1648, "Miner1":2608, "Miner3":1527}
+Broadcasting Block
+Miner2 {"Miner3":1536, "Miner2":1649, "Miner1":2621}
+Receiving Block
+Miner2 {"Miner1":2621, "Miner3":1536, "Miner2":1650}
+INFO-Received block: ba0c3905053ed1f804f64bb43660d000
+Miner2 {"Miner2":1651, "Miner1":2621, "Miner3":1536}
+INFO-Status Report: 1 files in the file system
+Miner2 {"Miner2":1652, "Miner1":2621, "Miner3":1536}
+INFO-
+File #0: [name = test123, 1 records]
+Miner2 {"Miner2":1653, "Miner1":2632, "Miner3":1548}
+Receiving Block
+Miner2 {"Miner3":1548, "Miner2":1654, "Miner1":2632}
+INFO-Received block: 53fe7cff27505dcf5ddcb00a30d5c000
+Miner2 {"Miner2":1655, "Miner1":2632, "Miner3":1548}
+INFO-Accept new block: 53fe7cff27505dcf5ddcb00a30d5c000 height: 186
+Miner2 {"Miner2":1656, "Miner1":2632, "Miner3":1548}
+INFO-Switch top block: 53fe7cff27505dcf5ddcb00a30d5c000 height: 186 coins: 227
+Miner2 {"Miner2":1657, "Miner1":2632, "Miner3":1548}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2632, "Miner3":1548, "Miner2":1658}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1659, "Miner1":2632, "Miner3":1548}
+Broadcasting Block
+Miner2 {"Miner1":2643, "Miner3":1555, "Miner2":1660}
+Receiving Block
+Miner2 {"Miner2":1661, "Miner1":2643, "Miner3":1555}
+INFO-Received block: f57bc2f0c6e6e6d81fa3f986e8f3f000
+Miner2 {"Miner1":2643, "Miner3":1555, "Miner2":1662}
+INFO-Accept new block: f57bc2f0c6e6e6d81fa3f986e8f3f000 height: 187
+Miner2 {"Miner1":2643, "Miner3":1555, "Miner2":1663}
+INFO-Switch top block: f57bc2f0c6e6e6d81fa3f986e8f3f000 height: 187 coins: 227
+Miner2 {"Miner2":1664, "Miner1":2643, "Miner3":1555}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":1555, "Miner2":1665, "Miner1":2643}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1666, "Miner1":2643, "Miner3":1555}
+Broadcasting Block
+Miner2 {"Miner3":1562, "Miner2":1667, "Miner1":2654}
+Receiving Block
+Miner2 {"Miner2":1668, "Miner1":2654, "Miner3":1562}
+INFO-Received block: 46fec91b893dc4127e003fdece065000
+Miner2 {"Miner2":1669, "Miner1":2654, "Miner3":1562}
+INFO-Accept new block: 46fec91b893dc4127e003fdece065000 height: 188
+Miner2 {"Miner2":1670, "Miner1":2654, "Miner3":1562}
+INFO-Switch top block: 46fec91b893dc4127e003fdece065000 height: 188 coins: 227
+Miner2 {"Miner2":1671, "Miner1":2654, "Miner3":1562}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1672, "Miner1":2654, "Miner3":1562}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1562, "Miner2":1673, "Miner1":2654}
+Broadcasting Block
+Miner2 {"Miner2":1674, "Miner1":2663, "Miner3":1562}
+Receiving Block
+Miner2 {"Miner2":1675, "Miner1":2663, "Miner3":1562}
+INFO-Received block: f36dbe3ecbd22fb20d70d0ece7fe3000
+Miner2 {"Miner2":1676, "Miner1":2663, "Miner3":1562}
+INFO-Accept new block: f36dbe3ecbd22fb20d70d0ece7fe3000 height: 189
+Miner2 {"Miner2":1677, "Miner1":2663, "Miner3":1562}
+INFO-Switch top block: f36dbe3ecbd22fb20d70d0ece7fe3000 height: 189 coins: 227
+Miner2 {"Miner3":1562, "Miner2":1678, "Miner1":2663}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1679, "Miner1":2663, "Miner3":1562}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1680, "Miner1":2663, "Miner3":1562}
+Broadcasting Block
+Miner2 {"Miner2":1681, "Miner1":2676, "Miner3":1576}
+Receiving Block
+Miner2 {"Miner2":1682, "Miner1":2676, "Miner3":1576}
+INFO-Received block: c540d04b39d791fa103eddce0a91a000
+Miner2 {"Miner1":2676, "Miner3":1576, "Miner2":1683}
+INFO-Accept new block: c540d04b39d791fa103eddce0a91a000 height: 190
+Miner2 {"Miner3":1576, "Miner2":1684, "Miner1":2676}
+INFO-Switch top block: c540d04b39d791fa103eddce0a91a000 height: 190 coins: 227
+Miner2 {"Miner2":1685, "Miner1":2676, "Miner3":1576}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1686, "Miner1":2676, "Miner3":1576}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1576, "Miner2":1687, "Miner1":2676}
+Broadcasting Block
+Miner2 {"Miner2":1688, "Miner1":2676, "Miner3":1576}
+INFO-Accept new block: 5e2b08c229b2958822e5f4174cefe000 height: 191
+Miner2 {"Miner2":1689, "Miner1":2676, "Miner3":1576}
+INFO-Switch top block: 5e2b08c229b2958822e5f4174cefe000 height: 191 coins: 231
+Miner2 {"Miner2":1690, "Miner1":2676, "Miner3":1576}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1691, "Miner1":2676, "Miner3":1576}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1692, "Miner1":2676, "Miner3":1576}
+Broadcasting Block
+Miner2 {"Miner2":1693, "Miner1":2687, "Miner3":1576}
+Receiving Block
+Miner2 {"Miner2":1694, "Miner1":2687, "Miner3":1576}
+INFO-Received block: 5e2b08c229b2958822e5f4174cefe000
+Miner2 {"Miner2":1695, "Miner1":2687, "Miner3":1576}
+INFO-Accept new block: 8491762ffaccda0e5b19bb35a5a9b000 height: 192
+Miner2 {"Miner2":1696, "Miner1":2687, "Miner3":1576}
+INFO-Switch top block: 8491762ffaccda0e5b19bb35a5a9b000 height: 192 coins: 235
+Miner2 {"Miner2":1697, "Miner1":2687, "Miner3":1576}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1698, "Miner1":2687, "Miner3":1576}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1699, "Miner1":2687, "Miner3":1576}
+Broadcasting Block
+Miner2 {"Miner2":1700, "Miner1":2698, "Miner3":1585}
+Receiving Block
+Miner2 {"Miner2":1701, "Miner1":2698, "Miner3":1585}
+INFO-Received block: 8491762ffaccda0e5b19bb35a5a9b000
+Miner2 {"Miner2":1702, "Miner1":2698, "Miner3":1585}
+INFO-Accept new block: d5d423396f5616681482d3b991947000 height: 193
+Miner2 {"Miner2":1703, "Miner1":2709, "Miner3":1599}
+Receiving Block
+Miner2 {"Miner3":1599, "Miner2":1704, "Miner1":2709}
+INFO-Received block: 61bdfcafa6ee2a66d11cd8cf2b417000
+Miner2 {"Miner3":1599, "Miner2":1705, "Miner1":2709}
+INFO-Switch top block: d5d423396f5616681482d3b991947000 height: 193 coins: 239
+Miner2 {"Miner1":2709, "Miner3":1599, "Miner2":1706}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner1":2709, "Miner3":1599, "Miner2":1707}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1599, "Miner2":1708, "Miner1":2709}
+Broadcasting Block
+Miner2 {"Miner2":1709, "Miner1":2709, "Miner3":1599}
+INFO-Accept new block: 61bdfcafa6ee2a66d11cd8cf2b417000 height: 192
+Miner2 {"Miner2":1710, "Miner1":2709, "Miner3":1599}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner3":1599, "Miner2":1711, "Miner1":2709}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1712, "Miner1":2709, "Miner3":1599}
+Broadcasting Block
+Miner2 {"Miner2":1713, "Miner1":2720, "Miner3":1599}
+Receiving Block
+Miner2 {"Miner1":2720, "Miner3":1599, "Miner2":1714}
+INFO-Received block: d5d423396f5616681482d3b991947000
+Miner2 {"Miner1":2720, "Miner3":1599, "Miner2":1715}
+INFO-Accept new block: 637248aa194253574c5a02c90afa0000 height: 194
+Miner2 {"Miner3":1599, "Miner2":1716, "Miner1":2720}
+INFO-Switch top block: 637248aa194253574c5a02c90afa0000 height: 194 coins: 243
+Miner2 {"Miner1":2720, "Miner3":1599, "Miner2":1717}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1718, "Miner1":2720, "Miner3":1599}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner3":1599, "Miner2":1719, "Miner1":2720}
+Broadcasting Block
+Miner2 {"Miner2":1720, "Miner1":2731, "Miner3":1608}
+Receiving Block
+Miner2 {"Miner2":1721, "Miner1":2731, "Miner3":1608}
+INFO-Received block: 637248aa194253574c5a02c90afa0000
+Miner2 {"Miner2":1722, "Miner1":2731, "Miner3":1608}
+INFO-Accept new block: 522fc60573c28f41c0fe81da27fa6000 height: 195
+Miner2 {"Miner2":1723, "Miner1":2731, "Miner3":1608}
+INFO-Switch top block: 522fc60573c28f41c0fe81da27fa6000 height: 195 coins: 247
+Miner2 {"Miner2":1724, "Miner1":2731, "Miner3":1608}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1725, "Miner1":2731, "Miner3":1608}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1726, "Miner1":2731, "Miner3":1608}
+Broadcasting Block
+Miner2 {"Miner2":1727, "Miner1":2742, "Miner3":1615}
+Receiving Block
+Miner2 {"Miner2":1728, "Miner1":2742, "Miner3":1615}
+INFO-Received block: 522fc60573c28f41c0fe81da27fa6000
+Miner2 {"Miner2":1729, "Miner1":2742, "Miner3":1615}
+INFO-Accept new block: edf749107802aee67f51f55ce09a5000 height: 196
+Miner2 {"Miner1":2742, "Miner3":1615, "Miner2":1730}
+INFO-Switch top block: edf749107802aee67f51f55ce09a5000 height: 196 coins: 251
+Miner2 {"Miner2":1731, "Miner1":2742, "Miner3":1615}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1732, "Miner1":2742, "Miner3":1615}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1733, "Miner1":2742, "Miner3":1615}
+INFO-Unable to RPCDial remote miner at 127.0.0.1:8080
+Miner2 {"Miner2":1734, "Miner1":2742, "Miner3":1615}
+INFO-Accept new block: 4371803406f806382430b503c63ed000 height: 197
+Miner2 {"Miner2":1735, "Miner1":2742, "Miner3":1615}
+INFO-Switch top block: 4371803406f806382430b503c63ed000 height: 197 coins: 255
+Miner2 {"Miner2":1736, "Miner1":2742, "Miner3":1615}
+INFO-Broadcasting this block as it was not broadcasted before.
+Miner2 {"Miner2":1737, "Miner1":2742, "Miner3":1615}
+INFO-Will dial remote miner @ 127.0.0.1:8080 to broadcast block
+Miner2 {"Miner2":1738, "Miner1":2742, "Miner3":1615}
+INFO-Unable to RPCDial remote miner at 127.0.0.1:8080
