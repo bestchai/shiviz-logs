@@ -1,0 +1,1385 @@
+{
+    "nodes": [
+        {
+            "id": "server",
+            "description": ""
+        },
+        {
+            "id": "10_0_0_82_7004",
+            "description": ""
+        },
+        {
+            "id": "60025_host",
+            "description": ""
+        },
+        {
+            "id": "10_0_0_82_7000",
+            "description": ""
+        },
+        {
+            "id": "10_0_0_82_7001",
+            "description": ""
+        },
+        {
+            "id": "59998_host",
+            "description": ""
+        },
+        {
+            "id": "10_0_0_82_7003",
+            "description": ""
+        },
+        {
+            "id": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": ""
+        },
+        {
+            "id": "10_0_0_82_7002",
+            "description": ""
+        }
+    ],
+    "links": [
+        {
+            "timestamp": 1,
+            "destination": "server",
+            "clock": {
+                "server": 1
+            },
+            "source": "server",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "server",
+            "clock": {
+                "59998_host": 3,
+                "server": 2
+            },
+            "source": "server",
+            "description": "Prepare to register host"
+        },
+        {
+            "timestamp": 1,
+            "destination": "10_0_0_82_7004",
+            "clock": {
+                "10_0_0_82_7004": 1
+            },
+            "source": "10_0_0_82_7004",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 1,
+            "destination": "60025_host",
+            "clock": {
+                "60025_host": 1
+            },
+            "source": "60025_host",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "60025_host",
+            "clock": {
+                "60025_host": 2
+            },
+            "source": "60025_host",
+            "description": "Sending a register request to replica"
+        },
+        {
+            "timestamp": 3,
+            "destination": "60025_host",
+            "clock": {
+                "60025_host": 3
+            },
+            "source": "60025_host",
+            "description": "INFO-We are a replica host"
+        },
+        {
+            "timestamp": 4,
+            "destination": "60025_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 4,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Backing up the post"
+        },
+        {
+            "timestamp": 1,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "10_0_0_82_7000": 1
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 2,
+                "10_0_0_82_7000": 2
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Register client lib"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a post from client lib"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 5,
+                "10_0_0_82_7002": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 6,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 7,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 1,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "10_0_0_82_7001": 1
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 2
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 4
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 5,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 1,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 1
+            },
+            "source": "59998_host",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 2
+            },
+            "source": "59998_host",
+            "description": "INFO-We are a primary host"
+        },
+        {
+            "timestamp": 3,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 3
+            },
+            "source": "59998_host",
+            "description": "Prepare to register with the server"
+        },
+        {
+            "timestamp": 4,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 4,
+                "60025_host": 2
+            },
+            "source": "59998_host",
+            "description": "Received a registration request from replica"
+        },
+        {
+            "timestamp": 5,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 5,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "59998_host",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "59998_host",
+            "description": "Ask replica to back up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "59998_host",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 1,
+            "destination": "10_0_0_82_7003",
+            "clock": {
+                "10_0_0_82_7003": 1
+            },
+            "source": "10_0_0_82_7003",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 1,
+            "destination": "clientlib_10_0_0_82_64000_pid_60175",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 1
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "clientlib_10_0_0_82_64000_pid_60175",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 2
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Register with client node"
+        },
+        {
+            "timestamp": 3,
+            "destination": "clientlib_10_0_0_82_64000_pid_60175",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Send a post to client node"
+        },
+        {
+            "timestamp": 1,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "10_0_0_82_7002": 1
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Initialization Complete"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 2
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 5,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 7,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 8,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 2
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 4
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 5,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 2
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 5,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 7,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 8,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 5,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Ask replica to back up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "60025_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 4,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7000",
+            "description": "Backing up the post"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 5,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 5,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Ask replica to back up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "60025_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 4,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Backing up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 7,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 8,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7001",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 5,
+                "10_0_0_82_7002": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 2
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 4
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 5,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 5,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Ask replica to back up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "60025_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 4,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Backing up the post"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 6,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 7,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "10_0_0_82_7002",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 2,
+            "destination": "server",
+            "clock": {
+                "59998_host": 3,
+                "server": 2
+            },
+            "source": "59998_host",
+            "description": "Prepare to register host"
+        },
+        {
+            "timestamp": 4,
+            "destination": "60025_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 4,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "59998_host",
+            "description": "Backing up the post"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 5,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "59998_host",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "59998_host",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 7,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 5,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 7,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 8,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 4,
+                "60025_host": 2
+            },
+            "source": "60025_host",
+            "description": "Received a registration request from replica"
+        },
+        {
+            "timestamp": 5,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 5,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Ask replica to back up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "60025_host",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 2,
+                "10_0_0_82_7000": 2
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Register client lib"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a post from client lib"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 5,
+                "10_0_0_82_7002": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 6,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7000",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 7,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 2
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4,
+                "10_0_0_82_7001": 4
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 5,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7001",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 2,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 2
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 3,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 4
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 5,
+                "10_0_0_82_7001": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: confirmation message session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "clientlib_10_0_0_82_64000_pid_60175": 3,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7002": 6,
+                "10_0_0_82_7001": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 7,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 7,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: host confirmation - session key ...c03dc5fa8d"
+        },
+        {
+            "timestamp": 8,
+            "destination": "10_0_0_82_7002",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 6,
+                "10_0_0_82_7002": 8,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 5,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 5,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Received a relay message: initial post message - session key c03dc5fa8d"
+        },
+        {
+            "timestamp": 6,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Ask replica to back up the post"
+        },
+        {
+            "timestamp": 7,
+            "destination": "59998_host",
+            "clock": {
+                "59998_host": 7,
+                "60025_host": 2,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Sending off a message"
+        },
+        {
+            "timestamp": 4,
+            "destination": "60025_host",
+            "clock": {
+                "59998_host": 6,
+                "60025_host": 4,
+                "10_0_0_82_7000": 4,
+                "10_0_0_82_7001": 4,
+                "10_0_0_82_7002": 4,
+                "clientlib_10_0_0_82_64000_pid_60175": 3
+            },
+            "source": "clientlib_10_0_0_82_64000_pid_60175",
+            "description": "Backing up the post"
+        }
+    ]
+}
