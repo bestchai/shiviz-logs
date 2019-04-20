@@ -13,3 +13,6 @@ which the client was connected).
 
 The difference between executions is that the set of relay nodes differ
 in the executions.
+
+
+Parsing regexp: ```(?<host>\S*) (?<clock>{.*})\n(?<event>.*)```
