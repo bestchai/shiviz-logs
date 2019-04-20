@@ -1,0 +1,234 @@
+userName2 {"userName2":1}
+Initialization Complete
+userName2 {"userName2":2}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51001
+userName2 {"userName2":3, "userName0":2}
+ReceivePing
+userName2 {"userName2":4, "userName0":2}
+INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8000
+userName2 {"userName2":5, "userName0":2}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51002
+userName2 {"userName2":6, "userName0":2, "userName1":2}
+ReceivePing
+userName2 {"userName2":7, "userName0":2, "userName1":2}
+INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8001
+userName2 {"userName1":2, "userName2":8, "userName0":2}
+Sending Shout
+userName2 {"userName2":9, "userName0":2, "userName1":2}
+Sending Shout
+userName2 {"userName2":10, "userName0":2, "userName1":2}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51005
+userName2 {"userName2":11, "userName0":8, "userName1":2}
+Received Shout
+userName2 {"userName2":12, "userName0":8, "userName1":2}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51006
+userName2 {"userName0":8, "userName1":9, "userName2":13}
+Received Shout
+userName2 {"userName0":8, "userName1":9, "userName2":14}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51007
+userName2 {"userName0":8, "userName1":10, "userName2":15}
+Received Shout
+userName2 {"userName2":16, "userName0":8, "userName1":10}
+INFO-NS-RebroadcastShout: flooded shout with ID nTpgabjMYOBMRGWGDmroWdihfKAtRFqAAuhntmunlekUqUBauQDrbMHSfDJTrtuV to peer 127.0.0.1:8000
+userName2 {"userName2":17, "userName0":8, "userName1":10}
+Rebroadcasting Shout
+userName2 {"userName2":18, "userName0":8, "userName1":10}
+INFO-NS-RebroadcastShout: flooded shout with ID nTpgabjMYOBMRGWGDmroWdihfKAtRFqAAuhntmunlekUqUBauQDrbMHSfDJTrtuV to peer 127.0.0.1:8001
+userName2 {"userName2":19, "userName0":8, "userName1":10}
+Rebroadcasting Shout
+userName2 {"userName2":20, "userName0":8, "userName1":10}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51010
+userName2 {"userName2":21, "userName0":12, "userName1":10}
+Received Shout
+userName2 {"userName0":12, "userName1":10, "userName2":22}
+INFO-NS: Listening for messages to room testRoom
+userName2 {"userName2":23, "userName0":12, "userName1":10}
+Requesting Message History
+userName2 {"userName2":24, "userName0":12, "userName1":10}
+INFO-NS: Fetching message history. This is a locking call and might take a while.
+userName2 {"userName2":25, "userName0":12, "userName1":10}
+Requesting Message History
+userName2 {"userName2":26, "userName0":12, "userName1":10}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51013
+userName2 {"userName1":10, "userName2":27, "userName0":12}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51014
+userName2 {"userName2":28, "userName0":12, "userName1":17}
+Received Message History
+userName2 {"userName2":29, "userName0":12, "userName1":19}
+Received request to send message history
+userName2 {"userName2":30, "userName0":12, "userName1":19}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51015
+userName2 {"userName1":22, "userName2":31, "userName0":12}
+Receiving Message
+userName2 {"userName2":32, "userName0":12, "userName1":22}
+INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.
+userName2 {"userName2":33, "userName0":12, "userName1":22}
+INFO-NS: received message from remote, gave it to server: kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqn
+userName2 {"userName2":34, "userName0":12, "userName1":22}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8001
+userName2 {"userName2":35, "userName0":12, "userName1":22}
+Resending Message
+userName2 {"userName2":36, "userName0":12, "userName1":22}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8000
+userName2 {"userName2":37, "userName0":12, "userName1":22}
+Resending Message
+userName2 {"userName2":38, "userName0":12, "userName1":22}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51018
+userName2 {"userName1":22, "userName2":39, "userName0":21}
+Receiving Message
+userName2 {"userName1":22, "userName2":40, "userName0":21}
+INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.
+userName2 {"userName2":41, "userName0":21, "userName1":22}
+INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.
+userName2 {"userName2":42, "userName0":21, "userName1":22}
+INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.
+userName2 {"userName2":43, "userName0":21, "userName1":22}
+Sending Message
+userName2 {"userName1":22, "userName2":44, "userName0":21}
+INFO-NS: Successfully sent message to room testRoom
+userName2 {"userName0":21, "userName1":22, "userName2":45}
+Sending Message
+userName2 {"userName2":46, "userName0":21, "userName1":22}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51021
+userName2 {"userName2":47, "userName0":21, "userName1":22}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51022
+userName2 {"userName2":48, "userName0":27, "userName1":22}
+Receiving Message
+userName2 {"userName2":49, "userName0":27, "userName1":22}
+INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.
+userName2 {"userName0":27, "userName1":31, "userName2":50}
+Receiving Message
+userName2 {"userName2":51, "userName0":27, "userName1":31}
+INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.
+userName2 {"userName2":52, "userName0":27, "userName1":31}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51023
+userName2 {"userName2":53, "userName0":28, "userName1":31}
+Received Shout
+userName2 {"userName2":54, "userName0":28, "userName1":31}
+INFO-NS-RebroadcastShout: flooded shout with ID lpgYLOTWCfGLZloqkAhNXScRlJZFnxhvdiyfexAlRhOFWPpxvCBErWxmZARFQZQB to peer 127.0.0.1:8000
+userName2 {"userName1":31, "userName2":55, "userName0":28}
+Rebroadcasting Shout
+userName2 {"userName2":56, "userName0":28, "userName1":31}
+INFO-NS-RebroadcastShout: flooded shout with ID lpgYLOTWCfGLZloqkAhNXScRlJZFnxhvdiyfexAlRhOFWPpxvCBErWxmZARFQZQB to peer 127.0.0.1:8001
+userName2 {"userName2":57, "userName0":28, "userName1":31}
+Rebroadcasting Shout
+userName2 {"userName2":58, "userName0":28, "userName1":31}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51026
+userName2 {"userName2":59, "userName0":28, "userName1":35}
+Received Shout
+userName2 {"userName2":60, "userName0":28, "userName1":35}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51027
+userName2 {"userName2":61, "userName0":28, "userName1":36}
+Received Shout
+userName2 {"userName1":36, "userName2":62, "userName0":28}
+INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8000
+userName2 {"userName2":63, "userName0":28, "userName1":36}
+Rebroadcasting Shout
+userName2 {"userName2":64, "userName0":28, "userName1":36}
+INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8001
+userName2 {"userName2":65, "userName0":28, "userName1":36}
+Rebroadcasting Shout
+userName2 {"userName2":66, "userName0":28, "userName1":36}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51030
+userName2 {"userName1":36, "userName2":67, "userName0":34}
+Received Shout
+userName2 {"userName2":68, "userName0":34, "userName1":36}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51031
+userName2 {"userName0":37, "userName1":36, "userName2":69}
+Received request to send message history
+userName2 {"userName2":70, "userName0":37, "userName1":36}
+INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8000 asked for history of roomNickname testRoom sending it over.
+userName2 {"userName2":71, "userName0":37, "userName1":36}
+INFO-NS-SendMessageHistory: sending 2 messages to 127.0.0.1:8000
+userName2 {"userName1":36, "userName2":72, "userName0":37}
+Sending message history
+userName2 {"userName2":73, "userName0":37, "userName1":36}
+INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID hktHGkJmAshVJuJFEVBJRJqgtUXUpXdfJDHQmHrfKPKnYqzoiWMNmBKalsmKsgfJ to peer @ 127.0.0.1:8000
+userName2 {"userName2":74, "userName0":37, "userName1":36}
+Flooding request to send msg history
+userName2 {"userName2":75, "userName0":37, "userName1":36}
+INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID hktHGkJmAshVJuJFEVBJRJqgtUXUpXdfJDHQmHrfKPKnYqzoiWMNmBKalsmKsgfJ to peer @ 127.0.0.1:8001
+userName2 {"userName2":76, "userName0":37, "userName1":36}
+Flooding request to send msg history
+userName2 {"userName1":36, "userName2":77, "userName0":37}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51035
+userName2 {"userName2":78, "userName0":37, "userName1":41}
+Receiving Message
+userName2 {"userName2":79, "userName0":37, "userName1":41}
+INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.
+userName2 {"userName2":80, "userName0":37, "userName1":41}
+INFO-NS: received message from remote, gave it to server: HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTm
+userName2 {"userName2":81, "userName0":37, "userName1":41}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTmto peer @ 127.0.0.1:8000
+userName2 {"userName2":82, "userName0":37, "userName1":41}
+Resending Message
+userName2 {"userName1":41, "userName2":83, "userName0":37}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTmto peer @ 127.0.0.1:8001
+userName2 {"userName2":84, "userName0":37, "userName1":41}
+Resending Message
+userName2 {"userName2":85, "userName0":37, "userName1":41}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51038
+userName2 {"userName2":86, "userName0":49, "userName1":41}
+Receiving Message
+userName2 {"userName2":87, "userName0":49, "userName1":41}
+INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.
+userName2 {"userName2":88, "userName0":49, "userName1":41}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51044
+userName2 {"userName2":89, "userName0":52, "userName1":41}
+Receiving Message
+userName2 {"userName1":41, "userName2":90, "userName0":52}
+INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.
+userName2 {"userName2":91, "userName0":52, "userName1":41}
+INFO-NS: received message from remote, gave it to server: tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpL
+userName2 {"userName1":41, "userName2":92, "userName0":52}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8000
+userName2 {"userName2":93, "userName0":52, "userName1":41}
+Resending Message
+userName2 {"userName1":41, "userName2":94, "userName0":52}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8001
+userName2 {"userName2":95, "userName0":52, "userName1":41}
+Resending Message
+userName2 {"userName2":96, "userName0":52, "userName1":41}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51047
+userName2 {"userName2":97, "userName0":52, "userName1":50}
+Receiving Message
+userName2 {"userName0":52, "userName1":50, "userName2":98}
+INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.
+userName2 {"userName2":99, "userName0":52, "userName1":50}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51056
+userName2 {"userName0":52, "userName1":51, "userName2":100}
+Received Shout
+userName2 {"userName2":101, "userName0":52, "userName1":51}
+INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8000
+userName2 {"userName1":51, "userName2":102, "userName0":52}
+Rebroadcasting Shout
+userName2 {"userName1":51, "userName2":103, "userName0":52}
+INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8001
+userName2 {"userName2":104, "userName0":52, "userName1":51}
+Rebroadcasting Shout
+userName2 {"userName2":105, "userName0":52, "userName1":51}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51059
+userName2 {"userName2":106, "userName0":59, "userName1":51}
+Received Shout
+userName2 {"userName2":107, "userName0":59, "userName1":51}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51060
+userName2 {"userName2":108, "userName0":59, "userName1":56}
+Receiving Message
+userName2 {"userName1":56, "userName2":109, "userName0":59}
+INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.
+userName2 {"userName1":56, "userName2":110, "userName0":59}
+INFO-NS: received message from remote, gave it to server: AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziG
+userName2 {"userName2":111, "userName0":59, "userName1":56}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziGto peer @ 127.0.0.1:8000
+userName2 {"userName1":56, "userName2":112, "userName0":59}
+Resending Message
+userName2 {"userName2":113, "userName0":59, "userName1":56}
+INFO-NS-RebroadcastReceivedMessage: flooded msg with ID AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziGto peer @ 127.0.0.1:8001
+userName2 {"userName0":59, "userName1":56, "userName2":114}
+Resending Message
+userName2 {"userName2":115, "userName0":59, "userName1":56}
+INFO-NS-Serve: Accepted connection from 127.0.0.1:51063
+userName2 {"userName2":116, "userName0":65, "userName1":56}
+Receiving Message
+userName2 {"userName2":117, "userName0":65, "userName1":56}
+INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.

@@ -1,0 +1,4958 @@
+{
+    "nodes": [
+        {
+            "description": "",
+            "id": "userName1"
+        },
+        {
+            "description": "",
+            "id": "userName0"
+        },
+        {
+            "description": "",
+            "id": "userName2"
+        }
+    ],
+    "links": [
+        {
+            "clock": {
+                "userName1": 1
+            },
+            "description": "Initialization Complete",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 1
+        },
+        {
+            "clock": {
+                "userName1": 2
+            },
+            "description": "Sending Ping",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 2
+        },
+        {
+            "clock": {
+                "userName1": 3
+            },
+            "description": "INFO-NS-AddPeer: Pinged new peer @ 127.0.0.1:8002 successfully.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 3
+        },
+        {
+            "clock": {
+                "userName1": 4
+            },
+            "description": "INFO-NS-AddPeer: There are now 1 peers connected to me.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 4
+        },
+        {
+            "clock": {
+                "userName1": 5
+            },
+            "description": "INFO-NS: Listening for messages to room testRoom",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 5
+        },
+        {
+            "clock": {
+                "userName1": 6
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51004",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 7,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 8,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID pYeehfKjpQQQfklAoAkDMdZQCIGoxZorBZLlKvwaYHpGDslygycAjovEkeNaLxRV to peer 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 9,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Sending Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 11,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51009",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 12,
+                "userName0": 8,
+                "userName2": 19
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 13,
+                "userName0": 8,
+                "userName2": 19
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51012",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 13
+        },
+        {
+            "clock": {
+                "userName1": 14,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Received request to send message history",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 14
+        },
+        {
+            "clock": {
+                "userName1": 15,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8002 asked for history of roomNickname testRoom sending it over.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 15
+        },
+        {
+            "clock": {
+                "userName1": 16,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-SendMessageHistory: sending 1 messages to 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 16
+        },
+        {
+            "clock": {
+                "userName1": 17,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Sending message history",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 17
+        },
+        {
+            "clock": {
+                "userName1": 18,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID DXFwjnSEeAjOHPNjmQcxaZNcwFZlKLwEaGZtjNJRHlVTSjKUaqiLuPxnCXaclMpO to peer @ 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 18
+        },
+        {
+            "clock": {
+                "userName1": 19,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Flooding request to send msg history",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 19
+        },
+        {
+            "clock": {
+                "userName1": 20,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 20
+        },
+        {
+            "clock": {
+                "userName1": 21,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 21
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Sending Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 22
+        },
+        {
+            "clock": {
+                "userName1": 23,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51016",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 23
+        },
+        {
+            "clock": {
+                "userName1": 24,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 24
+        },
+        {
+            "clock": {
+                "userName1": 25,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 25
+        },
+        {
+            "clock": {
+                "userName1": 26,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51020",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 26
+        },
+        {
+            "clock": {
+                "userName1": 27,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 27
+        },
+        {
+            "clock": {
+                "userName1": 28,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 28
+        },
+        {
+            "clock": {
+                "userName1": 29,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: VrcANXznUOfiqBhNsWuDVSMZJhZPqbJXPWbjUMqiFWCvkIVqNdHHvmoGPAMrOMpo",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 29
+        },
+        {
+            "clock": {
+                "userName1": 30,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID VrcANXznUOfiqBhNsWuDVSMZJhZPqbJXPWbjUMqiFWCvkIVqNdHHvmoGPAMrOMpoto peer @ 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 30
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "Resending Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 31
+        },
+        {
+            "clock": {
+                "userName1": 32,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51025",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 32
+        },
+        {
+            "clock": {
+                "userName1": 33,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 33
+        },
+        {
+            "clock": {
+                "userName1": 34,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID lpgYLOTWCfGLZloqkAhNXScRlJZFnxhvdiyfexAlRhOFWPpxvCBErWxmZARFQZQB to peer 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 34
+        },
+        {
+            "clock": {
+                "userName1": 35,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 35
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Sending Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 36
+        },
+        {
+            "clock": {
+                "userName1": 37,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51029",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 37
+        },
+        {
+            "clock": {
+                "userName1": 38,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 38
+        },
+        {
+            "clock": {
+                "userName1": 39,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 39
+        },
+        {
+            "clock": {
+                "userName1": 40,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 40
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "Sending Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 41
+        },
+        {
+            "clock": {
+                "userName1": 42,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51037",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 42
+        },
+        {
+            "clock": {
+                "userName1": 43,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 43
+        },
+        {
+            "clock": {
+                "userName1": 44,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 44
+        },
+        {
+            "clock": {
+                "userName1": 45,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51046",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 45
+        },
+        {
+            "clock": {
+                "userName1": 46,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 46
+        },
+        {
+            "clock": {
+                "userName1": 47,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 47
+        },
+        {
+            "clock": {
+                "userName1": 48,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpL",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 48
+        },
+        {
+            "clock": {
+                "userName1": 49,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 49
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Resending Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 50
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Sending Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 51
+        },
+        {
+            "clock": {
+                "userName1": 52,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51058",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 52
+        },
+        {
+            "clock": {
+                "userName1": 53,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 53
+        },
+        {
+            "clock": {
+                "userName1": 54,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 54
+        },
+        {
+            "clock": {
+                "userName1": 55,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 55
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "Sending Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 56
+        },
+        {
+            "clock": {
+                "userName1": 57,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51062",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 57
+        },
+        {
+            "clock": {
+                "userName1": 58,
+                "userName0": 59,
+                "userName2": 114
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 58
+        },
+        {
+            "clock": {
+                "userName1": 59,
+                "userName0": 59,
+                "userName2": 114
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName1",
+            "destination": "userName1",
+            "timestamp": 59
+        },
+        {
+            "clock": {
+                "userName0": 1
+            },
+            "description": "Initialization Complete",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 1
+        },
+        {
+            "clock": {
+                "userName0": 2
+            },
+            "description": "Sending Ping",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 2
+        },
+        {
+            "clock": {
+                "userName0": 3
+            },
+            "description": "INFO-NS-AddPeer: Pinged new peer @ 127.0.0.1:8002 successfully.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 3
+        },
+        {
+            "clock": {
+                "userName0": 4
+            },
+            "description": "INFO-NS-AddPeer: There are now 1 peers connected to me.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 4
+        },
+        {
+            "clock": {
+                "userName0": 5
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51003",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 5
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 6,
+                "userName2": 8
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 7,
+                "userName2": 8
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID gBymYeIPrCFiChegmqibmUCaRzlGpRHrSvqmOcszhnAIDmqkYNwjJGIVdNgUqpTj to peer 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 8
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 9,
+                "userName2": 8
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51008",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 10,
+                "userName2": 17
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 11,
+                "userName2": 17
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID nTpgabjMYOBMRGWGDmroWdihfKAtRFqAAuhntmunlekUqUBauQDrbMHSfDJTrtuV to peer 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 17
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 13,
+                "userName2": 17
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51011",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 13
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 14,
+                "userName2": 23
+            },
+            "description": "Received request to send message history",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 14
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 15,
+                "userName2": 23
+            },
+            "description": "INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8002 asked for history of room testRoom but I don't have this room here.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 15
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 16,
+                "userName2": 23
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51017",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 16
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 17,
+                "userName2": 37
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 17
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 18,
+                "userName2": 37
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 18
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 19,
+                "userName2": 37
+            },
+            "description": "INFO-NS: received message from remote but there was no channel for roomNickname: testRoom",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 19
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 20,
+                "userName2": 37
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 20
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 37
+            },
+            "description": "Resending Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 21
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 22,
+                "userName2": 37
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51019",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 22
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 23,
+                "userName2": 43
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 23
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 24,
+                "userName2": 43
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 24
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 25,
+                "userName2": 43
+            },
+            "description": "INFO-NS: received message from remote but there was no channel for roomNickname: testRoom",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 25
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 26,
+                "userName2": 43
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tGZoEeXMjlQodAWKaNDVKiNvlekIhonIxYYaSizwKYNAkrTLJMfvVQiQYNyESfMqto peer @ 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 26
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 27,
+                "userName2": 43
+            },
+            "description": "Resending Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 27
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 28,
+                "userName2": 43
+            },
+            "description": "Sending Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 28
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 29,
+                "userName2": 43
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51024",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 29
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 30,
+                "userName2": 55
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 30
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 31,
+                "userName2": 55
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51028",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 31
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 32,
+                "userName2": 63
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 32
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 33,
+                "userName2": 63
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 33
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 34,
+                "userName2": 63
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 34
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 35,
+                "userName2": 63
+            },
+            "description": "INFO-NS: Listening for messages to room testRoom",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 35
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 36,
+                "userName2": 63
+            },
+            "description": "INFO-NS: Fetching message history. This is a locking call and might take a while.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 36
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 63
+            },
+            "description": "Requesting Message History",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 37
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 38,
+                "userName2": 63
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51032",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 38
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 39,
+                "userName2": 63
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51033",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 39
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 40,
+                "userName2": 72
+            },
+            "description": "Received Message History",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 40
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 41,
+                "userName2": 72
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51034",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 41
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 42,
+                "userName2": 74
+            },
+            "description": "Received request to send message history",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 42
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 43,
+                "userName2": 76
+            },
+            "description": "Received request to send message history",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 43
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 44,
+                "userName2": 76
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51036",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 44
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 45,
+                "userName2": 82
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 45
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 46,
+                "userName2": 82
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 46
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 47,
+                "userName2": 82
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTm",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 47
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 48,
+                "userName2": 82
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTmto peer @ 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 48
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 82
+            },
+            "description": "Resending Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 49
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 50,
+                "userName2": 82
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 50
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 51,
+                "userName2": 82
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 51
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 82
+            },
+            "description": "Sending Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 52
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 53,
+                "userName2": 82
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51045",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 53
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 54,
+                "userName2": 93
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 54
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 55,
+                "userName2": 93
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 55
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 56,
+                "userName2": 93
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51057",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 56
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 57,
+                "userName2": 102
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 57
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 58,
+                "userName2": 102
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 58
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 59,
+                "userName2": 102
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 59
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 60,
+                "userName2": 102
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51061",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 60
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 61,
+                "userName2": 112
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 61
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 62,
+                "userName2": 112
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 62
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 63,
+                "userName2": 112
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziG",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 63
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 64,
+                "userName2": 112
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziGto peer @ 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 64
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 65,
+                "userName2": 112
+            },
+            "description": "Resending Message",
+            "source": "userName0",
+            "destination": "userName0",
+            "timestamp": 65
+        },
+        {
+            "clock": {
+                "userName2": 1
+            },
+            "description": "Initialization Complete",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 1
+        },
+        {
+            "clock": {
+                "userName2": 2
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 2
+        },
+        {
+            "clock": {
+                "userName0": 2,
+                "userName2": 3
+            },
+            "description": "ReceivePing",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 3
+        },
+        {
+            "clock": {
+                "userName0": 2,
+                "userName2": 4
+            },
+            "description": "INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 4
+        },
+        {
+            "clock": {
+                "userName0": 2,
+                "userName2": 5
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51002",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 5
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 6
+            },
+            "description": "ReceivePing",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 7
+            },
+            "description": "INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 8
+            },
+            "description": "Sending Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Sending Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 10
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51005",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 11
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 12
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51006",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 9,
+                "userName0": 8,
+                "userName2": 13
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 13
+        },
+        {
+            "clock": {
+                "userName1": 9,
+                "userName0": 8,
+                "userName2": 14
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51007",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 14
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 8,
+                "userName2": 15
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 15
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 8,
+                "userName2": 16
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID nTpgabjMYOBMRGWGDmroWdihfKAtRFqAAuhntmunlekUqUBauQDrbMHSfDJTrtuV to peer 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 16
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 8,
+                "userName2": 17
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 17
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 8,
+                "userName2": 18
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID nTpgabjMYOBMRGWGDmroWdihfKAtRFqAAuhntmunlekUqUBauQDrbMHSfDJTrtuV to peer 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 18
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 8,
+                "userName2": 19
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 19
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 8,
+                "userName2": 20
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51010",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 20
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 21
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 21
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 22
+            },
+            "description": "INFO-NS: Listening for messages to room testRoom",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 22
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 23
+            },
+            "description": "Requesting Message History",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 23
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 24
+            },
+            "description": "INFO-NS: Fetching message history. This is a locking call and might take a while.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 24
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Requesting Message History",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 25
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 26
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51013",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 26
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 27
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51014",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 27
+        },
+        {
+            "clock": {
+                "userName1": 17,
+                "userName0": 12,
+                "userName2": 28
+            },
+            "description": "Received Message History",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 28
+        },
+        {
+            "clock": {
+                "userName1": 19,
+                "userName0": 12,
+                "userName2": 29
+            },
+            "description": "Received request to send message history",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 29
+        },
+        {
+            "clock": {
+                "userName1": 19,
+                "userName0": 12,
+                "userName2": 30
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51015",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 30
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 31
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 31
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 32
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 32
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 33
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqn",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 33
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 34
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 34
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 35
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 36
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 36
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 37
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 37
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 38
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51018",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 38
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 39
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 39
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 40
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 40
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 41
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 41
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 42
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 42
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 43
+            },
+            "description": "Sending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 43
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 44
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 44
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "Sending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 45
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 46
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51021",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 46
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 47
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51022",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 47
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 27,
+                "userName2": 48
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 48
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 27,
+                "userName2": 49
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 49
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 27,
+                "userName2": 50
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 50
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 27,
+                "userName2": 51
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 51
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 27,
+                "userName2": 52
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51023",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 52
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 28,
+                "userName2": 53
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 53
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 28,
+                "userName2": 54
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID lpgYLOTWCfGLZloqkAhNXScRlJZFnxhvdiyfexAlRhOFWPpxvCBErWxmZARFQZQB to peer 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 54
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 28,
+                "userName2": 55
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 55
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 28,
+                "userName2": 56
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID lpgYLOTWCfGLZloqkAhNXScRlJZFnxhvdiyfexAlRhOFWPpxvCBErWxmZARFQZQB to peer 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 56
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 57
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 28,
+                "userName2": 58
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51026",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 58
+        },
+        {
+            "clock": {
+                "userName1": 35,
+                "userName0": 28,
+                "userName2": 59
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 59
+        },
+        {
+            "clock": {
+                "userName1": 35,
+                "userName0": 28,
+                "userName2": 60
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51027",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 60
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 61
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 61
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 62
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 62
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 63
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 63
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 64
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 64
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 65
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 66
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51030",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 66
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 34,
+                "userName2": 67
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 67
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 34,
+                "userName2": 68
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51031",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 68
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 69
+            },
+            "description": "Received request to send message history",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 69
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 70
+            },
+            "description": "INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8000 asked for history of roomNickname testRoom sending it over.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 70
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 71
+            },
+            "description": "INFO-NS-SendMessageHistory: sending 2 messages to 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 71
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 72
+            },
+            "description": "Sending message history",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 72
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 73
+            },
+            "description": "INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID hktHGkJmAshVJuJFEVBJRJqgtUXUpXdfJDHQmHrfKPKnYqzoiWMNmBKalsmKsgfJ to peer @ 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 73
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 74
+            },
+            "description": "Flooding request to send msg history",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 74
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 75
+            },
+            "description": "INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID hktHGkJmAshVJuJFEVBJRJqgtUXUpXdfJDHQmHrfKPKnYqzoiWMNmBKalsmKsgfJ to peer @ 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 75
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 76
+            },
+            "description": "Flooding request to send msg history",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 76
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 77
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51035",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 77
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 78
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 78
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 79
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 79
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 80
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTm",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 80
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 81
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTmto peer @ 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 81
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 82
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 82
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 83
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTmto peer @ 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 83
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 84
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 37,
+                "userName2": 85
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51038",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 85
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 86
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 86
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 87
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 87
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 88
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51044",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 88
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 89
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 89
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 90
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 90
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 91
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpL",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 91
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 92
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 92
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 93
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 93
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 94
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 94
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 95
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 96
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51047",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 96
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 97
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 97
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 98
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 98
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 99
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51056",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 99
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 100
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 100
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 101
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 101
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 102
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 102
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 103
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 103
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 104
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 105
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51059",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 105
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 59,
+                "userName2": 106
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 106
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 59,
+                "userName2": 107
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51060",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 107
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 108
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 108
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 109
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 109
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 110
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziG",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 110
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 111
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziGto peer @ 127.0.0.1:8000",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 111
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 112
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 112
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 113
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziGto peer @ 127.0.0.1:8001",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 113
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 114
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 114
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 59,
+                "userName2": 115
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51063",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 115
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 65,
+                "userName2": 116
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 116
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 65,
+                "userName2": 117
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName2",
+            "timestamp": 117
+        },
+        {
+            "clock": {
+                "userName1": 7,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName1",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 8,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID pYeehfKjpQQQfklAoAkDMdZQCIGoxZorBZLlKvwaYHpGDslygycAjovEkeNaLxRV to peer 127.0.0.1:8002",
+            "source": "userName0",
+            "destination": "userName1",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 9,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName0",
+            "destination": "userName1",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Sending Shout",
+            "source": "userName0",
+            "destination": "userName1",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 11,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51009",
+            "source": "userName0",
+            "destination": "userName1",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName0": 2,
+                "userName2": 3
+            },
+            "description": "ReceivePing",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 3
+        },
+        {
+            "clock": {
+                "userName0": 2,
+                "userName2": 4
+            },
+            "description": "INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8000",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 4
+        },
+        {
+            "clock": {
+                "userName0": 2,
+                "userName2": 5
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51002",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 5
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 6
+            },
+            "description": "ReceivePing",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 7
+            },
+            "description": "INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8001",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 8
+            },
+            "description": "Sending Shout",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Sending Shout",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 10
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51005",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 11
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 12
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51006",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 21
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 21
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 22
+            },
+            "description": "INFO-NS: Listening for messages to room testRoom",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 22
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 23
+            },
+            "description": "Requesting Message History",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 23
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 24
+            },
+            "description": "INFO-NS: Fetching message history. This is a locking call and might take a while.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 24
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Requesting Message History",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 25
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 26
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51013",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 26
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 27
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51014",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 27
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 39
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 39
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 40
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 40
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 41
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 41
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 42
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 42
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 43
+            },
+            "description": "Sending Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 43
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 44
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 44
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "Sending Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 45
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 46
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51021",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 46
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 47
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51022",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 47
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 27,
+                "userName2": 48
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 48
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 27,
+                "userName2": 49
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 49
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 34,
+                "userName2": 67
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 67
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 34,
+                "userName2": 68
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51031",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 68
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 69
+            },
+            "description": "Received request to send message history",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 69
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 70
+            },
+            "description": "INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8000 asked for history of roomNickname testRoom sending it over.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 70
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 71
+            },
+            "description": "INFO-NS-SendMessageHistory: sending 2 messages to 127.0.0.1:8000",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 71
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 72
+            },
+            "description": "Sending message history",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 72
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 73
+            },
+            "description": "INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID hktHGkJmAshVJuJFEVBJRJqgtUXUpXdfJDHQmHrfKPKnYqzoiWMNmBKalsmKsgfJ to peer @ 127.0.0.1:8000",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 73
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 74
+            },
+            "description": "Flooding request to send msg history",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 74
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 75
+            },
+            "description": "INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID hktHGkJmAshVJuJFEVBJRJqgtUXUpXdfJDHQmHrfKPKnYqzoiWMNmBKalsmKsgfJ to peer @ 127.0.0.1:8001",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 75
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 76
+            },
+            "description": "Flooding request to send msg history",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 76
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 77
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51035",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 77
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 86
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 86
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 87
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 87
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 88
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51044",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 88
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 89
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 89
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 90
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 90
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 91
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpL",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 91
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 92
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8000",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 92
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 93
+            },
+            "description": "Resending Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 93
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 94
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8001",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 94
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Resending Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 95
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 96
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51047",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 96
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 59,
+                "userName2": 106
+            },
+            "description": "Received Shout",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 106
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 59,
+                "userName2": 107
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51060",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 107
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 65,
+                "userName2": 116
+            },
+            "description": "Receiving Message",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 116
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 65,
+                "userName2": 117
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName0",
+            "destination": "userName2",
+            "timestamp": 117
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 6,
+                "userName2": 8
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName0",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 7,
+                "userName2": 8
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID gBymYeIPrCFiChegmqibmUCaRzlGpRHrSvqmOcszhnAIDmqkYNwjJGIVdNgUqpTj to peer 127.0.0.1:8002",
+            "source": "userName1",
+            "destination": "userName0",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 8
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName0",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 9,
+                "userName2": 8
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51008",
+            "source": "userName1",
+            "destination": "userName0",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 6
+            },
+            "description": "ReceivePing",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 7
+            },
+            "description": "INFO-NS-ReceivePing: Adding new incoming peer @ 127.0.0.1:8001",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 8
+            },
+            "description": "Sending Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Sending Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 2,
+                "userName2": 10
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51005",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 11
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 12
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51006",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 17,
+                "userName0": 12,
+                "userName2": 28
+            },
+            "description": "Received Message History",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 28
+        },
+        {
+            "clock": {
+                "userName1": 19,
+                "userName0": 12,
+                "userName2": 29
+            },
+            "description": "Received request to send message history",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 29
+        },
+        {
+            "clock": {
+                "userName1": 19,
+                "userName0": 12,
+                "userName2": 30
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51015",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 30
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 31
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 31
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 32
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 32
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 33
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqn",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 33
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 34
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8001",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 34
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "Resending Message",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 35
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 36
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8000",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 36
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 37
+            },
+            "description": "Resending Message",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 37
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 38
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51018",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 38
+        },
+        {
+            "clock": {
+                "userName1": 35,
+                "userName0": 28,
+                "userName2": 59
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 59
+        },
+        {
+            "clock": {
+                "userName1": 35,
+                "userName0": 28,
+                "userName2": 60
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51027",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 60
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 61
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 61
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 62
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8000",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 62
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 63
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 63
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 64
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8001",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 64
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 65
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 66
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51030",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 66
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 97
+            },
+            "description": "Receiving Message",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 97
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 98
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 98
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 99
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51056",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 99
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 100
+            },
+            "description": "Received Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 100
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 101
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8000",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 101
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 102
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 102
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 103
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8001",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 103
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 104
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 105
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51059",
+            "source": "userName1",
+            "destination": "userName2",
+            "timestamp": 105
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 6,
+                "userName2": 8
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 6
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 7,
+                "userName2": 8
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID gBymYeIPrCFiChegmqibmUCaRzlGpRHrSvqmOcszhnAIDmqkYNwjJGIVdNgUqpTj to peer 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 8,
+                "userName2": 8
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 2,
+                "userName0": 9,
+                "userName2": 8
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51008",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 7,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 7
+        },
+        {
+            "clock": {
+                "userName1": 8,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID pYeehfKjpQQQfklAoAkDMdZQCIGoxZorBZLlKvwaYHpGDslygycAjovEkeNaLxRV to peer 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 8
+        },
+        {
+            "clock": {
+                "userName1": 9,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 9
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "Sending Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 11,
+                "userName0": 2,
+                "userName2": 9
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51009",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 10,
+                "userName2": 17
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 10
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 11,
+                "userName2": 17
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID nTpgabjMYOBMRGWGDmroWdihfKAtRFqAAuhntmunlekUqUBauQDrbMHSfDJTrtuV to peer 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 11
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 12,
+                "userName2": 17
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 13,
+                "userName2": 17
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51011",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 13
+        },
+        {
+            "clock": {
+                "userName1": 12,
+                "userName0": 8,
+                "userName2": 19
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 12
+        },
+        {
+            "clock": {
+                "userName1": 13,
+                "userName0": 8,
+                "userName2": 19
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51012",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 13
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 14,
+                "userName2": 23
+            },
+            "description": "Received request to send message history",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 14
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 15,
+                "userName2": 23
+            },
+            "description": "INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8002 asked for history of room testRoom but I don't have this room here.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 15
+        },
+        {
+            "clock": {
+                "userName1": 10,
+                "userName0": 16,
+                "userName2": 23
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51017",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 16
+        },
+        {
+            "clock": {
+                "userName1": 14,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Received request to send message history",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 14
+        },
+        {
+            "clock": {
+                "userName1": 15,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-FetchMsgsHistory: peer @ 127.0.0.1:8002 asked for history of roomNickname testRoom sending it over.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 15
+        },
+        {
+            "clock": {
+                "userName1": 16,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-SendMessageHistory: sending 1 messages to 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 16
+        },
+        {
+            "clock": {
+                "userName1": 17,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Sending message history",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 17
+        },
+        {
+            "clock": {
+                "userName1": 18,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-RebroadcastMsgsHistoryRequest: attempted flood of history request with ID DXFwjnSEeAjOHPNjmQcxaZNcwFZlKLwEaGZtjNJRHlVTSjKUaqiLuPxnCXaclMpO to peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 18
+        },
+        {
+            "clock": {
+                "userName1": 19,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Flooding request to send msg history",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 19
+        },
+        {
+            "clock": {
+                "userName1": 20,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 20
+        },
+        {
+            "clock": {
+                "userName1": 21,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 21
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "Sending Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 22
+        },
+        {
+            "clock": {
+                "userName1": 23,
+                "userName0": 12,
+                "userName2": 25
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51016",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 23
+        },
+        {
+            "clock": {
+                "userName1": 24,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 24
+        },
+        {
+            "clock": {
+                "userName1": 25,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 25
+        },
+        {
+            "clock": {
+                "userName1": 26,
+                "userName0": 12,
+                "userName2": 35
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51020",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 26
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 17,
+                "userName2": 37
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 17
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 18,
+                "userName2": 37
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 18
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 19,
+                "userName2": 37
+            },
+            "description": "INFO-NS: received message from remote but there was no channel for roomNickname: testRoom",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 19
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 20,
+                "userName2": 37
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID kBegvKClAhFpaQukygALhXoaDnBadNwTTaQsHJmIShQIIgopXVeAyIjDkhFdwiqnto peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 20
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 21,
+                "userName2": 37
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 21
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 22,
+                "userName2": 37
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51019",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 22
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 23,
+                "userName2": 43
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 23
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 24,
+                "userName2": 43
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 24
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 25,
+                "userName2": 43
+            },
+            "description": "INFO-NS: received message from remote but there was no channel for roomNickname: testRoom",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 25
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 26,
+                "userName2": 43
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tGZoEeXMjlQodAWKaNDVKiNvlekIhonIxYYaSizwKYNAkrTLJMfvVQiQYNyESfMqto peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 26
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 27,
+                "userName2": 43
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 27
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 28,
+                "userName2": 43
+            },
+            "description": "Sending Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 28
+        },
+        {
+            "clock": {
+                "userName1": 22,
+                "userName0": 29,
+                "userName2": 43
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51024",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 29
+        },
+        {
+            "clock": {
+                "userName1": 27,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 27
+        },
+        {
+            "clock": {
+                "userName1": 28,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 28
+        },
+        {
+            "clock": {
+                "userName1": 29,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: VrcANXznUOfiqBhNsWuDVSMZJhZPqbJXPWbjUMqiFWCvkIVqNdHHvmoGPAMrOMpo",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 29
+        },
+        {
+            "clock": {
+                "userName1": 30,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID VrcANXznUOfiqBhNsWuDVSMZJhZPqbJXPWbjUMqiFWCvkIVqNdHHvmoGPAMrOMpoto peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 30
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 31
+        },
+        {
+            "clock": {
+                "userName1": 32,
+                "userName0": 21,
+                "userName2": 45
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51025",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 32
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 30,
+                "userName2": 55
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 30
+        },
+        {
+            "clock": {
+                "userName1": 31,
+                "userName0": 31,
+                "userName2": 55
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51028",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 31
+        },
+        {
+            "clock": {
+                "userName1": 33,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 33
+        },
+        {
+            "clock": {
+                "userName1": 34,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID lpgYLOTWCfGLZloqkAhNXScRlJZFnxhvdiyfexAlRhOFWPpxvCBErWxmZARFQZQB to peer 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 34
+        },
+        {
+            "clock": {
+                "userName1": 35,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 35
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "Sending Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 36
+        },
+        {
+            "clock": {
+                "userName1": 37,
+                "userName0": 28,
+                "userName2": 57
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51029",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 37
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 32,
+                "userName2": 63
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 32
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 33,
+                "userName2": 63
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID CspIAvzeXxVrzoiUvhTobTrffBTteqyHSTxkqInOGuqmfyUSBrCGXPdWsAHRWxYe to peer 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 33
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 34,
+                "userName2": 63
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 34
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 35,
+                "userName2": 63
+            },
+            "description": "INFO-NS: Listening for messages to room testRoom",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 35
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 36,
+                "userName2": 63
+            },
+            "description": "INFO-NS: Fetching message history. This is a locking call and might take a while.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 36
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 37,
+                "userName2": 63
+            },
+            "description": "Requesting Message History",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 37
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 38,
+                "userName2": 63
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51032",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 38
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 39,
+                "userName2": 63
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51033",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 39
+        },
+        {
+            "clock": {
+                "userName1": 38,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 38
+        },
+        {
+            "clock": {
+                "userName1": 39,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 39
+        },
+        {
+            "clock": {
+                "userName1": 40,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 40
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "Sending Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 41
+        },
+        {
+            "clock": {
+                "userName1": 42,
+                "userName0": 28,
+                "userName2": 65
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51037",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 42
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 40,
+                "userName2": 72
+            },
+            "description": "Received Message History",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 40
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 41,
+                "userName2": 72
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51034",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 41
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 42,
+                "userName2": 74
+            },
+            "description": "Received request to send message history",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 42
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 43,
+                "userName2": 76
+            },
+            "description": "Received request to send message history",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 43
+        },
+        {
+            "clock": {
+                "userName1": 36,
+                "userName0": 44,
+                "userName2": 76
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51036",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 44
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 45,
+                "userName2": 82
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 45
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 46,
+                "userName2": 82
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 46
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 47,
+                "userName2": 82
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTm",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 47
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 48,
+                "userName2": 82
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID HzBbDDkcJZBfjBjfqYioMbsgbsOiDnVflzChZZoQVBEpYUUBZkokcLJcPTGBkUTmto peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 48
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 49,
+                "userName2": 82
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 49
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 50,
+                "userName2": 82
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 50
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 51,
+                "userName2": 82
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 51
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 52,
+                "userName2": 82
+            },
+            "description": "Sending Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 52
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 53,
+                "userName2": 82
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51045",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 53
+        },
+        {
+            "clock": {
+                "userName1": 43,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 43
+        },
+        {
+            "clock": {
+                "userName1": 44,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 44
+        },
+        {
+            "clock": {
+                "userName1": 45,
+                "userName0": 37,
+                "userName2": 84
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51046",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 45
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 54,
+                "userName2": 93
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 54
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 55,
+                "userName2": 93
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 55
+        },
+        {
+            "clock": {
+                "userName1": 41,
+                "userName0": 56,
+                "userName2": 93
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51057",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 56
+        },
+        {
+            "clock": {
+                "userName1": 46,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 46
+        },
+        {
+            "clock": {
+                "userName1": 47,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 47
+        },
+        {
+            "clock": {
+                "userName1": 48,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpL",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 48
+        },
+        {
+            "clock": {
+                "userName1": 49,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID tbveoFLOZRRvTxVDiDmYucUDmlHBxrpUGKySlDjFmqBvHPYsoWPnqztHKNzhWVpLto peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 49
+        },
+        {
+            "clock": {
+                "userName1": 50,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 50
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "Sending Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 51
+        },
+        {
+            "clock": {
+                "userName1": 52,
+                "userName0": 52,
+                "userName2": 95
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51058",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 52
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 57,
+                "userName2": 102
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 57
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 58,
+                "userName2": 102
+            },
+            "description": "INFO-NS-RebroadcastShout: flooded shout with ID YbTnNHnqRdoGbLrVizFsAftDojSaIpUfplyfmEktPsDFkgQKsQjVuglFynGvqVxy to peer 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 58
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 59,
+                "userName2": 102
+            },
+            "description": "Rebroadcasting Shout",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 59
+        },
+        {
+            "clock": {
+                "userName1": 51,
+                "userName0": 60,
+                "userName2": 102
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51061",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 60
+        },
+        {
+            "clock": {
+                "userName1": 53,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "Received Shout",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 53
+        },
+        {
+            "clock": {
+                "userName1": 54,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "INFO-NS-SendMessage: Adding message with UniqueID to BroadcastedMessages.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 54
+        },
+        {
+            "clock": {
+                "userName1": 55,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "INFO-NS: Successfully sent message to room testRoom",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 55
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "Sending Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 56
+        },
+        {
+            "clock": {
+                "userName1": 57,
+                "userName0": 52,
+                "userName2": 104
+            },
+            "description": "INFO-NS-Serve: Accepted connection from 127.0.0.1:51062",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 57
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 61,
+                "userName2": 112
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 61
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 62,
+                "userName2": 112
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message never seen before, passing it and rebroadcasting.",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 62
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 63,
+                "userName2": 112
+            },
+            "description": "INFO-NS: received message from remote, gave it to server: AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziG",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 63
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 64,
+                "userName2": 112
+            },
+            "description": "INFO-NS-RebroadcastReceivedMessage: flooded msg with ID AbwSePzQlypcUVfiJDTHaSjAKFvuFexCPmdYfKLYLrosULgjqdEXDbVzQVdhrziGto peer @ 127.0.0.1:8002",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 64
+        },
+        {
+            "clock": {
+                "userName1": 56,
+                "userName0": 65,
+                "userName2": 112
+            },
+            "description": "Resending Message",
+            "source": "userName2",
+            "destination": "userName0",
+            "timestamp": 65
+        },
+        {
+            "clock": {
+                "userName1": 58,
+                "userName0": 59,
+                "userName2": 114
+            },
+            "description": "Receiving Message",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 58
+        },
+        {
+            "clock": {
+                "userName1": 59,
+                "userName0": 59,
+                "userName2": 114
+            },
+            "description": "INFO-NS-ReceiveSendMessage: Message was seen before, doing nothing.",
+            "source": "userName2",
+            "destination": "userName1",
+            "timestamp": 59
+        }
+    ]
+}

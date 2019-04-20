@@ -1,0 +1,81 @@
+(?<host>\S*) (?<clock>{.*})\n(?<event>.*)
+
+
+10_0_0_82_7000 {"10_0_0_82_7000":1}
+Initialization Complete
+10_0_0_82_7000 {"clientlib_10_0_0_82_64000_pid_60175":2, "10_0_0_82_7000":2}
+Register client lib
+10_0_0_82_7000 {"10_0_0_82_7000":3, "clientlib_10_0_0_82_64000_pid_60175":3}
+Received a post from client lib
+10_0_0_82_7000 {"10_0_0_82_7000":4, "clientlib_10_0_0_82_64000_pid_60175":3}
+Sending off a message
+10_0_0_82_7000 {"10_0_0_82_7000":5, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7002":3}
+Received a relay message: confirmation message session key ...c03dc5fa8d
+10_0_0_82_7000 {"10_0_0_82_7000":6, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7002":6, "10_0_0_82_7001":3}
+Received a relay message: confirmation message session key ...c03dc5fa8d
+10_0_0_82_7000 {"clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7002":8, "10_0_0_82_7001":6, "59998_host":7, "60025_host":2, "10_0_0_82_7000":7}
+Received a relay message: host confirmation - session key ...c03dc5fa8d
+10_0_0_82_7001 {"10_0_0_82_7001":1}
+Initialization Complete
+10_0_0_82_7001 {"10_0_0_82_7001":2, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3}
+Received a relay message: initial post message - session key c03dc5fa8d
+10_0_0_82_7001 {"clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7001":3, "10_0_0_82_7000":4, "10_0_0_82_7002":4}
+Sending off a message
+10_0_0_82_7001 {"10_0_0_82_7001":4, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3}
+Sending off a message
+10_0_0_82_7001 {"60025_host":2, "10_0_0_82_7001":5, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "59998_host":7}
+Received a relay message: host confirmation - session key ...c03dc5fa8d
+10_0_0_82_7001 {"60025_host":2, "10_0_0_82_7001":6, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "59998_host":7}
+Sending off a message
+10_0_0_82_7002 {"10_0_0_82_7002":1}
+Initialization Complete
+10_0_0_82_7002 {"10_0_0_82_7000":4, "10_0_0_82_7002":2, "clientlib_10_0_0_82_64000_pid_60175":3}
+Received a relay message: initial post message - session key c03dc5fa8d
+10_0_0_82_7002 {"10_0_0_82_7002":3, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7000":4}
+Sending off a message
+10_0_0_82_7002 {"10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7000":4}
+Sending off a message
+10_0_0_82_7002 {"10_0_0_82_7002":5, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7000":4, "10_0_0_82_7001":3}
+Received a relay message: confirmation message session key ...c03dc5fa8d
+10_0_0_82_7002 {"10_0_0_82_7002":6, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7000":4, "10_0_0_82_7001":3}
+Sending off a message
+10_0_0_82_7002 {"10_0_0_82_7002":7, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7000":4, "10_0_0_82_7001":6, "59998_host":7, "60025_host":2}
+Received a relay message: host confirmation - session key ...c03dc5fa8d
+10_0_0_82_7002 {"10_0_0_82_7002":8, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7000":4, "10_0_0_82_7001":6, "59998_host":7, "60025_host":2}
+Sending off a message
+10_0_0_82_7003 {"10_0_0_82_7003":1}
+Initialization Complete
+10_0_0_82_7004 {"10_0_0_82_7004":1}
+Initialization Complete
+59998_host {"59998_host":1}
+Initialization Complete
+59998_host {"59998_host":2}
+INFO-We are a primary host
+59998_host {"59998_host":3}
+Prepare to register with the server
+59998_host {"60025_host":2, "59998_host":4}
+Received a registration request from replica
+59998_host {"59998_host":5, "60025_host":2, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7001":4}
+Received a relay message: initial post message - session key c03dc5fa8d
+59998_host {"59998_host":6, "60025_host":2, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7001":4}
+Ask replica to back up the post
+59998_host {"10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7001":4, "59998_host":7, "60025_host":2}
+Sending off a message
+60025_host {"60025_host":1}
+Initialization Complete
+60025_host {"60025_host":2}
+Sending a register request to replica
+60025_host {"60025_host":3}
+INFO-We are a replica host
+60025_host {"60025_host":4, "10_0_0_82_7000":4, "10_0_0_82_7002":4, "clientlib_10_0_0_82_64000_pid_60175":3, "10_0_0_82_7001":4, "59998_host":6}
+Backing up the post
+clientlib_10_0_0_82_64000_pid_60175 {"clientlib_10_0_0_82_64000_pid_60175":1}
+Initialization Complete
+clientlib_10_0_0_82_64000_pid_60175 {"clientlib_10_0_0_82_64000_pid_60175":2}
+Register with client node
+clientlib_10_0_0_82_64000_pid_60175 {"clientlib_10_0_0_82_64000_pid_60175":3}
+Send a post to client node
+server {"server":1}
+Initialization Complete
+server {"server":2, "59998_host":3}
+Prepare to register host
