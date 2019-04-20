@@ -1,5 +1,3 @@
-(?<host>\S*) (?<clock>{.*})\n(?<event>.*)
-
 Miner1 {"Miner1":1}
 Initialization Complete
 Miner1 {"Miner1":2}
